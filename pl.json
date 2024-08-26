@@ -1,0 +1,580 @@
+{
+    "appName": "Wygodne Zwroty",
+  
+    "firstExplainer": {
+        "title": "Witaj w aplikacji Wygodne Zwroty",
+        "header": "Tu nadasz zwrot do każdego sklepu internetowego w Polsce!",
+        "bullet1": "Wybierz sklep z listy",
+        "bullet2": "Nadaj przesyłkę wybraną firmą kurierską - przez Paczkomat InPost, w Żabce i wielu innych punktach.",
+        "bullet3": "Zanieś do punktu nadania i gotowe.",
+        "servicesSection": "Tak nadasz swoją przesyłkę"
+    },
+
+    "secondExplainer": {
+        "title": "Śledź swoje przesyłki zwrotne",
+        "description": "Możesz na bieżąco monitorować drogę swoich zwrotów. Dzięki temu zawsze będziesz mieć aktualne informacje o statusie swoich przesyłek zwrotnych"
+    },
+
+    "thirdExplainer": {
+        "title": "Korzystaj z pakietów zwrotów, by oszczędzać pieniądze i czas!",
+        "bullet1": "Kupując zwroty w pakiecie oszczędzasz już od pierwszej przesyłki",
+        "bullet2": "Zwroty z pakietu możesz udostępniać bliskim",
+        "bullet3": "Najlepsza cena - bezpośrednio w InPost pojedynczy zwrot to koszt nawet 25,99 zł, w Wygodnych Zwrotach ceny zaczynają się od 10,97 zł",
+        "button": "Rozpocznij"
+    },
+
+    "login": {
+        "title": "Rozpocznij korzystanie z aplikacji Wygodne Zwroty",
+        "description": "Zweryfikujemy Twój adres e‑mail, by dać Ci możliwość wygodnego i bezpiecznego tworzenia zwrotów do sklepów internetowych.",
+        "withAppleButton": "Kontynuuj przez Apple ID",
+        "withGoogleButton": "Kontynuuj przez Google",
+        "withFacebookButton": "Kontynuuj przez Facebook",
+        "withEmailButton": "Kontynuuj przez e‑mail",
+        "withAllegroButton": "Kontynuuj przez Allegro",
+        "withMicrosoftButton": "Kontynuuj przez Microsoft",
+        "loggedInAsMessage": "Zalogowano jako {}"
+    },
+  
+    "loginWithEmail": {
+        "title": "Podaj swój adres e‑mail",
+        "field": "E‑mail",
+        "checkboxAll": "Zaznacz wszystkie zgody",
+        "emailErrorMessage": "Wprowadzono nieprawidłowy adres email",
+        "regulationsErrorMessage": "Aby utworzyć konto należy zaakceptować wszystkie wymagane zgody"
+    },
+
+    "loginVerify": {
+        "title": "Weryfikacja adresu e‑mail",
+        "description": "Na Twój adres e‑mail wysłaliśmy kod weryfikacyjny. Wprowadź otrzymany kod.",
+        "emailLabel": "E‑mail: ",
+        "codeField": "Wpisz kod weryfikacyjny",
+        "notReceivedButton": "E‑mail nie dotarł?",
+        "anotherEmailButton": "Chcę podać inny e‑mail",
+        "passwordButton": "Chcę zalogować się hasłem",
+        "codeSentMessage": "Wysłaliśmy kod na podany adres e‑mail",
+        "codeResentMessage": "Kod aktywacyjny został wysłany ponownie",
+        "emailErrorMessage": "Wprowadzono nieprawidłowy adres email",
+        "codeErrorMessage": "Wprowadzono nieprawidłowy kod weryfikacyjny"
+    },
+    
+    "loginAnotherEmail": {
+        "title": "Podaj inny adres e‑mail",
+        "field": "E‑mail",
+        "button": "Zmień adres e‑mail"
+    },
+
+    "loginEmailNotReceived": {
+        "title": "E‑mail nie dotarł",
+        "text": "1. Sprawdź folder spam.\n2. Odczekaj 15 minut i sprawdź ponownie.\n3. Lub ",
+        "button": "wyślij kod weryfikacyjny ponownie."
+    },
+    
+    "loginWithPassword": {
+        "title": "Logowanie do aplikacji Wygodne Zwroty",
+        "fieldEmail": "E‑mail",
+        "fieldPassword": "Hasło",
+        "forgotButton": "Nie pamiętasz hasła?",
+        "emailErrorMessage": "Wprowadzono nieprawidłowy adres email",
+        "passwordErrorMessage": "Należy wprowadzić hasło"
+    },
+
+    "completeUserInfo": {
+        "title": "Dane do zwrotów",
+        "description": "Wypełnij jeszcze tylko swoje dane, które będą wykorzystywane do zwrotów. I gotowe! Na swoim koncie, możesz dodać więcej profili do zwrotów.",
+        "fieldLabelSender": "Nadawca",
+        "fieldHintSender": "Imię i nazwisko lub nazwa firmy",
+        "fieldPhoneNumber": "Nr telefonu",
+        "fieldEmail": "E‑mail",
+        "successMessage": "Dane zostały zapisane",
+        "nameErrorMessage": "Należy wprowadzić imię i nazwisko lub nazwę firmy",
+        "phoneErrorMessage": "Wprowadzono nieprawidłowy numer telefonu"
+    },
+
+    "account": {
+        "barTitle": "Moje konto",
+        "email": "E‑mail",
+        "clientData": "Twoje dane",
+        "bankAccountNumber": "Numer konta bankowego",
+        "invoiceData": "Dane do faktur",
+        "appTheme": "Motyw aplikacji",
+        "appLanguage": "Język aplikacji",
+        "notifications": "Powiadomienia",
+        "marketingRegulations": "Zgody marketingowe",
+        "accountManagement": "Zarządzanie kontem",
+        "deleteAccount": "Usuń konto",
+        "logout": "Wyloguj się",
+        "manage": "Zarządzaj"
+    },
+
+    "themeSettings": {
+        "system": "Systemowy",
+        "light": "Jasny",
+        "dark": "Ciemny"
+    },
+
+    "languageSettings": {
+        "pl": "Polski"
+    },
+
+    "profileList": {
+        "addNew": "Dodaj nowy profil",
+        "deleteDialogTitle": "Usunąć profil?",
+        "deleteDialogMessage": "Czy na pewno chcesz usunąć wybrany profil?",
+        "deleteSuccessMessage": "Dane zostały usunięte"
+    },
+    
+    "profileEdit": {
+        "newProfile": "Nowy profil do zwrotów",
+        "editProfile": "Edytuj profil do zwrotów",
+        "fieldLabelSender": "Nadawca",
+        "fieldHintSender": "Imię i nazwisko lub nazwa firmy",
+        "fieldPhoneNumber": "Nr telefonu",
+        "fieldLabelEmail": "E‑mail (opcjonalnie)",
+        "fieldHintEmail": "E‑mail",
+        "defaultCheckbox": "Ustaw jako profil domyślny",
+        "insertProfileButton": "Wstaw z profili",
+        "fieldDescriptionEmail": "Wypełnij, jeśli jest inny niż Twój domyślny e-mail: {}. Wtedy wyślemy Ci tu informacje o przesyłce.",
+        "fieldDescriptionEmailDisabled": "Ten e-mail został wykorzystany do utworzenia zamówienia w sklepie {}. Nie ma możliwości jego zmiany. Kod zwrotu znajdziesz w swojej aplikacji Wygodne Zwroty, wyślemy go także na ten adres e-mail.",
+        "successMessage": "Dane zostały zapisane",
+        "emailErrorMessage": "Wprowadzono nieprawidłowy adres email",
+        "nameErrorMessage": "Należy wprowadzić imię i nazwisko lub nazwę firmy",
+        "phoneErrorMessage": "Wprowadzono nieprawidłowy numer telefonu"
+    },
+
+    "bankAccountList": {
+        "addNew": "Dodaj nowy numer konta",
+        "deleteDialogTitle": "Usunąć numer konta?",
+        "deleteDialogMessage": "Czy na pewno chcesz usunąć wybrany numer konta?",
+        "deleteSuccessMessage": "Dane zostały usunięte"
+    },
+
+    "bankAccountEdit": {
+        "newAccount": "Nowy numer konta bankowego",
+        "editAccount": "Edytuj numer konta bankowego",
+        "fieldAccountNumber": "Numer konta bankowego",
+        "successMessage": "Dane zostały zapisane",
+        "accountNumberErrorMessage": "Wprowadzono nieprawidłowy numer konta bankowego"
+    },
+
+    "invoiceList": {
+        "nip": "NIP",
+        "addNew": "Dodaj nowe dane do faktur",
+        "deleteDialogTitle": "Usunąć dane do faktur?",
+        "deleteDialogMessage": "Czy na pewno chcesz usunąć wybrane dane do faktur?",
+        "deleteSuccessMessage": "Dane zostały usunięte"
+    },
+
+    "invoiceEdit": {
+        "newData": "Nowe dane do faktur",
+        "editData": "Edytuj dane do faktur",
+        "fieldNIP": "NIP",
+        "fieldCompanyName": "Nazwa firmy",
+        "fieldFullName": "Imię i nazwisko",
+        "fieldStreet": "Ulica i numer",
+        "fieldPostalCode": "Kod pocztowy",
+        "fieldCity": "Miejscowość",
+        "defaultData": "Dane domyślne",
+        "successMessage": "Dane zostały zapisane",
+        "nameErrorMessage": "Należy wprowadzić imię i nazwisko lub nazwę firmy",
+        "addressErrorMessage": "Należy wprowadzić ulicę i numer",
+        "postalCodeErrorMessage": "Wprowadzono nieprawidłowy kod pocztowy",
+        "cityErrorMessage": "Należy wprowadzić nazwę miejscowości",
+        "nipErrorMessage": "Należy wprowadzić NIP"
+    },
+
+    "myPackets": {
+        "barTitle": "Moje pakiety",
+        "noPacket": {
+            "description1": "Przygotowaliśmy dla Ciebie pakiety zwrotów, dzięki którym oszczędzisz na wysyłce.",
+            "description2": "Przez Wygodne Zwroty zwrócisz zamówienie do każdego sklepu internetowego w Polsce.",
+            "bulletPoint1": "Kupując pakiet, oszczędzasz już przy pierwszym zwrocie",
+            "bulletPoint2": "Zwroty z pakietu możesz udostępniać bliskim",
+            "bulletPoint3": "Najlepsza cena - bezpośrednio w InPost pojedynczy zwrot to koszt nawet 25,99 zł",
+            "recoverUnused": "Jeśli nie wykorzystasz przesyłek z pakietu do {}, możesz odzyskać wszystkie niewykorzystane środki",
+            "button": "Poznaj pakiety zwrotów i oszczędzaj"
+        },
+        "withPacket": {
+            "returnsLeft": "Moje Zwroty w pakiecie",
+            "buyMoreButton": "Kup kolejne zwroty",
+            "description1": "Aby nadać przesyłkę korzystając z pakietu, podczas płatności jako metodę zapłaty wybierz Pakiet zwrotów.",
+            "packetCode": "Sprawdź kod pakietu",
+            "description2": "Dowiedz się więcej o Pakietach Zwrotów. Sprawdź ",
+            "questionsLink": "Często zadawane pytania",
+            "createReturnButton": "Utwórz przesyłkę zwrotną",
+            "packetCodeCopiedMessage": "Kod pakietu został skopiowany do schowka "
+        }
+    },
+
+    "newPacket": {
+        "title": "Wybierz pakiet zwrotów",
+        "barTitle": "Zakup pakietu",
+        "step1": "Wybór pakietu",
+        "step2": "Podsumowanie",
+        "noneSelectedError": "Wybierz pakiet zwrotów",
+        "paymentErrorMessage": "Błąd płatności",
+        "noPaymentMethodError": "Wybierz metodę płatności",
+        "successMessage": "Pakiet zwrotów został dodany do Twojego konta",
+        "summary": {
+            "title": "Podsumowanie",
+            "emailLabel": "Twój e-mail",
+            "invoiceCheckbox": "Chcę otrzymać fakturę VAT",
+            "selectedPacket": "Wybrany pakiet zwrotów",
+            "count": {
+                "one": "{} zwrot do dowolnych sklepów internetowych w Polsce przez Wygodne Zwroty",
+                "few": "{} zwroty do dowolnych sklepów internetowych w Polsce przez Wygodne Zwroty",
+                "many": "{} zwrotów do dowolnych sklepów internetowych w Polsce przez Wygodne Zwroty",
+                "other": "{} zwrotów do dowolnych sklepów internetowych w Polsce przez Wygodne Zwroty"
+            },
+            "benefits": "Korzyści przy zakupie pakietu zwrotów",
+            "bullet1": "Kupując pakiet, oszczędzasz już przy pierwszym zwrocie",
+            "bullet2": "Zwroty z pakietu możesz udostępniać bliskim",
+            "bullet3Part1": "To taniej o ",
+            "bullet3Part2": {
+                "one": " w porównaniu z nadaniem {} najtańszego zwrotu bezpośrednio w InPost!",
+                "few": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!",
+                "many": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!",
+                "other": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!"
+            },
+            "recoverUnused": "Jeśli nie wykorzystasz przesyłek z pakietu do {}, możesz odzyskać wszystkie niewykorzystane środki",
+            "numberOfReturns": "Liczba zwrotów",
+            "amountToPay": "Łączna kwota do zapłaty",
+            "brutto": "brutto",
+            "paymentMethod": "Metoda płatności",
+            "showMoreMethods": "Pokaż więcej metod płatności"
+        }
+    },
+
+    "packetListItem": {
+        "recommended": "Wybrany dla Ciebie",
+        "checkbox": "Dodaję pakiet do zamówienia",
+        "forReturn": "za zwrot",
+        "forPacket": "za pakiet",
+        "savings": "Oszczędzasz {}",
+        "count": {
+            "one": "Wygodny Zwrot\nInPost Paczkomat",
+            "few": "Wygodne Zwroty\nInPost Paczkomat",
+            "many": "Wygodnych Zwrotów\nInPost Paczkomat",
+            "other": "Wygodnych Zwrotów\nInPost Paczkomat"
+        }
+    },
+
+    "orderListEmpty": {
+        "title": "Dzień dobry, {}",
+        "createDescription": "Gdy nadasz swój pierwszy zwrot, w tym miejscu pojawi się informacja o jego statusie.",
+        "createButton": "Utwórz zwrot",
+        "packagesDescription": "Chcesz zacząć oszczędzać na zwrotach już od pierwszej przesyłki? Poznaj nasze pakiety zwrotów",
+        "packagesButton": "Poznaj pakiety"
+    },
+
+    "orderList": {
+        "barTitle": "Moje zwroty",
+        "recreateButton": "Utwórz taki sam zwrot"
+    },
+
+    "instantReturn": {
+        "title": "Nowy zwrot do sklepu {}",
+        "message": "W kolejnym kroku poprosimy Cię o uzupełnienie informacji o zwracanym zamówieniu.",
+        "createButton": "Tworzę zwrot",
+        "restoreButton": "Przywróć",
+        "weightAndSize": "Waga i wymiary"
+    },
+
+    "packageParams": {
+        "title": "Parametry przesyłki",
+        "type": "Jak zapakowana jest Twoja przesyłka",
+        "foil-package": "Foliopak",
+        "delivery-package": "Pudełko kartonowe",
+        "foil-package-short": "Foliopak",
+        "delivery-package-short": "Pudełko",
+        "weight": "Ile waży Twoja przesyłka",
+        "weightTo": "do {} kg",
+        "size": "Podaj wymiary przesyłki",
+        "length": "Długość",
+        "width": "Szerokość",
+        "height": "Wysokość",
+        "typeErrorMessage": "Wybierz jak zapakowana jest Twoja przesyłka",
+        "weightErrorMessage": "Wybierz wagę przesyłki",
+        "lengthErrorMessage": "Wprowadź długość przesyłki",
+        "widthErrorMessage": "Wprowadź szerokość przesyłki",
+        "heightErrorMessage": "Wprowadź wysokość przesyłki"
+    },
+
+    "maxPackageSize": {
+        "prefix": "max.",
+        "inpostreturn": "41 cm x 38 cm x 64 cm, 25 kg",
+        "dhlreturn": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturn": "najdłuższy bok 150 cm, 31,5 kg",
+        "dpdreturnlocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "glspolandreturn": "najdłuższy bok 200 cm",
+        "dhlreturnwithlabel": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturnwithlabel": "najdłuższy bok 150 cm, 31,5 kg",
+        "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "dpdreturnnolabelcourier": "najdłuższy bok 150 cm, 31,5 kg",
+        "dpdreturnwithlabelcourier": "najdłuższy bok 150 cm, 31,5 kg",
+        "orlenreturn": "",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+
+    "serviceDescription": {
+        "inpostreturn": "Przesyłkę nadasz bez etykiety w dowolnym w automacie Paczkomat InPost",
+        "dhlreturn": "Przesyłkę bez etykiety zanieś do dogodnego dla Ciebie punktu DHL POP: Żabka, Inmedio, Relay, 1minute, oddziały DHL.",
+        "dpdreturn": "Przesyłkę bez etykiety zanieś do dowolnego sklepu Żabka lub innego punktu z sieci DPD Pickup.",
+        "dpdreturnlocker": "Umieść przesyłkę bez etykiety w dowolnym automacie paczkowym DPD. Pamiętaj, że do otwarcia skrytki niezbędna jest aplikacja DPD Mobile.",
+        "glspolandreturn": "Przesyłkę zanieś do dogodnego dla Ciebie punktu GLS: Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS.",
+        "dhlreturnwithlabel": "Przesyłkę z etykietą zanieś do dogodnego dla Ciebie punktu DHL POP: Żabka, Inmedio, Relay, 1minute, oddziały DHL.",
+        "dpdreturnwithlabel": "Przesyłkę z etykietą zanieś do dowolnego sklepu Żabka lub innego punktu z sieci DPD Pickup.",
+        "dpdreturnwithlabellocker": "Umieść przesyłkę z etykietą w dowolnym automacie paczkowym DPD. Pamiętaj, że do otwarcia skrytki niezbędna jest aplikacja DPD Mobile.",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Przesyłkę bez etykiety zanieś do dogodnego dla Ciebie kiosku RUCHu (punktu ORLEN Paczka).",
+        "orlenreturnwithlabel": "Przesyłkę z etykietą zanieś do dogodnego dla Ciebie punktu ORLEN Paczka.",
+        "pocztareturn": "Przesyłkę zanieś do dowolnej placówki Poczty Polskiej, z wyjątkiem agencji pocztowych."
+    },
+
+    "serviceDescriptionAdditional": {
+        "inpostreturn": "",
+        "dhlreturn": "Ważne: Niektóre punkty wyłączone są z sieci DHL POP. Przed wizytą w punkcie, sprawdź jego dostępność.",
+        "dpdreturn": "",
+        "dpdreturnlocker": "",
+        "glspolandreturn": "Ważne: Pamiętaj, by przed wizytą w punkcie, sprawdzić jego dostępność.",
+        "dhlreturnwithlabel": "Ważne: Niektóre punkty wyłączone są z sieci DHL POP. Przed wizytą w punkcie, sprawdź jego dostępność.",
+        "dpdreturnwithlabel": "",
+        "dpdreturnwithlabellocker": "",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Ważne: Kioski i sklepiki RUCHu to punkty ORLEN Paczka, w których nadasz przesyłkę bez etykiety. Są one oznaczone na mapie jako PSD.",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+
+    "orderDetails": {
+        "barTitle": "Szczegóły zwrotu",
+        "returnInfo": "Informacje o zwrocie",
+        "mailboxInfo": "Zwrot do sklepu",
+        "clientInfo": "Twoje dane",
+        "historySection": "Historia przesyłki",
+        "codeLabel": "Kod zwrotu",
+        "codeDescription": "Kod zwrotu napisz na przesyłce. Usuń inne etykiety z przesyłki.",
+        "qrCodeDescription": "Aby otworzyć skrytkę podaj kod zwrotu lub zeskanuj kod QR.",
+        "qrCodeZoom": "Dotknij, aby powiększyć",
+        "returnDetails": "Szczegóły zwrotu",
+        "product": "Produkt",
+        "packageInfo": "Informacje o przesyłce",
+        "maxPackageSize": "Max parametry",
+        "weightAndSize": "Waga i wymiary",
+        "shippingCost": "Koszty przesyłki",
+        "paymentMethod": "Metoda płatności",
+        "invoiceData": "Dane do faktury"
+    },
+
+    "mailboxSearch": {
+        "description": "Wyszukaj sklep, do którego chcesz zwrócić towar i łatwo nadaj paczkę",
+        "field": "Wyszukaj sklep",
+        "recentSection": "Ostatnie zwroty"
+    },
+    
+    "newOrderBar": {
+        "title": "Nowy zwrot",
+        "step1": "Twoja przesyłka",
+        "step2": "Zamówienie",
+        "step3": "Podsumowanie"
+    },
+  
+    "serviceSelection": {
+        "title": "Wybierz firmę kurierską",
+        "description": "Paczkę nadasz bez etykiety w automacie lub punkcie, a kurier doręczy ją na adres sklepu.",
+        "detailsButton": "Szczegóły ofert",
+        "moreButton": "Pokaż więcej form zwrotu",
+        "voucherButton": "Mam kod rabatowy",
+        "voucherField": "Kod rabatowy",
+        "addVoucherButton": "Dodaj",
+        "removeVoucherButton": "Usuń",
+        "voucherSuccessMessage": "Pomyślnie dodano kod rabatowy",
+        "withPacket": "Przesyłka z użyciem zwrotu z pakietu",
+        "withPacketDescription": "Jeśli nie chcesz korzystać z pakietu, w podsumowaniu zmień metodę płatności.",
+        "errorMessage": "Wybierz firmę kurierską",
+        "packetCount": {
+            "one": "Twój pakiet: 1 zwrot",
+            "few": "Twój pakiet: {} zwroty",
+            "many": "Twój pakiet: {} zwrotów",
+            "other": "Twój pakiet: {} zwrotów"
+        }
+    },
+
+    "packetSelection": {
+        "title": "Dodaj pakiet do zamówienia i oszczędzaj zwracając do swoich ulubionych sklepów",
+        "descriptionRegular1": "Przez Wygodne Zwroty zwrócisz zamówienie ",
+        "descriptionBold": "do każdego sklepu internetowego",
+        "descriptionRegular2": " w Polsce.",
+        "bullet1": "Kupując pakiet, oszczędzasz już teraz, nadając zwrot do sklepu {}",
+        "bullet2": "Zwroty z pakietu możesz udostępniać bliskim",
+        "bullet3": "Najlepsza cena - bezpośrednio w InPost pojedynczy zwrot to koszt nawet 25,99 zł",
+        "moreButton": "Pokaż inne pakiety"
+    },
+
+    "newOrderInfo": {
+        "title": "Informacje o zamówieniu",
+        "optional": " (opcjonalnie)",
+        "bankAccountTitle": "Zwrot pieniędzy",
+        "bankAccountDescription": "Zwrot otrzymasz tą samą metodą, którą zrealizowana była płatność za zamówienie. Jeśli nie będzie to możliwe, zwrócimy Ci środki na konto wskazane przez Ciebie poniżej.",
+        "requiredFieldErrorMessage": "Pole \"{}\" jest wymagane",
+        "bankAccountErrorMessage": "Podaj poprawny numer konta"
+    },
+  
+    "newOrderSummary": {
+        "title": "Podsumowanie",
+        "box": "Paczka",
+        "packageInfo": "Waga i wymiary",
+        "packageMax": "Maksymalne parametry",
+        "mailboxSection": "Zwrot do sklepu",
+        "clientSection": "Twoje dane",
+        "orderInfoSection": "Informacje o zamówieniu",
+        "deliveryCost": "Koszt przesyłki",
+        "brutto": "brutto",
+        "packetTile": {
+            "count": {
+                "one": "{} zwrot do dowolnych sklepów internetowych w Polsce przez Wygodne Zwroty",
+                "few": "{} zwroty do dowolnych sklepów internetowych w Polsce przez Wygodne Zwroty",
+                "many": "{} zwrotów do dowolnych sklepów internetowych w Polsce przez Wygodne Zwroty",
+                "other": "{} zwrotów do dowolnych sklepów internetowych w Polsce przez Wygodne Zwroty"
+            },
+            "benefits": "Korzyści przy zakupie pakietu zwrotów",
+            "bullet1": "Kupując pakiet, oszczędzasz już przy pierwszym zwrocie",
+            "bullet2": "Zwroty z pakietu możesz udostępniać bliskim",
+            "bullet3Part1": "To taniej o ",
+            "bullet3Part2": {
+                "one": " w porównaniu z nadaniem {} najtańszego zwrotu bezpośrednio w InPost!",
+                "few": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!",
+                "many": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!",
+                "other": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!"
+            },
+            "recoverUnused": "Jeśli nie wykorzystasz przesyłek z pakietu do {}, możesz odzyskać wszystkie niewykorzystane środki"
+        },
+        "numberOfReturns": "Liczba zwrotów",
+        "amountToPay": "Łączna kwota do zapłaty",
+        "xTimesReturn": " x zwrot ",
+        "paymentSection": "Metoda płatności",
+        "moreButton": "Więcej",
+        "lessButton": "Mniej",
+        "payButton": "Zamawiam i płacę {}",
+        "payPacketButton": "Zamawiam korzystając z pakietu",
+        "createButton": "Utwórz przesyłkę",
+        "packetPayment": "Pakiet zwrotów",
+        "noPaymentMethodErrorMessage": "Wybierz metodę płatności",
+        "regulationsErrorMessage": "Należy zaakceptować wymagane regulaminy przewoźnika",
+        "paymentErrorMessage": "Błąd płatności",
+        "orderCreationSuccess": "Zamówienie zostało przyjęte"
+    },
+
+    "blikSheet": {
+        "title": "Metoda płatności",
+        "blik": "BLIK",
+        "withCode": "Z kodem",
+        "codeFieldDescription": "Wprowadź 6 cyfrowy kod Blik wygenerowany w Twojej aplikacji bankowej.",
+        "codeFieldLabel": "Kod BLIK",
+        "regulation1": "Płacąc akceptuję ",
+        "regulationLink1": "regulamin",
+        "regulation2": " PayPro S.A. W procesie płatności administratorem Twoich danych osobowych jest PayPro S.A. ",
+        "regulationLink2": "Przeczytaj całość",
+        "payButton": "Zamawiam i płacę {}",
+        "errorButton": "Spróbuj ponownie",
+        "confirmation": {
+            "title": "Potwierdź płatność za przesyłkę w aplikacji bankowej",
+            "description": "Jeśli tego nie zrobisz, płatność za przesyłkę nie zostanie zrealizowana."
+        }
+    },
+
+    "firstCall": {
+        "barTitle": "Oferta powitalna",
+        "title": "Dzień dobry, {}",
+        "description1": "Cieszymy się, że korzystasz z Wygodnych Zwrotów. Żeby docenić Twoją obecność, przygotowaliśmy dla Ciebie ",
+        "descriptionBold": "Pakiet Zwrotów na Powitanie",
+        "description2": " w bardzo atrakcyjnej cenie!",
+        "description3": "Przez Wygodne Zwroty nadasz zwrot do każdego sklepu internetowego w Polsce",
+        "welcomeOffer": "Oferta Powitalna",
+        "onlyInApp": "Zwroty z pakietu powitalnego wykorzystasz wyłącznie w aplikacji Wygodne Zwroty",
+        "codeFieldDescription": "Wprowadź 6 cyfrowy kod Blik wygenerowany w Twojej aplikacji bankowej.",
+        "bullet1": "Oferta jednorazowa",
+        "bullet2": "Dostępna wyłącznie w aplikacji",
+        "bullet3": "Długi termin ważności zwrotów z pakietu - aż 6 miesięcy od momentu zakupu",
+        "availableFor": "Oferta ważna jeszcze {}",
+        "remindMeButton": "Przypomnij mi później",
+        "buyButton": "Brzmi nieźle, kupuję pakiet",
+        "tile": {
+            "onlyInApp": "Tylko w aplikacji",
+            "availableFor": "Koniec za {}",
+            "returns": "{} zwroty InPost Paczkomat"
+        }
+    },
+
+    "invoiceDataSection": {
+        "checkbox": "Chcę otrzymać fakturę VAT",
+        "header": "Dane do faktury"
+    },
+
+    "orderStatus": {
+        "created": "Utworzona",
+        "deleted": "Usunięta",
+        "awaitingApproval": "Oczekuje na akceptację",
+        "rejected": "Odrzucona",
+        "canceled": "Anulowana",
+        "readyToSend": "Gotowa do nadania",
+        "paid": "Opłacona",
+        "processingError": "Błąd przetwarzania",
+        "shipped": "Nadana",
+        "inTransit": "W drodze",
+        "returnToSender": "Zwrot do nadawcy",
+        "returned": "Zwrócona",
+        "outForDelivery": "W doręczeniu",
+        "awaitingPickup": "Czeka na odbior w punkcie",
+        "delivered": "Doręczona"
+    },
+
+    "orderEvent": {
+        "created": "Przesyłka utworzona",
+        "deleted": "Przesyłka usunięta",
+        "awaitingApproval": "Przesyłka oczekuje na akceptację",
+        "rejected": "Przesyłka odrzucona",
+        "canceled": "Przesyłka anulowana",
+        "readyToSend": "Przesyłka czeka na nadanie",
+        "paid": "Przesyłka opłacona",
+        "processingError": "Błąd przetwarzania",
+        "shipped": "Przesyłka nadana",
+        "inTransit": "Przesyłka w drodze",
+        "returnToSender": "Zwrot do nadawcy",
+        "returned": "Przesyłka zwrócona",
+        "outForDelivery": "Przekazana do doręczenia",
+        "awaitingPickup": "Przesyłka czeka na odbior w punkcie",
+        "delivered": "Przesyłka doręczona"
+    },
+  
+    "navigationBar": {
+        "orderList": "Moje zwroty",
+        "newOrder": "Nowy zwrot",
+        "packets": "Pakiet zwrotów",
+        "account": "Moje konto"
+    },
+
+    "common": {
+        "nextButton": "Przejdź dalej",
+        "saveButton": "Zapisz",
+        "editButton": "Edytuj",
+        "deleteButton": "Usuń",
+        "changeButton": "Zmień",
+        "selectButton": "Wybierz",
+        "confirmButton": "Zatwierdź",
+        "cancelButton": "Anuluj",
+        "skipButton": "Pomiń",
+        "or": "lub",
+        "errorOccurred": "Wystąpił błąd",
+        "fromDate": "od {}",
+        "expand": "Rozwiń",
+        "collapse": "Zwiń",
+        "optionalRegulation": " (opcjonalne)",
+        "default": "Domyślny",
+        "step": "Krok {} z {}",
+        "kg": "kg",
+        "cm": "cm"
+    }
+  }
