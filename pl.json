@@ -106,6 +106,13 @@
         "manage": "Zarządzaj"
     },
 
+    "deleteAccount": {
+        "dialogTitle": "Usuń konto",
+        "dialogBody": "Czy na pewno chcesz usunąć swoje konto w serwisie Wygodne Zwroty?",
+        "emailTitle": "Usunięcie konta w serwisie Wygodne Zwroty",
+        "emailBody": "Proszę o usunięcie mojego konta w serwisie Wygodne Zwroty.\n\nMój adres e-mail, na który zostało założone konto to: {}"
+    },
+
     "themeSettings": {
         "system": "Systemowy",
         "light": "Jasny",
