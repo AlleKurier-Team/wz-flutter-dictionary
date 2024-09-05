@@ -189,7 +189,7 @@
             "description2": "Dowiedz się więcej o Pakietach Zwrotów. Sprawdź ",
             "questionsLink": "Często zadawane pytania",
             "createReturnButton": "Utwórz przesyłkę zwrotną",
-            "packetCodeCopiedMessage": "Kod pakietu został skopiowany do schowka "
+            "packetCodeCopiedMessage": "Kod pakietu został skopiowany do schowka"
         }
     },
     "newPacket": {
@@ -332,7 +332,9 @@
         "mailboxInfo": "Zwrot do sklepu",
         "clientInfo": "Twoje dane",
         "historySection": "Historia przesyłki",
-        "codeLabel": "Kod zwrotu",
+        "returnCodeLabel": "Kod zwrotu",
+        "trackingNumberLabel": "Nr przesyłki",
+        "trackingNumberCopiedMessage": "Numer przesyłki został skopiowany do schowka",
         "codeDescription": "Kod zwrotu napisz na przesyłce. Usuń inne etykiety z przesyłki.",
         "qrCodeDescription": "Aby otworzyć skrytkę podaj kod zwrotu lub zeskanuj kod QR.",
         "qrCodeZoom": "Dotknij, aby powiększyć",
