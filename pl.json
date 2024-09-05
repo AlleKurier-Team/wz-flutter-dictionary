@@ -1,6 +1,5 @@
 {
     "appName": "Wygodne Zwroty",
-  
     "firstExplainer": {
         "title": "Witaj w aplikacji Wygodne Zwroty",
         "header": "Tu nadasz zwrot do każdego sklepu internetowego w Polsce!",
@@ -9,12 +8,10 @@
         "bullet3": "Zanieś do punktu nadania i gotowe.",
         "servicesSection": "Tak nadasz swoją przesyłkę"
     },
-
     "secondExplainer": {
         "title": "Śledź swoje przesyłki zwrotne",
         "description": "Możesz na bieżąco monitorować drogę swoich zwrotów. Dzięki temu zawsze będziesz mieć aktualne informacje o statusie swoich przesyłek zwrotnych"
     },
-
     "thirdExplainer": {
         "title": "Korzystaj z pakietów zwrotów, by oszczędzać pieniądze i czas!",
         "bullet1": "Kupując zwroty w pakiecie oszczędzasz już od pierwszej przesyłki",
@@ -22,7 +19,6 @@
         "bullet3": "Najlepsza cena - bezpośrednio w InPost pojedynczy zwrot to koszt nawet 25,99 zł, w Wygodnych Zwrotach ceny zaczynają się od 10,97 zł",
         "button": "Rozpocznij"
     },
-
     "login": {
         "title": "Rozpocznij korzystanie z aplikacji Wygodne Zwroty",
         "description": "Zweryfikujemy Twój adres e‑mail, by dać Ci możliwość wygodnego i bezpiecznego tworzenia zwrotów do sklepów internetowych.",
@@ -34,7 +30,6 @@
         "withMicrosoftButton": "Kontynuuj przez Microsoft",
         "loggedInAsMessage": "Zalogowano jako {}"
     },
-  
     "loginWithEmail": {
         "title": "Podaj swój adres e‑mail",
         "field": "E‑mail",
@@ -42,7 +37,6 @@
         "emailErrorMessage": "Wprowadzono nieprawidłowy adres email",
         "regulationsErrorMessage": "Aby utworzyć konto należy zaakceptować wszystkie wymagane zgody"
     },
-
     "loginVerify": {
         "title": "Weryfikacja adresu e‑mail",
         "description": "Na Twój adres e‑mail wysłaliśmy kod weryfikacyjny. Wprowadź otrzymany kod.",
@@ -56,19 +50,16 @@
         "emailErrorMessage": "Wprowadzono nieprawidłowy adres email",
         "codeErrorMessage": "Wprowadzono nieprawidłowy kod weryfikacyjny"
     },
-    
     "loginAnotherEmail": {
         "title": "Podaj inny adres e‑mail",
         "field": "E‑mail",
         "button": "Zmień adres e‑mail"
     },
-
     "loginEmailNotReceived": {
         "title": "E‑mail nie dotarł",
         "text": "1. Sprawdź folder spam.\n2. Odczekaj 15 minut i sprawdź ponownie.\n3. Lub ",
         "button": "wyślij kod weryfikacyjny ponownie."
     },
-    
     "loginWithPassword": {
         "title": "Logowanie do aplikacji Wygodne Zwroty",
         "fieldEmail": "E‑mail",
@@ -77,7 +68,6 @@
         "emailErrorMessage": "Wprowadzono nieprawidłowy adres email",
         "passwordErrorMessage": "Należy wprowadzić hasło"
     },
-
     "completeUserInfo": {
         "title": "Dane do zwrotów",
         "description": "Wypełnij jeszcze tylko swoje dane, które będą wykorzystywane do zwrotów. I gotowe! Na swoim koncie, możesz dodać więcej profili do zwrotów.",
@@ -89,7 +79,6 @@
         "nameErrorMessage": "Należy wprowadzić imię i nazwisko lub nazwę firmy",
         "phoneErrorMessage": "Wprowadzono nieprawidłowy numer telefonu"
     },
-
     "account": {
         "barTitle": "Moje konto",
         "email": "E‑mail",
@@ -105,31 +94,28 @@
         "logout": "Wyloguj się",
         "manage": "Zarządzaj"
     },
-
     "deleteAccount": {
         "dialogTitle": "Usuń konto",
         "dialogBody": "Czy na pewno chcesz usunąć swoje konto w serwisie Wygodne Zwroty?",
         "emailTitle": "Usunięcie konta w serwisie Wygodne Zwroty",
-        "emailBody": "Proszę o usunięcie mojego konta w serwisie Wygodne Zwroty.\n\nMój adres e-mail, na który zostało założone konto to: {}"
+        "emailBody": "Proszę o usunięcie mojego konta w serwisie Wygodne Zwroty.\n\nMój adres e-mail, na który zostało założone konto to: {}",
+        "noEmailMessage1": "Aby usunąć swoje konto wyślij wiadomość e‑mail na adres",
+        "noEmailMessage2": "o przykładowej treści:"
     },
-
     "themeSettings": {
         "system": "Systemowy",
         "light": "Jasny",
         "dark": "Ciemny"
     },
-
     "languageSettings": {
         "pl": "Polski"
     },
-
     "profileList": {
         "addNew": "Dodaj nowy profil",
         "deleteDialogTitle": "Usunąć profil?",
         "deleteDialogMessage": "Czy na pewno chcesz usunąć wybrany profil?",
         "deleteSuccessMessage": "Dane zostały usunięte"
     },
-    
     "profileEdit": {
         "newProfile": "Nowy profil do zwrotów",
         "editProfile": "Edytuj profil do zwrotów",
@@ -147,14 +133,12 @@
         "nameErrorMessage": "Należy wprowadzić imię i nazwisko lub nazwę firmy",
         "phoneErrorMessage": "Wprowadzono nieprawidłowy numer telefonu"
     },
-
     "bankAccountList": {
         "addNew": "Dodaj nowy numer konta",
         "deleteDialogTitle": "Usunąć numer konta?",
         "deleteDialogMessage": "Czy na pewno chcesz usunąć wybrany numer konta?",
         "deleteSuccessMessage": "Dane zostały usunięte"
     },
-
     "bankAccountEdit": {
         "newAccount": "Nowy numer konta bankowego",
         "editAccount": "Edytuj numer konta bankowego",
@@ -162,7 +146,6 @@
         "successMessage": "Dane zostały zapisane",
         "accountNumberErrorMessage": "Wprowadzono nieprawidłowy numer konta bankowego"
     },
-
     "invoiceList": {
         "nip": "NIP",
         "addNew": "Dodaj nowe dane do faktur",
@@ -170,7 +153,6 @@
         "deleteDialogMessage": "Czy na pewno chcesz usunąć wybrane dane do faktur?",
         "deleteSuccessMessage": "Dane zostały usunięte"
     },
-
     "invoiceEdit": {
         "newData": "Nowe dane do faktur",
         "editData": "Edytuj dane do faktur",
@@ -188,7 +170,6 @@
         "cityErrorMessage": "Należy wprowadzić nazwę miejscowości",
         "nipErrorMessage": "Należy wprowadzić NIP"
     },
-
     "myPackets": {
         "barTitle": "Moje pakiety",
         "noPacket": {
@@ -211,7 +192,6 @@
             "packetCodeCopiedMessage": "Kod pakietu został skopiowany do schowka "
         }
     },
-
     "newPacket": {
         "title": "Wybierz pakiet zwrotów",
         "barTitle": "Zakup pakietu",
@@ -250,7 +230,6 @@
             "showMoreMethods": "Pokaż więcej metod płatności"
         }
     },
-
     "packetListItem": {
         "recommended": "Wybrany dla Ciebie",
         "checkbox": "Dodaję pakiet do zamówienia",
@@ -264,7 +243,6 @@
             "other": "Wygodnych Zwrotów\nInPost Paczkomat"
         }
     },
-
     "orderListEmpty": {
         "title": "Dzień dobry, {}",
         "createDescription": "Gdy nadasz swój pierwszy zwrot, w tym miejscu pojawi się informacja o jego statusie.",
@@ -272,12 +250,10 @@
         "packagesDescription": "Chcesz zacząć oszczędzać na zwrotach już od pierwszej przesyłki? Poznaj nasze pakiety zwrotów",
         "packagesButton": "Poznaj pakiety"
     },
-
     "orderList": {
         "barTitle": "Moje zwroty",
         "recreateButton": "Utwórz taki sam zwrot"
     },
-
     "instantReturn": {
         "title": "Nowy zwrot do sklepu {}",
         "message": "W kolejnym kroku poprosimy Cię o uzupełnienie informacji o zwracanym zamówieniu.",
@@ -285,7 +261,6 @@
         "restoreButton": "Przywróć",
         "weightAndSize": "Waga i wymiary"
     },
-
     "packageParams": {
         "title": "Parametry przesyłki",
         "type": "Jak zapakowana jest Twoja przesyłka",
@@ -305,7 +280,6 @@
         "widthErrorMessage": "Wprowadź szerokość przesyłki",
         "heightErrorMessage": "Wprowadź wysokość przesyłki"
     },
-
     "maxPackageSize": {
         "prefix": "max.",
         "inpostreturn": "41 cm x 38 cm x 64 cm, 25 kg",
@@ -322,7 +296,6 @@
         "orlenreturnwithlabel": "",
         "pocztareturn": ""
     },
-
     "serviceDescription": {
         "inpostreturn": "Przesyłkę nadasz bez etykiety w dowolnym w automacie Paczkomat InPost",
         "dhlreturn": "Przesyłkę bez etykiety zanieś do dogodnego dla Ciebie punktu DHL POP: Żabka, Inmedio, Relay, 1minute, oddziały DHL.",
@@ -338,7 +311,6 @@
         "orlenreturnwithlabel": "Przesyłkę z etykietą zanieś do dogodnego dla Ciebie punktu ORLEN Paczka.",
         "pocztareturn": "Przesyłkę zanieś do dowolnej placówki Poczty Polskiej, z wyjątkiem agencji pocztowych."
     },
-
     "serviceDescriptionAdditional": {
         "inpostreturn": "",
         "dhlreturn": "Ważne: Niektóre punkty wyłączone są z sieci DHL POP. Przed wizytą w punkcie, sprawdź jego dostępność.",
@@ -354,7 +326,6 @@
         "orlenreturnwithlabel": "",
         "pocztareturn": ""
     },
-
     "orderDetails": {
         "barTitle": "Szczegóły zwrotu",
         "returnInfo": "Informacje o zwrocie",
@@ -374,20 +345,17 @@
         "paymentMethod": "Metoda płatności",
         "invoiceData": "Dane do faktury"
     },
-
     "mailboxSearch": {
         "description": "Wyszukaj sklep, do którego chcesz zwrócić towar i łatwo nadaj paczkę",
         "field": "Wyszukaj sklep",
         "recentSection": "Ostatnie zwroty"
     },
-    
     "newOrderBar": {
         "title": "Nowy zwrot",
         "step1": "Twoja przesyłka",
         "step2": "Zamówienie",
         "step3": "Podsumowanie"
     },
-  
     "serviceSelection": {
         "title": "Wybierz firmę kurierską",
         "description": "Paczkę nadasz bez etykiety w automacie lub punkcie, a kurier doręczy ją na adres sklepu.",
@@ -408,7 +376,6 @@
             "other": "Twój pakiet: {} zwrotów"
         }
     },
-
     "packetSelection": {
         "title": "Dodaj pakiet do zamówienia i oszczędzaj zwracając do swoich ulubionych sklepów",
         "descriptionRegular1": "Przez Wygodne Zwroty zwrócisz zamówienie ",
@@ -419,7 +386,6 @@
         "bullet3": "Najlepsza cena - bezpośrednio w InPost pojedynczy zwrot to koszt nawet 25,99 zł",
         "moreButton": "Pokaż inne pakiety"
     },
-
     "newOrderInfo": {
         "title": "Informacje o zamówieniu",
         "optional": " (opcjonalnie)",
@@ -428,7 +394,6 @@
         "requiredFieldErrorMessage": "Pole \"{}\" jest wymagane",
         "bankAccountErrorMessage": "Podaj poprawny numer konta"
     },
-  
     "newOrderSummary": {
         "title": "Podsumowanie",
         "box": "Paczka",
@@ -473,7 +438,6 @@
         "paymentErrorMessage": "Błąd płatności",
         "orderCreationSuccess": "Zamówienie zostało przyjęte"
     },
-
     "blikSheet": {
         "title": "Metoda płatności",
         "blik": "BLIK",
@@ -491,7 +455,6 @@
             "description": "Jeśli tego nie zrobisz, płatność za przesyłkę nie zostanie zrealizowana."
         }
     },
-
     "firstCall": {
         "barTitle": "Oferta powitalna",
         "title": "Dzień dobry, {}",
@@ -514,12 +477,10 @@
             "returns": "{} zwroty InPost Paczkomat"
         }
     },
-
     "invoiceDataSection": {
         "checkbox": "Chcę otrzymać fakturę VAT",
         "header": "Dane do faktury"
     },
-
     "orderStatus": {
         "created": "Utworzona",
         "deleted": "Usunięta",
@@ -537,7 +498,6 @@
         "awaitingPickup": "Czeka na odbior w punkcie",
         "delivered": "Doręczona"
     },
-
     "orderEvent": {
         "created": "Przesyłka utworzona",
         "deleted": "Przesyłka usunięta",
@@ -555,14 +515,12 @@
         "awaitingPickup": "Przesyłka czeka na odbior w punkcie",
         "delivered": "Przesyłka doręczona"
     },
-  
     "navigationBar": {
         "orderList": "Moje zwroty",
         "newOrder": "Nowy zwrot",
         "packets": "Pakiet zwrotów",
         "account": "Moje konto"
     },
-
     "common": {
         "nextButton": "Przejdź dalej",
         "saveButton": "Zapisz",
@@ -573,6 +531,7 @@
         "confirmButton": "Zatwierdź",
         "cancelButton": "Anuluj",
         "skipButton": "Pomiń",
+        "copyButton": "Kopiuj",
         "or": "lub",
         "errorOccurred": "Wystąpił błąd",
         "fromDate": "od {}",
@@ -584,4 +543,4 @@
         "kg": "kg",
         "cm": "cm"
     }
-  }
+}
