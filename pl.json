@@ -451,6 +451,7 @@
         "regulation2": " PayPro S.A. W procesie płatności administratorem Twoich danych osobowych jest PayPro S.A. ",
         "regulationLink2": "Przeczytaj całość",
         "payButton": "Zamawiam i płacę {}",
+        "selectApp": "Wybierz aplikację, którą chcesz zapłacić",
         "errorButton": "Spróbuj ponownie",
         "confirmation": {
             "title": "Potwierdź płatność za przesyłkę w aplikacji bankowej",
