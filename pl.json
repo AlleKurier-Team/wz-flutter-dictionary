@@ -442,8 +442,9 @@
     },
     "blikSheet": {
         "title": "Metoda płatności",
-        "blik": "BLIK",
+        "blik": "Blik",
         "withCode": "Z kodem",
+        "withoutCode": "Bez kodu",
         "codeFieldDescription": "Wprowadź 6 cyfrowy kod Blik wygenerowany w Twojej aplikacji bankowej.",
         "codeFieldLabel": "Kod BLIK",
         "regulation1": "Płacąc akceptuję ",
@@ -453,11 +454,12 @@
         "regulation3": "(KRS 0000347935), 60-327 Poznań (Polska), Kancelarska 15, +48 61 642 93 44, ",
         "regulationLink2": ". Zobacz pełną treść klauzuli informacyjnej.",
         "payButton": "Zamawiam i płacę {}",
-        "selectApp": "Wybierz aplikację, którą chcesz zapłacić",
+        "noCodeDescription": "Przejdź dalej klikając przycisk zamawiam i płacę, a w następnym kroku potwierdź płatność w swojej aplikacji bankowej",
+        "selectApp": "Wybierz konto bankowe, z którego chcesz dokonać płatności",
         "errorButton": "Spróbuj ponownie",
         "confirmation": {
-            "title": "Potwierdź płatność za przesyłkę w aplikacji bankowej",
-            "description": "Jeśli tego nie zrobisz, płatność za przesyłkę nie zostanie zrealizowana."
+            "title": "Potwierdź płatność w aplikacji bankowej",
+            "description": "Jeśli tego nie zrobisz, płatność nie zostanie zrealizowana."
         }
     },
     "firstCall": {
