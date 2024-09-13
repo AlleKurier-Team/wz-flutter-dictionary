@@ -254,6 +254,9 @@
         "barTitle": "Moje zwroty",
         "recreateButton": "Utwórz taki sam zwrot"
     },
+    "notifications": {
+        "barTitle": "Powiadomienia"
+    },
     "instantReturn": {
         "title": "Nowy zwrot do sklepu {}",
         "message": "W kolejnym kroku poprosimy Cię o uzupełnienie informacji o zwracanym zamówieniu.",
@@ -429,8 +432,6 @@
         "amountToPay": "Łączna kwota do zapłaty",
         "xTimesReturn": " x zwrot ",
         "paymentSection": "Metoda płatności",
-        "moreButton": "Więcej",
-        "lessButton": "Mniej",
         "payButton": "Zamawiam i płacę {}",
         "payPacketButton": "Zamawiam korzystając z pakietu",
         "createButton": "Utwórz przesyłkę",
@@ -539,6 +540,8 @@
         "cancelButton": "Anuluj",
         "skipButton": "Pomiń",
         "copyButton": "Kopiuj",
+        "moreButton": "Więcej",
+        "lessButton": "Mniej",
         "or": "lub",
         "errorOccurred": "Wystąpił błąd",
         "fromDate": "od {}",
