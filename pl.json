@@ -255,7 +255,8 @@
         "recreateButton": "Utwórz taki sam zwrot"
     },
     "notifications": {
-        "barTitle": "Powiadomienia"
+        "barTitle": "Powiadomienia",
+        "empty": "Brak powiadomień"
     },
     "instantReturn": {
         "title": "Nowy zwrot do sklepu {}",
