@@ -170,6 +170,11 @@
         "cityErrorMessage": "Należy wprowadzić nazwę miejscowości",
         "nipErrorMessage": "Należy wprowadzić NIP"
     },
+    "notificationSettings": {
+        "barTitle": "Zarządzaj powiadomieniami",
+        "push": "Powiadomienia push",
+        "successMessage": "Ustawienia zostały zapisane"
+    },
     "myPackets": {
         "barTitle": "Moje pakiety",
         "noPacket": {
@@ -584,6 +589,7 @@
         "lessButton": "Mniej",
         "or": "lub",
         "errorOccurred": "Wystąpił błąd",
+        "errorConnection": "Brak połączenia z serwerem",
         "fromDate": "od {}",
         "expand": "Rozwiń",
         "collapse": "Zwiń",
