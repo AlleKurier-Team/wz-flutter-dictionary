@@ -173,7 +173,9 @@
     "notificationSettings": {
         "barTitle": "Zarządzaj powiadomieniami",
         "push": "Powiadomienia push",
-        "successMessage": "Ustawienia zostały zapisane"
+        "successMessage": "Ustawienia zostały zapisane",
+        "settingsButton": "Ustawienia",
+        "settingsDialogMessage": "Aby otrzymywać powiadomienia, wyraź zgodę na ich wysyłanie w ustawieniach systemu."
     },
     "myPackets": {
         "barTitle": "Moje pakiety",
