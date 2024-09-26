@@ -362,7 +362,17 @@
     "mailboxSearch": {
         "description": "Wyszukaj sklep, do którego chcesz zwrócić towar i łatwo nadaj paczkę",
         "field": "Wyszukaj sklep",
-        "recentSection": "Ostatnie zwroty"
+        "recentSection": "Ostatnie zwroty",
+        "suggestStoreMessage": "Sklepu, którego szukasz nie ma na liście?\nSpróbuj wpisać adres www sklepu jak np. twojsklep.pl. Jeśli sklep dalej nie pojawia się w wynikach wyszukiwania, daj znam znać, a dodamy sklep do Wygodnych Zwrotów.",
+        "suggestStoreButton": "Zgłoś sklep",
+        "bottomSheet": {
+            "title": "Zgłoś sklep do Wygodnych Zwrotów",
+            "fieldLabel": "Adres strony internetowej sklepu",
+            "fieldHint": "Np. www.twojsklep.pl",
+            "description": "Zazwyczaj dodajemy sklep w ciągu 24h, w dni robocze. Po dodaniu sklepu wyślemy Ci powiadomienie na Twój adres e-mail.",
+            "button": "Wyślij zgłoszenie",
+            "successMessage": "Otrzymaliśmy Twoje zgłoszenie. Wyślemy Ci wiadomość e-mail, gdy sklep zostanie dodany."
+        }
     },
     "newOrderBar": {
         "title": "Nowy zwrot",
