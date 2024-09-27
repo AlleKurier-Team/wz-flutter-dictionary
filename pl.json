@@ -357,7 +357,9 @@
         "weightAndSize": "Waga i wymiary",
         "shippingCost": "Koszty przesyłki",
         "paymentMethod": "Metoda płatności",
-        "invoiceData": "Dane do faktury"
+        "invoiceData": "Dane do faktury",
+        "retryPaymentButton": "Opłać przesyłkę",
+        "retryPaymentDescription": "Przesyłka nie została opłacona. Dokonaj płatności, by móc nadać swój zwrot."
     },
     "mailboxSearch": {
         "description": "Wyszukaj sklep, do którego chcesz zwrócić towar i łatwo nadaj paczkę",
