@@ -258,8 +258,43 @@
         "packagesButton": "Poznaj pakiety"
     },
     "orderList": {
-        "barTitle": "Moje zwroty",
-        "recreateButton": "Utwórz taki sam zwrot"
+        "barTitle": "Moje zwroty"
+    },
+    "orderDetails": {
+        "barTitle": "Szczegóły zwrotu",
+        "returnInfo": "Informacje o zwrocie",
+        "mailboxInfo": "Zwrot do sklepu",
+        "clientInfo": "Twoje dane",
+        "historySection": "Historia przesyłki",
+        "returnCodeLabel": "Kod zwrotu",
+        "returnCodeValidUntil": "Kod ważny do {}",
+        "trackingNumberLabel": "Nr przesyłki",
+        "trackingNumberCopiedMessage": "Numer przesyłki został skopiowany do schowka",
+        "codeDescription": "Kod zwrotu napisz na przesyłce. Usuń inne etykiety z przesyłki.",
+        "qrCodeDescription": "Aby otworzyć skrytkę podaj kod zwrotu lub zeskanuj kod QR.",
+        "qrCodeZoom": "Dotknij, aby powiększyć",
+        "returnDetails": "Szczegóły zwrotu",
+        "product": "Produkt",
+        "packageInfo": "Informacje o przesyłce",
+        "maxPackageSize": "Max parametry",
+        "weightAndSize": "Waga i wymiary",
+        "shippingCost": "Koszty przesyłki",
+        "paymentMethod": "Metoda płatności",
+        "invoiceData": "Dane do faktury",
+        "retryPaymentButton": "Opłać przesyłkę",
+        "retryPaymentDescription": "Przesyłka nie została opłacona. Dokonaj płatności, by móc nadać swój zwrot."
+    },
+    "orderOptions": {
+        "recreateButton": "Utwórz taki sam zwrot",
+        "cancelButton": "Anuluj przesyłkę",
+        "deleteButton": "Usuń przesyłkę z listy zwrotów",
+        "deleteDialog": {
+            "title": "Usunięcie przesyłki z listy zwrotów",
+            "message": "Czy na pewno chcesz usunąć przesyłkę z listy zwrotów? Operacji nie mona cofnąć.",
+            "yesButton": "Tak, chcę usunąć przesyłkę",
+            "noButton": "Nie, zostawiam przesyłkę",
+            "successMessage": "Przesyłka została usunięta z listy zwrotów"
+        }
     },
     "notifications": {
         "barTitle": "Powiadomienia",
@@ -336,30 +371,6 @@
         "orlenreturn": "Ważne: Kioski i sklepiki RUCHu to punkty ORLEN Paczka, w których nadasz przesyłkę bez etykiety. Są one oznaczone na mapie jako PSD.",
         "orlenreturnwithlabel": "",
         "pocztareturn": ""
-    },
-    "orderDetails": {
-        "barTitle": "Szczegóły zwrotu",
-        "returnInfo": "Informacje o zwrocie",
-        "mailboxInfo": "Zwrot do sklepu",
-        "clientInfo": "Twoje dane",
-        "historySection": "Historia przesyłki",
-        "returnCodeLabel": "Kod zwrotu",
-        "returnCodeValidUntil": "Kod ważny do {}",
-        "trackingNumberLabel": "Nr przesyłki",
-        "trackingNumberCopiedMessage": "Numer przesyłki został skopiowany do schowka",
-        "codeDescription": "Kod zwrotu napisz na przesyłce. Usuń inne etykiety z przesyłki.",
-        "qrCodeDescription": "Aby otworzyć skrytkę podaj kod zwrotu lub zeskanuj kod QR.",
-        "qrCodeZoom": "Dotknij, aby powiększyć",
-        "returnDetails": "Szczegóły zwrotu",
-        "product": "Produkt",
-        "packageInfo": "Informacje o przesyłce",
-        "maxPackageSize": "Max parametry",
-        "weightAndSize": "Waga i wymiary",
-        "shippingCost": "Koszty przesyłki",
-        "paymentMethod": "Metoda płatności",
-        "invoiceData": "Dane do faktury",
-        "retryPaymentButton": "Opłać przesyłkę",
-        "retryPaymentDescription": "Przesyłka nie została opłacona. Dokonaj płatności, by móc nadać swój zwrot."
     },
     "mailboxSearch": {
         "description": "Wyszukaj sklep, do którego chcesz zwrócić towar i łatwo nadaj paczkę",
