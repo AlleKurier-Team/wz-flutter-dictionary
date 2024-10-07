@@ -467,7 +467,9 @@
         "bankAccountTitle": "Zwrot pieniędzy",
         "bankAccountDescription": "Zwrot otrzymasz tą samą metodą, którą zrealizowana była płatność za zamówienie. Jeśli nie będzie to możliwe, zwrócimy Ci środki na konto wskazane przez Ciebie poniżej.",
         "requiredFieldErrorMessage": "Pole \"{}\" jest wymagane",
-        "bankAccountErrorMessage": "Podaj poprawny numer konta"
+        "bankAccountErrorMessage": "Podaj poprawny numer konta",
+        "addProduct": "Dodaj kolejny produkt",
+        "removeProduct": "Usuń produkt"
     },
     "newOrderSummary": {
         "title": "Podsumowanie",
