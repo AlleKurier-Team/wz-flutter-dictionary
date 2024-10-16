@@ -90,6 +90,8 @@
         "notifications": "Powiadomienia",
         "marketingRegulations": "Zgody marketingowe",
         "accountManagement": "Zarządzanie kontem",
+        "help": "Pomoc",
+        "helpAndContact": "Pomoc i kontakt",
         "deleteAccount": "Usuń konto",
         "logout": "Wyloguj się",
         "manage": "Zarządzaj"
@@ -176,6 +178,20 @@
         "successMessage": "Ustawienia zostały zapisane",
         "settingsButton": "Ustawienia",
         "settingsDialogMessage": "Aby otrzymywać powiadomienia, wyraź zgodę na ich wysyłanie w ustawieniach systemu."
+    },
+    "help": {
+        "cancelReturnHeader": "Jak mogę anulować przesyłkę i otrzymać zwrot środków?Jak mogę anulować przesyłkę i otrzymać zwrot środków?",
+        "cancelReturnText": "Aby anulować przesyłkę i otrzymać zwrot środków skontaktuj się z nami mailowo: wsparcie@wygodnezwroty.pl. W treści wiadomości daj znam znać jaki jest kod zwrotu lub numer przesyłki. Środki za przesyłkę zwrócimy Ci w ciągu 14 dni, tą samą metodą, jaką zrealizowana była płatność.\nJeśli Twoja przesyłka była utworzona w ramach pakietu zwrotów, zwrot wróci do puli w ciągu 14 dni.",
+        "cancelPacketHeader": "Jak zrezygnować z pakietu zwrotów?",
+        "cancelPacketText": "Aby zrezygnować z pakietu zwrotów i otrzymać zwrot środków, skontaktuj się z nami mailowo: wsparcie@wygodnezwroty.pl. W treści wiadomości daj nam znać, na jaki adres e-mail został zakupiony pakiet zwrotów. Środki za pakiet zwrócimy Ci tą samą metodą, jaką zrealizowana była płatność.",
+        "appErrorHeader": "Moja aplikacja nie działa poprawnie",
+        "appErrorText": "Jeśli masz problem z działaniem aplikacji mobilnej Wygodne Zwroty, skontaktuj się z nami mailowo: wsparcie@wygodnezwroty.pl. Prosimy, opisz nam dokładnie na czym polega problem. Załącz również zrzut ekranu. Twoja odpowiedź, pomoże nam szybciej zlokalizować źródło usterki i ją rozwiązać. W międzyczasie zamknij i ponownie otwórz aplikację, a następnie spróbuj wykonać operację, podczas której występował problem.",
+        "otherQuestions": "Jeśli nie widzisz odpowiedzi na swoje pytanie, skontaktuj się z nami.",
+        "email": "wsparcie@wygodnezwroty.pl",
+        "emailCopied": "Adres e‑mail został skopiowany do schowka",
+        "phoneNumber": "12 345 00 50",
+        "phoneNumberCopied": "Numer telefonu został skopiowany do schowka",
+        "workingHours": "Centrum Wsparcia Klienta jest do Twojej dyspozycji od poniedziałku do piątku w godzinach 8:00-16:00"
     },
     "myPackets": {
         "barTitle": "Moje pakiety",
