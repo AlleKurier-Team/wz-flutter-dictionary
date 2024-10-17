@@ -158,6 +158,8 @@
     "invoiceEdit": {
         "newData": "Nowe dane do faktur",
         "editData": "Edytuj dane do faktur",
+        "typeCompany": "Firma",
+        "typePerson": "Osoba prywatna",
         "fieldNIP": "NIP",
         "fieldCompanyName": "Nazwa firmy",
         "fieldFullName": "Imię i nazwisko",
