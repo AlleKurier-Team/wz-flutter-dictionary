@@ -183,7 +183,7 @@
     },
     "help": {
         "cancelReturnHeader": "Jak mogę anulować przesyłkę i otrzymać zwrot środków?",
-        "cancelReturnText": "Aby anulować przesyłkę i otrzymać zwrot środków skontaktuj się z nami mailowo: wsparcie@wygodnezwroty.pl. W treści wiadomości daj znam znać jaki jest kod zwrotu lub numer przesyłki. Środki za przesyłkę zwrócimy Ci w ciągu 14 dni, tą samą metodą, jaką zrealizowana była płatność.\nJeśli Twoja przesyłka była utworzona w ramach pakietu zwrotów, zwrot wróci do puli w ciągu 14 dni.",
+        "cancelReturnText": "Aby anulować przesyłkę i otrzymać zwrot środków skontaktuj się z nami mailowo: wsparcie@wygodnezwroty.pl. W treści wiadomości daj nam znać jaki jest kod zwrotu lub numer przesyłki. Środki za przesyłkę zwrócimy Ci w ciągu 14 dni, tą samą metodą, jaką zrealizowana była płatność.\nJeśli Twoja przesyłka była utworzona w ramach pakietu zwrotów, zwrot wróci do puli w ciągu 14 dni.",
         "cancelPacketHeader": "Jak zrezygnować z pakietu zwrotów?",
         "cancelPacketText": "Aby zrezygnować z pakietu zwrotów i otrzymać zwrot środków, skontaktuj się z nami mailowo: wsparcie@wygodnezwroty.pl. W treści wiadomości daj nam znać, na jaki adres e-mail został zakupiony pakiet zwrotów. Środki za pakiet zwrócimy Ci tą samą metodą, jaką zrealizowana była płatność.",
         "appErrorHeader": "Moja aplikacja nie działa poprawnie",
