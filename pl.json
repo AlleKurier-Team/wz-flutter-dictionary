@@ -28,7 +28,12 @@
         "withEmailButton": "Kontynuuj przez e‑mail",
         "withAllegroButton": "Kontynuuj przez Allegro",
         "withMicrosoftButton": "Kontynuuj przez Microsoft",
-        "loggedInAsMessage": "Zalogowano jako {}"
+        "loggedInAsMessage": "Zalogowano jako {}",
+        "regulations": {
+            "title": "Zaakceptuj regulamin, aby kontynuować",
+            "accept": "Akceptuję",
+            "deny": "Nie akceptuję"
+        }
     },
     "loginWithEmail": {
         "title": "Podaj swój adres e‑mail",
