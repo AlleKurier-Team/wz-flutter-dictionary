@@ -305,7 +305,8 @@
         "paymentMethod": "Metoda płatności",
         "invoiceData": "Dane do faktury",
         "retryPaymentButton": "Opłać przesyłkę",
-        "retryPaymentDescription": "Przesyłka nie została opłacona. Dokonaj płatności, by móc nadać swój zwrot."
+        "retryPaymentDescription": "Przesyłka nie została opłacona. Dokonaj płatności, by móc nadać swój zwrot.",
+        "forApproval": "Wysłaliśmy informację do sklepu {}, że chcesz zwrócić swoje zamówienie.\nGdy sklep zaakceptuje Twoją przesyłkę zwrotną, poinformujemy Cię o tym powiadomieniem w aplikacji, a tutaj pojawi się Twój kod zwrotu."
     },
     "orderOptions": {
         "recreateButton": "Utwórz taki sam zwrot",
