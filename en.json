@@ -96,7 +96,7 @@
         "marketingRegulations": "Marketing consents",
         "accountManagement": "Account management",
         "help": "Help",
-        "helpAndContact": "Hel and contact",
+        "helpAndContact": "Help and contact",
         "deleteAccount": "Delete the account",
         "logout": "Log out",
         "manage": "Manage"
@@ -277,10 +277,10 @@
         "forPacket": "for the packet",
         "savings": "You save {}",
         "count": {
-            "one": "Easy Return\nInPost Paczkomat parcel machine",
-            "few": "Easy Returns\nInPost Paczkomat parcel machine",
-            "many": "Easy Returns\nInPost Paczkomat parcel machine",
-            "other": "Easy Returns\nInPost Paczkomat parcel machine"
+            "one": "Easy Return\nInPost Paczkomat",
+            "few": "Easy Returns\nInPost Paczkomat",
+            "many": "Easy Returns\nInPost Paczkomat",
+            "other": "Easy Returns\nInPost Paczkomat"
         }
     },
     "orderListEmpty": {
