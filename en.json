@@ -1,0 +1,663 @@
+{
+    "appName": "Easy Returns",
+    "firstExplainer": {
+        "title": "Welcome to the Easy Returns app",
+        "header": "Here, you can send a return package to every online store in Poland!",
+        "bullet1": "Choose a store from the list",
+        "bullet2": "Send a package through a courier company of your choice – Paczkomat InPost, in a Żabka shop and many other points.",
+        "bullet3": "Take it to the sending point and that’s all.",
+        "servicesSection": "This is how you send your package"
+    },
+    "secondExplainer": {
+        "title": "Track your return packages",
+        "description": "You can monitor your return packages on an ongoing basis. Thanks to this, you always have current information on the status of your return packages"
+    },
+    "thirdExplainer": {
+        "title": "Take advantage of return packets to save money and time!",
+        "bullet1": "By purchasing returns in a packet, you save from the very first package sent",
+        "bullet2": "You can share the packet returns with your loved ones",
+        "bullet3": "The best price – directly in InPost, one return costs even PLN 25.99, while in Easy Returns, prices start at PLN 10.97",
+        "button": "Start"
+    },
+    "login": {
+        "title": "Start using the Easy Return app",
+        "description": "We will verify your e-mail address to give you an opportunity to easily and safely create return packages to online stores.",
+        "withAppleButton": "Continue with Apple ID",
+        "withGoogleButton": "Continue with Google",
+        "withFacebookButton": "Continue with Facebook",
+        "withEmailButton": "Continue with e-mail",
+        "withAllegroButton": "Continue with Allegro",
+        "withMicrosoftButton": "Continue with Microsoft",
+        "loggedInAsMessage": "Logged in as {}",
+        "regulations": {
+            "title": "Accept the Terms and Conditions to continue",
+            "accept": "Accept",
+            "deny": "Deny"
+        }
+    },
+    "loginWithEmail": {
+        "title": "Provide your e-mail address",
+        "field": "E-mail",
+        "checkboxAll": "Check all consents",
+        "emailErrorMessage": "Invalid e-mail address entered",
+        "regulationsErrorMessage": "To set up an account, you have to accept all required consents"
+    },
+    "loginVerify": {
+        "title": "E-mail address verification",
+        "description": "We have sent a verification code to your e-mail address. Enter the code.",
+        "emailLabel": "E-mail: ",
+        "codeField": "Enter the verification code",
+        "notReceivedButton": "Didn’t you receive the e-mail?",
+        "anotherEmailButton": "I want to provide another e-mail",
+        "passwordButton": "I want to log in with a password",
+        "codeSentMessage": "We have sent the code to the e-mail address provided",
+        "codeResentMessage": "The activation code has been resent",
+        "emailErrorMessage": "Invalid e-mail address entered",
+        "codeErrorMessage": "Wrong verification code entered"
+    },
+    "loginAnotherEmail": {
+        "title": "Provide another e-mail",
+        "field": "E-mail",
+        "button": "Change e-mail address"
+    },
+    "loginEmailNotReceived": {
+        "title": "I did not receive the e-mail",
+        "text": "1. Check the spam folder.\n2. Wait 15 minutes and check again.\n3. Or ",
+        "button": "resend the verification code."
+    },
+    "loginWithPassword": {
+        "title": "Logging to the Easy Returns app",
+        "fieldEmail": "E-mail",
+        "fieldPassword": "Password",
+        "forgotButton": "Forgot your password?",
+        "emailErrorMessage": "Invalid e-mail address entered",
+        "passwordErrorMessage": "Enter the password"
+    },
+    "completeUserInfo": {
+        "title": "Returns data",
+        "description": "Now, simple complete your data that will be used for returns. And you’re good to go! You can add more return profiles on your account.",
+        "fieldLabelSender": "Sender",
+        "fieldHintSender": "Full name or business name",
+        "fieldPhoneNumber": "Telephone no.",
+        "fieldEmail": "E-mail",
+        "successMessage": "Data saved",
+        "nameErrorMessage": "Please, enter your full name or business name",
+        "phoneErrorMessage": "Invalid telephone number entered"
+    },
+    "account": {
+        "barTitle": "My account",
+        "email": "E-mail",
+        "clientData": "Your data",
+        "bankAccountNumber": "Bank account number",
+        "invoiceData": "Invoice data",
+        "appTheme": "App theme",
+        "appLanguage": "App language",
+        "notifications": "Notifications",
+        "marketingRegulations": "Marketing consents",
+        "accountManagement": "Account management",
+        "help": "Help",
+        "helpAndContact": "Hel and contact",
+        "deleteAccount": "Delete the account",
+        "logout": "Log out",
+        "manage": "Manage"
+    },
+    "deleteAccount": {
+        "dialogTitle": "Delete the account",
+        "dialogBody": "Are you sure you want to delete your account on the Easy Returns website?",
+        "emailTitle": "Account deletion on the Easy Return website",
+        "emailBody": "Please, delete my account on the Easy Returns website.\n\nMy e-mail address for which the account was set up is: {}",
+        "noEmailMessage1": "To delete your account, send an e-mail message to the address",
+        "noEmailMessage2": "reading as follows:"
+    },
+    "themeSettings": {
+        "system": "System",
+        "light": "Light",
+        "dark": "Dark"
+    },
+    "languageSettings": {
+        "bg": "български",
+        "cs": "Česky",
+        "de": "Deutsch",
+        "el": "ελληνικά",
+        "en": "English",
+        "hu": "Magyar",
+        "pl": "Polski",
+        "ro": "Românește",
+        "ru": "Русский",
+        "sk": "Slovenčina",
+        "uk": "Українська"
+    },
+    "profileList": {
+        "addNew": "Add a new profile",
+        "deleteDialogTitle": "Delete the profile?",
+        "deleteDialogMessage": "Are you sure you want to delete the selected profile?",
+        "deleteSuccessMessage": "Data deleted"
+    },
+    "profileEdit": {
+        "newProfile": "New returns profile",
+        "editProfile": "Edit a returns profile",
+        "fieldLabelSender": "Sender",
+        "fieldHintSender": "Full name or business name",
+        "fieldPhoneNumber": "Telephone no.",
+        "fieldLabelEmail": "E-mail (optionally)",
+        "fieldHintEmail": "E-mail",
+        "defaultCheckbox": "Set as the default profile",
+        "insertProfileButton": "Insert from profiles",
+        "fieldDescriptionEmail": "Complete if different than your default e-mail: {}. Then, we will send you package information here.",
+        "fieldDescriptionEmailDisabled": "This e-mail was used to create an order in the {} shop. You cannot change it. You can find the return code in your Easy Return app, we will also send it to your e-mail address.",
+        "successMessage": "Data saved",
+        "emailErrorMessage": "Invalid e-mail address entered",
+        "nameErrorMessage": "Please, enter your full name or business name",
+        "phoneErrorMessage": "Invalid telephone number entered"
+    },
+    "bankAccountList": {
+        "addNew": "Add a new account number",
+        "deleteDialogTitle": "Delete the account number?",
+        "deleteDialogMessage": "Are you sure you want to delete the selected account number?",
+        "deleteSuccessMessage": "Data deleted"
+    },
+    "bankAccountEdit": {
+        "newAccount": "New bank account number",
+        "editAccount": "Edit the bank account number",
+        "fieldAccountNumber": "Bank account number",
+        "successMessage": "Data saved",
+        "accountNumberErrorMessage": "Invalid bank account number entered"
+    },
+    "invoiceList": {
+        "nip": "NIP (Tax ID)",
+        "addNew": "Add new invoice data",
+        "deleteDialogTitle": "Delete invoice data?",
+        "deleteDialogMessage": "Are you sure you want to delete the selected invoice data?",
+        "deleteSuccessMessage": "Data deleted"
+    },
+    "invoiceEdit": {
+        "newData": "New invoice data",
+        "editData": "Edit invoice data",
+        "typeCompany": "Company name",
+        "typePerson": "Natural person",
+        "fieldNIP": "NIP (Tax ID)",
+        "fieldCompanyName": "Company name",
+        "fieldFullName": "Full name",
+        "fieldStreet": "Street name and number",
+        "fieldPostalCode": "Postal code",
+        "fieldCity": "City",
+        "defaultData": "Default data",
+        "successMessage": "Data saved",
+        "nameErrorMessage": "Please, enter your full name or business name",
+        "addressErrorMessage": "Please, enter street name and number",
+        "postalCodeErrorMessage": "Wrong postal code entered",
+        "cityErrorMessage": "Enter the city name",
+        "nipErrorMessage": "Enter TaxID"
+    },
+    "notificationSettings": {
+        "barTitle": "Manage notifications",
+        "push": "Push notifications",
+        "successMessage": "Settings saved",
+        "settingsButton": "Settings",
+        "settingsDialogMessage": "To receive notifications, consent to them in the system settings."
+    },
+    "help": {
+        "cancelReturnHeader": "How can I cancel the shipment and get a refund?",
+        "cancelReturnText": "To cancel the shipment and get a refund, contact us at: wsparcie@wygodnezwroty.pl. Provide the return code or package number in the message. We will return the funds for the shipment to you within 14 days, using the same method by which the payment was made. If your shipment was created as part of a returns packet, the refund will return to the pool within 14 days.",
+        "cancelPacketHeader": "How do I cancel the returns packet?",
+        "cancelPacketText": "To cancel the returns packet and get a refund, contact us at: wsparcie@wygodnezwroty.pl. Provide the e-mail address for which the returns packet was purchased. We will return the funds using the same method by which the payment was made.",
+        "appErrorHeader": "My app doesn’t work properly",
+        "appErrorText": "If you have a problem with the functioning of the Easy Returns mobile app, contact us at: wsparcie@wygodnezwroty.pl. Please, clearly describe what the problem is. Attach a screenshot as well. Your answer will help us locate the source of the malfunction faster and solve it. In the meantime, close and reopen the app, and then try to perform the operation during which the problem occurred.",
+        "otherQuestions": "If you don’t see an answer to your question, contact us.",
+        "email": "wsparcie@wygodnezwroty.pl",
+        "emailCopied": "The e-mail address has been copied to the clipboard",
+        "phoneNumber": "12 345 00 50",
+        "phoneNumberCopied": "The telephone number has been copied to the clipboard",
+        "workingHours": "The Customer Support Centre is at your service from Monday to Friday from 8:00 a.m. to 4:00 p.m."
+    },
+    "myPackets": {
+        "barTitle": "My packets",
+        "noPacket": {
+            "description1": "We have prepared return packets for you to save on shipment.",
+            "description2": "With Easy Returns, you can return an order to every online store in Poland.",
+            "bulletPoint1": "When you buy a packet, you save on your very first return",
+            "bulletPoint2": "You can share the packet returns with your loved ones",
+            "bulletPoint3": "The best price – directly in InPost, one return costs even PLN 25.99",
+            "recoverUnused": "If you don’t use shipments from the packet until {}, you can get back all the unused funds",
+            "button": "Check out the return packets and start saving"
+        },
+        "withPacket": {
+            "returnsLeft": "My Returns in the packet",
+            "buyMoreButton": "Buy more returns",
+            "description1": "To send a package using the packet, select the Returns packet as the payment method at checkout.",
+            "packetCode": "Check the packet code",
+            "description2": "Learn more about Return Packets. Check out ",
+            "questionsLink": "Frequently asked questions",
+            "createReturnButton": "Create a return package",
+            "packetCodeCopiedMessage": "The packet code has been copied to the clipboard"
+        }
+    },
+    "newPacket": {
+        "title": "Select the return packet",
+        "barTitle": "Packet purchase",
+        "step1": "Select the packet",
+        "step2": "Summary",
+        "noneSelectedError": "Select the return packet",
+        "paymentErrorMessage": "Payment error",
+        "noPaymentMethodError": "Select the payment method",
+        "successMessage": "Returns packet added to your account",
+        "summary": {
+            "title": "Summary",
+            "emailLabel": "Your e-mail",
+            "invoiceCheckbox": "I want to receive a VAT invoice",
+            "selectedPacket": "Selected returns packet",
+            "count": {
+                "one": "{} return to every online store in Poland via Easy Returns",
+                "few": "{} returns to every online store in Poland via Easy Returns",
+                "many": "{} returns to every online store in Poland via Easy Returns",
+                "other": "{} returns to every online store in Poland via Easy Returns"
+            },
+            "benefits": "Returns packet benefits",
+            "bullet1": "When you buy a packet, you save on your very first return",
+            "bullet2": "You can share the packet returns with your loved ones",
+            "bullet3Part1": "It’s cheaper by",
+            "bullet3Part2": {
+                "one": " compared to sending {} cheapest return directly in InPost!",
+                "few": " compared to sending {} cheapest returns directly in InPost!",
+                "many": " compared to sending {} cheapest returns directly in InPost!",
+                "other": " compared to sending {} cheapest returns directly in InPost!"
+            },
+            "recoverUnused": "If you don’t use shipments from the packet until {}, you can get back all the unused funds",
+            "numberOfReturns": "Number of returns",
+            "amountToPay": "To be paid in total",
+            "brutto": "gross",
+            "paymentMethod": "Payment method",
+            "showMoreMethods": "Show more payment methods"
+        }
+    },
+    "packetListItem": {
+        "recommended": "Recommended",
+        "checkbox": "Add the packet to the order",
+        "forReturn": "for the return",
+        "forPacket": "for the packet",
+        "savings": "You save {}",
+        "count": {
+            "one": "Easy Return\nInPost Paczkomat parcel machine",
+            "few": "Easy Returns\nInPost Paczkomat parcel machine",
+            "many": "Easy Returns\nInPost Paczkomat parcel machine",
+            "other": "Easy Returns\nInPost Paczkomat parcel machine"
+        }
+    },
+    "orderListEmpty": {
+        "title": "Hello, {}",
+        "createDescription": "When you send your first return, this is where you will see information about its status.",
+        "createButton": "Create return",
+        "packagesDescription": "Do you want to start saving on returns from your first shipment? Check out our returns packets",
+        "packagesButton": "Check out the packets"
+    },
+    "orderList": {
+        "barTitle": "My returns"
+    },
+    "orderDetails": {
+        "barTitle": "Return details",
+        "returnInfo": "Return information",
+        "mailboxInfo": "Return to the store",
+        "clientInfo": "Your data",
+        "historySection": "Shipment history",
+        "returnCodeLabel": "Return code",
+        "returnCodeValidUntil": "Code valid until {}",
+        "trackingNumberLabel": "Shipment no.",
+        "trackingNumberCopiedMessage": "The package number has been copied to the clipboard",
+        "codeDescription": "Write the return code on the package. Remove other labels from the package.",
+        "qrCodeDescription": "To open the parcel machine, enter the return code or scan the QR code.",
+        "qrCodeZoom": "Tap to expand",
+        "returnDetails": "Return details",
+        "product": "Product",
+        "packageInfo": "Shipment information",
+        "maxPackageSize": "Max. parameters",
+        "weightAndSize": "Weight and size",
+        "shippingCost": "Shipping costs",
+        "paymentMethod": "Payment method",
+        "invoiceData": "Invoice data",
+        "retryPaymentButton": "Pay for the shipment",
+        "retryPaymentDescription": "The shipment has not been paid for. Pay to send your return package.",
+        "forApproval": "We have sent information to the {} store that you would like to return your order. When the store accepts your return shipment, we will inform you with a notification in the app, and your return code will appear here."
+    },
+    "orderOptions": {
+        "recreateButton": "Create the same return",
+        "cancelButton": "Cancel the shipment",
+        "deleteButton": "Delete the shipment from the return list",
+        "deleteDialog": {
+            "title": "Deleting the shipment from the return list",
+            "message": "Are you sure you want to delete the shipment from the return list? You cannot undo this action.",
+            "yesButton": "Yes, I want to delete the shipment",
+            "noButton": "No, I am leaving the shipment",
+            "successMessage": "Shipment deleted from the return list"
+        }
+    },
+    "notifications": {
+        "barTitle": "Notifications",
+        "empty": "No notifications"
+    },
+    "instantReturn": {
+        "title": "New return to the {} store",
+        "message": "In the next step, we will ask you to complete the returned order information.",
+        "createButton": "Create return",
+        "restoreButton": "Restore",
+        "weightAndSize": "Weight and size"
+    },
+    "packageParams": {
+        "title": "Package parameters",
+        "type": "How your package is packed",
+        "foil-package": "foil package",
+        "delivery-package": "Cardboard box",
+        "foil-package-short": "foil package",
+        "delivery-package-short": "Box",
+        "weight": "How much does your package weigh",
+        "weightTo": "to {} kg",
+        "size": "Provide the package size",
+        "length": "Length",
+        "width": "Width",
+        "height": "Height",
+        "typeErrorMessage": "Choose how your package is packed",
+        "weightErrorMessage": "Choose the package weight",
+        "lengthErrorMessage": "Enter the package length",
+        "widthErrorMessage": "Enter the package width",
+        "heightErrorMessage": "Enter the package height"
+    },
+    "maxPackageSize": {
+        "prefix": "max.",
+        "inpostreturn": "41 cm x 38 cm x 64 cm, 25 kg",
+        "dhlreturn": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturn": "longest side 150 cm, 31,5 kg",
+        "dpdreturnlocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "glspolandreturn": "longest side 200 cm",
+        "dhlreturnwithlabel": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturnwithlabel": "longest side 150 cm, 31,5 kg",
+        "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "dpdreturnnolabelcourier": "longest side 150 cm, 31,5 kg",
+        "dpdreturnwithlabelcourier": "longest side 150 cm, 31,5 kg",
+        "orlenreturn": "",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "serviceDescription": {
+        "inpostreturn": "You can send a package without a label in any InPost Paczkomat machine",
+        "dhlreturn": "Take your package without a label to a DHL POP location convenient for you: Żabka, Inmedio, Relay, 1minute, DHL branches.",
+        "dpdreturn": "Take the package without a label to any Żabka store or other point from the DPD Pickup network.",
+        "dpdreturnlocker": "Place the package without a label in any DPD parcel machine. Remember, you need the DPD Mobile app to open the parcel machine.",
+        "glspolandreturn": "Take your package to a GLS point location convenient for you: Carrefour, Auchan, Kolporter and other “Szybka Paczka” points / ParcelShop and GLS branches.",
+        "dhlreturnwithlabel": "Take your package with a label to a DHL POP location convenient for you: Żabka, Inmedio, Relay, 1minute, DHL branches.",
+        "dpdreturnwithlabel": "Take the package with a label to any Żabka store or other point from the DPD Pickup network.",
+        "dpdreturnwithlabellocker": "Place the package without a label in any DPD parcel machine. Remember, you need the DPD Mobile app to open the parcel machine.",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Take your package without a label to a RUCH kiosk (“ORLEN Paczka”) location convenient for you.",
+        "orlenreturnwithlabel": "Take your package with a label to an “ORLEN Paczka” location convenient for you.",
+        "pocztareturn": "Take the package to any Polish Post office, except postal agencies."
+    },
+    "serviceDescriptionAdditional": {
+        "inpostreturn": "",
+        "dhlreturn": "Note: Some points are excluded from the DHL POP network. Before visiting the point, check its availability.",
+        "dpdreturn": "",
+        "dpdreturnlocker": "",
+        "glspolandreturn": "Note: Remember to check the point’s availability before visiting it.",
+        "dhlreturnwithlabel": "Note: Some points are excluded from the DHL POP network. Before visiting the point, check its availability.",
+        "dpdreturnwithlabel": "",
+        "dpdreturnwithlabellocker": "",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Note: RUCH kiosks and stores are ORLEN Paczka points where you send a package without a label. They are marked on the map as PSD.",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "mailboxSearch": {
+        "description": "Search for the store you want to return the goods to and easily send the package",
+        "field": "Search for the store",
+        "recentSection": "Latest returns",
+        "suggestStoreMessage": "The store you’re looking for isn’t on the list??\nTry typing in your store's web address like yourstore.pl. If the store still doesn't show up in search results, let us know and we'll add the store to Easy Returns.",
+        "suggestStoreButton": "Submit a store",
+        "bottomSheet": {
+            "title": "Submit a store to Easy Returns",
+            "fieldLabel": "Online store website address",
+            "fieldHint": "For example, www.yourstore.pl",
+            "description": "We usually add a store within 24 hours, on business days. Once your store is added, we will send you a notification to your e-mail address.",
+            "button": "Submit",
+            "successMessage": "We’ve received your submission. We will notify you when the store is added."
+        }
+    },
+    "newOrderBar": {
+        "title": "New return",
+        "step1": "Your package",
+        "step2": "Order",
+        "step3": "Summary"
+    },
+    "serviceSelection": {
+        "title": "Choose the courier company",
+        "description": "You can send a package without a label in a parcel machine or point and the courier will deliver it to the store’s address.",
+        "detailsButton": "Offer details",
+        "moreButton": "Show more return options",
+        "voucherButton": "I have a discount code",
+        "voucherField": "Discount code",
+        "addVoucherButton": "Add",
+        "removeVoucherButton": "Delete",
+        "voucherSuccessMessage": "Discount code added successfully",
+        "withPacket": "Shipment using a packet return",
+        "withPacketDescription": "If you don’t want to use the packet, change the payment method at checkout.",
+        "errorMessage": "Choose the courier company",
+        "packetCount": {
+            "one": "Your packet: 1 return",
+            "few": "Your packet: {} returns",
+            "many": "Your packet: {} returns",
+            "other": "Your packet: {} returns"
+        }
+    },
+    "offerDetails": {
+        "barTitle": "Offer details",
+        "serviceName": {
+            "inpostreturn": "Paczkomat InPost 24/7",
+            "dpdreturn": "Żabka and DPD points",
+            "dhlreturn": "DHL points and machines"
+        },
+        "withoutLabel": "Without a label",
+        "shipmentLocationSection": "Where to send",
+        "shipmentLocationDescription": {
+            "inpostreturn": "Any InPost Paczkomat",
+            "dpdreturn": "Any Żabka store or other commercial point from the DPD Pickup network.\nOther points: Dino, Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, DPD Poland branches and others.",
+            "dhlreturn": "Żabka, Innmedio, 1 minute, Relay and DHL branches.\nNote: Some points are excluded from the DHL network. Before visiting the point, check its availability."
+        },
+        "and": "oraz",
+        "andOthers": "i inne",
+        "checkOnMapButton": "See points on the map",
+        "maxParametersSection": "Maximum parameters",
+        "maxParametersDetails": {
+            "inpostreturn": "",
+            "dpdreturn": "The package length (longest side) plus the sum of the bottom perimeter cannot exceed 300 cm.",
+            "dhlreturn": ""
+        },
+        "checkParamsButton": "Check if the package has the right size",
+        "insuranceSection": "Insurance",
+        "insuranceDetails": {
+            "inpostreturn": "Free up to PLN 5,000",
+            "dpdreturn": "Free up to PLN 1,000",
+            "dhlreturn": "Free up to PLN 500"
+        },
+        "verification": {
+            "barTitle": "Verification of parameters",
+            "label": "Check if the package has the right size",
+            "successMessage": "The package size is valid",
+            "errorMessage": "The package size is invalid",
+            "errorMessageDescription": "If your package is too large, you can try repacking the contents into a smaller box or consider sending it with a different courier company."
+        }
+    },
+    "packetSelection": {
+        "title": "Add a packet to your order and save by returning to your favourite stores",
+        "descriptionRegular1": "With Easy Returns, you can return your order ",
+        "descriptionBold": "to any online store",
+        "descriptionRegular2": " in Poland.",
+        "bullet1": "Buying a packet saves you money right away by sending your return to the {} store",
+        "bullet2": "You can share the packet returns with your loved ones",
+        "bullet3": "The best price – directly in InPost, one return costs even PLN 25.99",
+        "moreButton": "See other packets"
+    },
+    "newOrderInfo": {
+        "title": "Order information",
+        "optional": " (optional)",
+        "bankAccountTitle": "Refund",
+        "bankAccountDescription": "You will get a refund by the same method by which the payment for the order was made. If it is not possible, we will return the funds to the account indicated by you below.",
+        "requiredFieldErrorMessage": "Field \"{}\" is required",
+        "bankAccountErrorMessage": "Enter a valid account number",
+        "addProduct": "Add another product",
+        "removeProduct": "Delete the product"
+    },
+    "newOrderSummary": {
+        "title": "Summary",
+        "box": "Package",
+        "packageInfo": "Weight and size",
+        "packageMax": "Maximum parameters",
+        "mailboxSection": "Return to the store",
+        "clientSection": "Your data",
+        "orderInfoSection": "Order information",
+        "deliveryCost": "Shipment cost",
+        "brutto": "gross",
+        "packetTile": {
+            "count": {
+                "one": "{} return to every online store in Poland via Easy Returns",
+                "few": "{} returns to every online store in Poland via Easy Returns",
+                "many": "{} returns to every online store in Poland via Easy Returns",
+                "other": "{} returns to every online store in Poland via Easy Returns"
+            },
+            "benefits": "Returns packet benefits",
+            "bullet1": "When you buy a packet, you save on your very first return",
+            "bullet2": "You can share the packet returns with your loved ones",
+            "bullet3Part1": "It’s cheaper by",
+            "bullet3Part2": {
+                "one": " compared to sending {} cheapest return directly in InPost!",
+                "few": " compared to sending {} cheapest returns directly in InPost!",
+                "many": " compared to sending {} cheapest returns directly in InPost!",
+                "other": " compared to sending {} cheapest returns directly in InPost!"
+            },
+            "recoverUnused": "If you don’t use shipments from the packet until {}, you can get back all the unused funds"
+        },
+        "numberOfReturns": "Number of returns",
+        "amountToPay": "To be paid in total",
+        "xTimesReturn": " x return ",
+        "paymentSection": "Payment method",
+        "payButton": "Order and pay {}",
+        "payPacketButton": "Order using the packet",
+        "createButton": "Create a package",
+        "packetPayment": "Returns packet",
+        "noPaymentMethodErrorMessage": "Select the payment method",
+        "regulationsErrorMessage": "Accept the carrier’s required terms and regulations",
+        "paymentErrorMessage": "Payment error",
+        "orderCreationSuccess": "Order accepted"
+    },
+    "blikSheet": {
+        "title": "Payment method",
+        "blik": "Blik",
+        "withCode": "With a code",
+        "withoutCode": "Without a code",
+        "codeFieldDescription": "Enter a 6-digit Blik code generated in your banking app.",
+        "codeFieldLabel": "BLIK code",
+        "regulation1": "By paying, I accept ",
+        "regulationLink1": "regulamin",
+        "regulation2": " PayPro S.A. In the payment process, PayPro S.A. is the controller of your personal data. ",
+        "regulationExpand": "Expand",
+        "regulation3": "(KRS 0000347935), 60-327 Poznań (Poland), Kancelarska 15, +48 61 642 93 44, ",
+        "regulationLink2": ". See the full information clause.",
+        "payButton": "Order and pay {}",
+        "noCodeDescription": "Proceed by clicking the order and pay button, and in the next step confirm the payment in your banking app",
+        "selectApp": "Select the bank account from which you want to make the payment",
+        "errorButton": "Try again",
+        "confirmation": {
+            "title": "Confirm payment in your banking app",
+            "description": "If you fail to do so, the payment will not be processed."
+        }
+    },
+    "firstCall": {
+        "barTitle": "Welcome deal",
+        "title": "Hello, {}",
+        "description1": "We are happy that you use Easy Returns. To appreciate your presence, we have got something for you ",
+        "descriptionBold": "A Welcome Returns Packet",
+        "description2": " at an attractive price!",
+        "description3": "With Easy Returns, you can send a return package to any online store in Poland",
+        "welcomeOffer": "Welcome deal",
+        "onlyInApp": "You can use returns from the welcome packet only in the Easy Returns app",
+        "codeFieldDescription": "Enter a 6-digit Blik code generated in your banking app.",
+        "bullet1": "One-off deal",
+        "bullet2": "Available only in the app",
+        "bullet3": "Long period for package returns – as long as 6 months after purchase",
+        "availableFor": "Offer available for {}",
+        "remindMeButton": "Remind me later",
+        "buyButton": "Sounds great, I’m buying the packet",
+        "tile": {
+            "onlyInApp": "Only in the app",
+            "availableFor": "Ends in {}",
+            "returns": "{} InPost Paczkomat returns"
+        }
+    },
+    "invoiceDataSection": {
+        "checkbox": "I want to receive a VAT invoice",
+        "header": "Invoice data"
+    },
+    "orderStatus": {
+        "created": "Created",
+        "deleted": "Deleted",
+        "awaitingApproval": "Awaiting approval",
+        "rejected": "Rejected",
+        "canceled": "Cancelled",
+        "readyToSend": "Ready to send",
+        "paid": "Paid",
+        "processingError": "Processing error",
+        "shipped": "Sent",
+        "inTransit": "On its way",
+        "returnToSender": "Return to the sender",
+        "returned": "Returned",
+        "outForDelivery": "Out for delivery",
+        "awaitingPickup": "Awaiting pickup in the point",
+        "delivered": "Delivered"
+    },
+    "orderEvent": {
+        "created": "Package created",
+        "deleted": "Package deleted",
+        "awaitingApproval": "Package awaits approval",
+        "rejected": "Package rejected",
+        "canceled": "Package cancelled",
+        "readyToSend": "Package awaits sending",
+        "paid": "Package paid",
+        "processingError": "Processing error",
+        "shipped": "Package sent",
+        "inTransit": "Package on its way",
+        "returnToSender": "Return to the sender",
+        "returned": "Package returned",
+        "outForDelivery": "Out for delivery",
+        "awaitingPickup": "Package awaits pickup in the point",
+        "delivered": "Package delivered"
+    },
+    "navigationBar": {
+        "orderList": "My returns",
+        "newOrder": "New return",
+        "packets": "Returns packet",
+        "account": "My account"
+    },
+    "common": {
+        "nextButton": "Next",
+        "saveButton": "Save",
+        "editButton": "Edit",
+        "deleteButton": "Delete",
+        "changeButton": "Change",
+        "selectButton": "Select",
+        "confirmButton": "Confirm",
+        "cancelButton": "Cancel",
+        "skipButton": "Skip",
+        "copyButton": "Copy",
+        "moreButton": "More",
+        "lessButton": "Less",
+        "or": "or",
+        "errorOccurred": "Error occurred",
+        "errorConnection": "Server connection error",
+        "fromDate": "od {}",
+        "expand": "Expand",
+        "collapse": "Collapse",
+        "optionalRegulation": " (optional)",
+        "default": "Default",
+        "step": "Step {} of {}",
+        "kg": "kg",
+        "cm": "cm"
+    }
+}

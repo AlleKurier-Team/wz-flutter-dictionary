@@ -1,0 +1,663 @@
+{
+    "appName": "Pohodlné Vrátenia",
+    "firstExplainer": {
+        "title": "Vitajte v aplikácii Pohodlné Vrátenia",
+        "header": "Tu môžete vrátiť tovar do každého e-shopu v Poľsku!",
+        "bullet1": "Vyberte obchod zo zoznamu",
+        "bullet2": "Môžete podať zásielku vybranou kuriérskou spoločnosťou - cez Balíkomat InPost, v Žabke a mnohých ďalších podacích miestach.",
+        "bullet3": "Zaneste ju na podacie miesto a hotovo.",
+        "servicesSection": "Takto odošlete svoju zásielku"
+    },
+    "secondExplainer": {
+        "title": "Sledujte svoje spätné zásielky",
+        "description": "Môžete priebežne monitorovať cestu svojich vrátených zásielok. Vďaka tomu budete mať vždy aktuálne informácie o stave svojich vrátených zásielok"
+    },
+    "thirdExplainer": {
+        "title": "Použite vrátenia v rámci balíčka, aby ste ušetrili peniaze a čas!",
+        "bullet1": "Kúpou zásielky na vrátenie v rámci balíčka šetríte už od prvej zásielky",
+        "bullet2": "Vrátenia v rámci balíčka môžete zdieľať s blízkymi",
+        "bullet3": "Najlepšia cena - priamo cez InPost stojí jedno vrátenie až 25,99 PLN, v Pohodlných Vráteniach začínajú ceny už od 10,97 PLN",
+        "button": "Začať"
+    },
+    "login": {
+        "title": "Začnite používať aplikáciu Pohodlné Vrátenia",
+        "description": "Overíme Vašu e-mailovú adresu, aby sme Vám umožnili pohodlné a bezpečné vytváranie vrátení do e-shopov.",
+        "withAppleButton": "Pokračovať cez Apple ID",
+        "withGoogleButton": "Pokračovať cez Google",
+        "withFacebookButton": "Pokračovať cez Facebook",
+        "withEmailButton": "Pokračovať cez e-mail",
+        "withAllegroButton": "Pokračovať cez Allegro",
+        "withMicrosoftButton": "Pokračovať cez Microsoft",
+        "loggedInAsMessage": "Prihlásený ako {}",
+        "regulations": {
+            "title": "Ak chcete pokračovať, prijmite zmluvné podmienky",
+            "accept": "Súhlasím",
+            "deny": "Nesúhlasím"
+        }
+    },
+    "loginWithEmail": {
+        "title": "Zadajte svoju e-mailovú adresu",
+        "field": "E-mail",
+        "checkboxAll": "Prijať všetko",
+        "emailErrorMessage": "Zadali ste nesprávnu e-mailovú adresu",
+        "regulationsErrorMessage": "Na vytvorenie účtu je potrebné prijať všetky požadované súhlasy"
+    },
+    "loginVerify": {
+        "title": "Overenie e-mailovej adresy",
+        "description": "Na Vašu e-mailovú adresu sme poslali overovací kód. Zadajte prijatý kód.",
+        "emailLabel": "E-mailová adresa: ",
+        "codeField": "Zadajte overovací kód",
+        "notReceivedButton": "E-mail neprišiel?",
+        "anotherEmailButton": "Chcem zadať inú e-mailovú adresu",
+        "passwordButton": "Chcem sa prihlásiť pomocou hesla",
+        "codeSentMessage": "Poslali sme kód na zadanú e-mailovú adresu",
+        "codeResentMessage": "Aktivačný kód bol odoslaný znova",
+        "emailErrorMessage": "Zadali ste nesprávnu e-mailovú adresu",
+        "codeErrorMessage": "Zadali ste nesprávny overovací kód"
+    },
+    "loginAnotherEmail": {
+        "title": "Zadajte inú e-mailovú adresu",
+        "field": "E-mail",
+        "button": "Zmeňte e-mailovú adresu"
+    },
+    "loginEmailNotReceived": {
+        "title": "E-mail neprišiel",
+        "text": "1. Skontrolujte priečinok so spamom.\n2. Počkajte 15 minút a skontrolujte znova.\n3. Alebo ",
+        "button": "poslať overovací kód znova."
+    },
+    "loginWithPassword": {
+        "title": "Prihlásenie do aplikácie Pohodlné Vrátenia",
+        "fieldEmail": "E-mail",
+        "fieldPassword": "Heslo",
+        "forgotButton": "Zabudli ste heslo?",
+        "emailErrorMessage": "Zadali ste nesprávnu e-mailovú adresu",
+        "passwordErrorMessage": "Je potrebné zadať heslo"
+    },
+    "completeUserInfo": {
+        "title": "Údaje na vrátenie",
+        "description": "Vyplňte ešte svoje údaje, ktoré budú použité na vrátenie tovaru. A hotovo! Na svojom účte môžete pridať viac profilov pre vrátenie.",
+        "fieldLabelSender": "Odosielateľ",
+        "fieldHintSender": "Meno a priezvisko alebo názov spoločnosti",
+        "fieldPhoneNumber": "Telefónne číslo",
+        "fieldEmail": "E-mail",
+        "successMessage": "Údaje boli uložené",
+        "nameErrorMessage": "Je potrebné zadať meno a priezvisko alebo názov spoločnosti",
+        "phoneErrorMessage": "Zadali ste nesprávne telefónne číslo"
+    },
+    "account": {
+        "barTitle": "Môj účet",
+        "email": "E-mail",
+        "clientData": "Vaše údaje",
+        "bankAccountNumber": "Číslo bankového účtu",
+        "invoiceData": "Údaje pre faktúry",
+        "appTheme": "Motív aplikácie",
+        "appLanguage": "Jazyk aplikácie",
+        "notifications": "Upozornenia",
+        "marketingRegulations": "Marketingové súhlasy",
+        "accountManagement": "Správa účtu",
+        "help": "Pomoc",
+        "helpAndContact": "Pomoc a kontakt",
+        "deleteAccount": "Odstrániť účet",
+        "logout": "Odhlásiť sa",
+        "manage": "Spravovať"
+    },
+    "deleteAccount": {
+        "dialogTitle": "Odstrániť účet",
+        "dialogBody": "Ste si istý, že chcete odstrániť svoj účet na stránke Pohodlné Vrátenia?",
+        "emailTitle": "Odstránenie účtu na stránke Pohodlné Vrátenia",
+        "emailBody": "Žiadam o odstránenie môjho účtu na stránke Pohodlné Vrátenia.\n\nMoja e-mailová adresa, na ktorú bol účet založený, je: {}",
+        "noEmailMessage1": "Na odstránenie svojho účtu pošlite e-mailovú správu na adresu",
+        "noEmailMessage2": "s príkladovým obsahom:"
+    },
+    "themeSettings": {
+        "system": "Systémový",
+        "light": "Svetlý",
+        "dark": "Tmavý"
+    },
+    "languageSettings": {
+        "bg": "български",
+        "cs": "Česky",
+        "de": "Deutsch",
+        "el": "ελληνικά",
+        "en": "English",
+        "hu": "Magyar",
+        "pl": "Polski",
+        "ro": "Românește",
+        "ru": "Русский",
+        "sk": "Slovenčina",
+        "uk": "Українська"
+    },
+    "profileList": {
+        "addNew": "Pridať nový profil",
+        "deleteDialogTitle": "Odstrániť profil?",
+        "deleteDialogMessage": "Ste si istý, že chcete odstrániť tento profil?",
+        "deleteSuccessMessage": "Údaje boli odstránené"
+    },
+    "profileEdit": {
+        "newProfile": "Nový profil pre vrátenia",
+        "editProfile": "Úprava profilu pre vrátenia",
+        "fieldLabelSender": "Odosielateľ",
+        "fieldHintSender": "Meno a priezvisko alebo názov spoločnosti",
+        "fieldPhoneNumber": "Telefónne číslo",
+        "fieldLabelEmail": "E-mail (voliteľné)",
+        "fieldHintEmail": "E-mail",
+        "defaultCheckbox": "Nastaviť ako predvolený profil",
+        "insertProfileButton": "Pridať z profilov",
+        "fieldDescriptionEmail": "Vyplňte, ak je iný ako Váš predvolený e-mail: {}. Potom Vám sem pošleme informácie o zásielke.",
+        "fieldDescriptionEmailDisabled": "Tento e-mail bol použitý na vytvorenie objednávky v obchode {}. Nie je možné ho zmeniť. Kód na vrátenie nájdete v svojej aplikácii Pohodlné Vrátenia, pošleme Vám ho aj na tento e-mail.",
+        "successMessage": "Údaje boli uložené",
+        "emailErrorMessage": "Zadali ste nesprávnu e-mailovú adresu",
+        "nameErrorMessage": "Je potrebné zadať meno a priezvisko alebo názov spoločnosti",
+        "phoneErrorMessage": "Zadali ste nesprávne telefónne číslo"
+    },
+    "bankAccountList": {
+        "addNew": "Pridať nové číslo účtu",
+        "deleteDialogTitle": "Odstrániť číslo účtu?",
+        "deleteDialogMessage": "Ste si istý, že chcete odstrániť toto číslo účtu?",
+        "deleteSuccessMessage": "Údaje boli odstránené"
+    },
+    "bankAccountEdit": {
+        "newAccount": "Nové číslo bankového účtu",
+        "editAccount": "Upraviť číslo bankového účtu",
+        "fieldAccountNumber": "Číslo bankového účtu",
+        "successMessage": "Údaje boli uložené",
+        "accountNumberErrorMessage": "Zadali ste nesprávne číslo bankového účtu"
+    },
+    "invoiceList": {
+        "nip": "DIČ",
+        "addNew": "Pridať nové údaje pre faktúry",
+        "deleteDialogTitle": "Odstrániť údaje pre faktúry?",
+        "deleteDialogMessage": "Ste si istý, že chcete odstrániť tieto údaje pre faktúry?",
+        "deleteSuccessMessage": "Údaje boli odstránené"
+    },
+    "invoiceEdit": {
+        "newData": "Nové údaje pre faktúry",
+        "editData": "Upraviť údaje pre faktúry",
+        "typeCompany": "Spoločnosť",
+        "typePerson": "Súkromná osoba",
+        "fieldNIP": "DIČ",
+        "fieldCompanyName": "Názov spoločnosti",
+        "fieldFullName": "Meno a priezvisko",
+        "fieldStreet": "Ulica a číslo",
+        "fieldPostalCode": "PSČ",
+        "fieldCity": "Mesto",
+        "defaultData": "Predvolené údaje",
+        "successMessage": "Údaje boli uložené",
+        "nameErrorMessage": "Je potrebné zadať meno a priezvisko alebo názov spoločnosti",
+        "addressErrorMessage": "Je potrebné zadať ulicu a číslo",
+        "postalCodeErrorMessage": "Zadali ste nesprávne PSČ",
+        "cityErrorMessage": "Je potrebné zadať názov mesta",
+        "nipErrorMessage": "Je potrebné zadať DIČ"
+    },
+    "notificationSettings": {
+        "barTitle": "Spravovať upozornenia",
+        "push": "Upozornenia push",
+        "successMessage": "Nastavenia boli uložené",
+        "settingsButton": "Nastavenia",
+        "settingsDialogMessage": "Ak chcete dostávať upozornenia, vyjadrite súhlas s ich zasielaním v nastaveniach systému."
+    },
+    "help": {
+        "cancelReturnHeader": "Ako môžem zrušiť zásielku a dostať späť peniaze?",
+        "cancelReturnText": "Ak chcete zrušiť zásielku a dostať späť peniaze, kontaktujte nás e-mailom: wsparcie@wygodnezwroty.pl. V správe nám uveďte kód pre vrátenie alebo číslo zásielky. Peniaze za zásielku Vám vrátime do 14 dní rovnakou metódou, akou bola uskutočnená platba.\nAk bola Vaša zásielka vytvorená pomocou vrátenia v rámci balíčka, peniaze sa do balíčka vrátia do 14 dní.",
+        "cancelPacketHeader": "Ako zrušiť vrátenia v rámci balíčka?",
+        "cancelPacketText": "Ak chcete zrušiť vrátenia v rámci balíčka a dostať späť peniaze, kontaktujte nás e-mailom: wsparcie@wygodnezwroty.pl. V správe nám uveďte e-mailovú adresu, na ktorú boli vrátenia v rámci balíčka zakúpené. Peniaze za balík vám vrátime rovnakou metódou, akou bola uskutočnená platba.",
+        "appErrorHeader": "Moja aplikácia nefunguje správne",
+        "appErrorText": "Ak máte problém s fungovaním mobilnej aplikácie Pohodlné Vrátenia, kontaktujte nás e-mailom: wsparcie@wygodnezwroty.pl. Prosíme, opíšte nám presne, v čom spočíva problém. Pripojte tiež snímku obrazovky. Vaša odpoveď nám pomôže rýchlejšie identifikovať zdroj problému a vyriešiť ho. Medzitým zatvorte a znova otvorte aplikáciu a skúste vykonať operáciu, počas ktorej sa problém vyskytol.",
+        "otherQuestions": "Ak nevidíte odpoveď na svoju otázku, kontaktujte nás.",
+        "email": "wsparcie@wygodnezwroty.pl",
+        "emailCopied": "E-mailová adresa bola skopírovaná do schránky",
+        "phoneNumber": "12 345 00 50",
+        "phoneNumberCopied": "Telefónne číslo bolo skopírované do schránky",
+        "workingHours": "Centrum zákazníckej podpory je Vám k dispozícii od pondelka do piatka od 8:00 do 16:00"
+    },
+    "myPackets": {
+        "barTitle": "Moje balíčky",
+        "noPacket": {
+            "description1": "Pripravili sme pre Vás vrátenia v rámci balíčkov, vďaka ktorým ušetríte na poštovnom.",
+            "description2": "S Pohodlnými Vráteniami môžete vrátiť objednávku do každého e-shopu na Slovensku.",
+            "bulletPoint1": "Kúpou balíčka šetríte už pri prvom vrátení",
+            "bulletPoint2": "Vrátenia v rámci balíčka môžete zdieľať s blízkymi",
+            "bulletPoint3": "Najlepšia cena - priamo v InPost stojí jednotlivé vrátenie až 25,99 PLN",
+            "recoverUnused": "Ak nevyužijete zásielky z balíčka do {}, môžete získať späť všetky nevyužité prostriedky",
+            "button": "Objavte vrátenia v rámci balíčka a šetrite"
+        },
+        "withPacket": {
+            "returnsLeft": "Moje Vrátenia v rámci balíčka",
+            "buyMoreButton": "Kúpiť ďalšie vrátenia",
+            "description1": "Ak chcete odoslať zásielku s využitím balíčka, počas platby vyberte ako spôsob platby Vrátenia v rámci balíčka",
+            "packetCode": "Skontrolujte kód balíčka",
+            "description2": "Zistite viac o Vráteniach v rámci balíčka. Skontrolujte",
+            "questionsLink": "Často kladené otázky",
+            "createReturnButton": "Vytvoriť spätnú zásielku",
+            "packetCodeCopiedMessage": "Kód balíčka bol skopírovaný do schránky"
+        }
+    },
+    "newPacket": {
+        "title": "Vyberte vrátenie v rámci balíčka",
+        "barTitle": "Nákup balíčka",
+        "step1": "Výber balíčka",
+        "step2": "Zhrnutie",
+        "noneSelectedError": "Vyberte vrátenie v rámci balíčka",
+        "paymentErrorMessage": "Chyba platby",
+        "noPaymentMethodError": "Vyberte spôsob platby",
+        "successMessage": "Vrátenia v rámci balíčka boli pridané na Váš účet",
+        "summary": {
+            "title": "Zhrnutie",
+            "emailLabel": "Váš e-mail",
+            "invoiceCheckbox": "Chcem dostať faktúru s DPH",
+            "selectedPacket": "Vybrané vrátenia v rámci balíčka",
+            "count": {
+                "one": "{} vrátenie do akéhokoľvek e-shopu na Slovensku cez Pohodlné Vrátenia",
+                "few": "{} vrátenia do akéhokoľvek e-shopu na Slovensku cez Pohodlné Vrátenia",
+                "many": "{} vrátení do akéhokoľvek e-shopu na Slovensku cez Pohodlné Vrátenia",
+                "other": "{} vrátení do akéhokoľvek e-shopu na Slovensku cez Pohodlné Vrátenia"
+            },
+            "benefits": "Výhody pri kúpe vrátení v rámci balíčka",
+            "bullet1": "Kúpou balíčka šetríte už pri prvom vrátení",
+            "bullet2": "Vrátenia v rámci balíčka môžete zdieľať s blízkymi",
+            "bullet3Part1": "Je to lacnejšie o ",
+            "bullet3Part2": {
+                "one": " v porovnaní s odoslaním {} najlacnejšieho vrátenia priamo v InPost!",
+                "few": " v porovnaní s odoslaním {} najlacnejších vrátení priamo v InPost!",
+                "many": " v porovnaní s odoslaním {} najlacnejších vrátení priamo v InPost!",
+                "other": " v porovnaní s odoslaním {} najlacnejších vrátení priamo v InPost!"
+            },
+            "recoverUnused": "Ak nevyužijete zásielky z balíčka do {}, môžete získať späť všetky nevyužité prostriedky",
+            "numberOfReturns": "Počet vrátení",
+            "amountToPay": "Celková suma na zaplatenie",
+            "brutto": "brutto",
+            "paymentMethod": "Spôsob platby",
+            "showMoreMethods": "Zobraziť viac spôsobov platby"
+        }
+    },
+    "packetListItem": {
+        "recommended": "Vybrané pre Vás",
+        "checkbox": "Pridávam balíček do objednávky",
+        "forReturn": "za vrátenie",
+        "forPacket": "za balíček",
+        "savings": "Ušetríte {}",
+        "count": {
+            "one": "Pohodlné Vrátenie\nInPost Balíkomat",
+            "few": "Pohodlné Vrátenia\nInPost Balíkomat",
+            "many": "Pohodlných Vrátení\nInPost Balíkomat",
+            "other": "Pohodlných Vrátení\nInPost Balíkomat"
+        }
+    },
+    "orderListEmpty": {
+        "title": "Dobrý deň, {}",
+        "createDescription": "Keď odošlete svoje prvé vrátenie, tu sa zobrazia informácie o jeho stave.",
+        "createButton": "Vytvoriť vrátenie",
+        "packagesDescription": "Chcete začať šetriť na vráteniach už od prvej zásielky? Objavte naše vrátenia v rámci balíčka",
+        "packagesButton": "Obajvte balíčky"
+    },
+    "orderList": {
+        "barTitle": "Moje vrátenia"
+    },
+    "orderDetails": {
+        "barTitle": "Podrobnosti o vrátení",
+        "returnInfo": "Informácie o vrátení",
+        "mailboxInfo": "Vrátenie do obchodu",
+        "clientInfo": "Vaše údaje",
+        "historySection": "História zásielky",
+        "returnCodeLabel": "Kód pre vrátenie",
+        "returnCodeValidUntil": "Kód platný do {}",
+        "trackingNumberLabel": "Č. zásielky",
+        "trackingNumberCopiedMessage": "Číslo zásielky bolo skopírované do schránky",
+        "codeDescription": "Kód pre vrátenie napíšte na zásielku. Odstráňte iné štítky zo zásielky.",
+        "qrCodeDescription": "Ak chcete otvoriť schránku, zadajte kód pre vrátenie alebo naskenujte QR kód.",
+        "qrCodeZoom": "Klepnutím zväčšíte",
+        "returnDetails": "Podrobnosti o vrátení",
+        "product": "Produkt",
+        "packageInfo": "Informácie o zásielke",
+        "maxPackageSize": "Max parametre",
+        "weightAndSize": "Hmotnosť a rozmery",
+        "shippingCost": "Náklady na zásielku",
+        "paymentMethod": "Spôsob platby",
+        "invoiceData": "Údaje pre faktúru",
+        "retryPaymentButton": "Zaplatiť za zásielku",
+        "retryPaymentDescription": "Zásielka nebola zaplatená. Vykonajte platbu, aby ste mohli odoslať svoje vrátenie.",
+        "forApproval": "Odoslali sme informáciu obchodu {}, že chcete vrátiť svoju objednávku.\nKeď obchod schváli Vaše vrátenie, oznámime Vám to upozornením, v aplikácii a tu sa objaví Váš kód pre vrátenie."
+    },
+    "orderOptions": {
+        "recreateButton": "Vytvoriť rovnaké vrátenie",
+        "cancelButton": "Zrušiť zásielku",
+        "deleteButton": "Odstrániť zásielku zo zoznamu vrátení",
+        "deleteDialog": {
+            "title": "Odstránenie zásielky zo zoznamu vrátení",
+            "message": "Ste si istý, že chcete odstrániť zásielku zo zoznamu vrátení? Operáciu nemožno vrátiť späť.",
+            "yesButton": "Áno, chcem odstrániť zásielku",
+            "noButton": "Nie, chcem nechať zásielku",
+            "successMessage": "Zásielka bola odstránená zo zoznamu vrátení"
+        }
+    },
+    "notifications": {
+        "barTitle": "Upozornenia",
+        "empty": "Žiadne upozornenia"
+    },
+    "instantReturn": {
+        "title": "Nové vrátenie do obchodu {}",
+        "message": "V ďalšom kroku Vás požiadame o doplnenie informácií o vrátenej objednávke.",
+        "createButton": "Tvorím vrátenie",
+        "restoreButton": "Obnoviť",
+        "weightAndSize": "Hmotnosť a rozmery"
+    },
+    "packageParams": {
+        "title": "Parametre zásielky",
+        "type": "Ako je Vaša zásielka zabalená",
+        "foil-package": "Fóliový obal",
+        "delivery-package": "Kartónová krabica",
+        "foil-package-short": "Fóliový obal",
+        "delivery-package-short": "Krabica",
+        "weight": "Koľko váži Vaša zásielka",
+        "weightTo": "do {} kg",
+        "size": "Uveďte rozmery zásielky",
+        "length": "Dĺžka",
+        "width": "Šírka",
+        "height": "Výška",
+        "typeErrorMessage": "Vyberte, ako je Vaša zásielka zabalená",
+        "weightErrorMessage": "Vyberte hmotnosť zásielky",
+        "lengthErrorMessage": "Zadajte dĺžku zásielky",
+        "widthErrorMessage": "Zadajte šírku zásielky",
+        "heightErrorMessage": "Zadajte výšku zásielky"
+    },
+    "maxPackageSize": {
+        "prefix": "max.",
+        "inpostreturn": "41 cm x 38 cm x 64 cm, 25 kg",
+        "dhlreturn": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturn": "najdlhšia strana 150 cm, 31,5 kg",
+        "dpdreturnlocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "glspolandreturn": "najdlhšia strana 200 cm",
+        "dhlreturnwithlabel": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturnwithlabel": "najdlhšia strana 150 cm, 31,5 kg",
+        "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "dpdreturnnolabelcourier": "najdlhšia strana 150 cm, 31,5 kg",
+        "dpdreturnwithlabelcourier": "najdlhšia strana 150 cm, 31,5 kg",
+        "orlenreturn": "",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "serviceDescription": {
+        "inpostreturn": "Zásielku odošlete bez štítka v akomkoľvek automate InPost",
+        "dhlreturn": "Zásielku bez štítka odneste do vhodného pre Vás bodu DHL POP: Žabka, Inmedio, Relay, 1minute, pobočky DHL.",
+        "dpdreturn": "Zásielku bez štítka odneste do akéhokoľvek obchodu Žabka alebo iného bodu z reťazca DPD Pickup.",
+        "dpdreturnlocker": "Umiestnite zásielku bez štítka do akéhokoľvek balíkového automatu DPD. Pamätajte, že na otvorenie schránky je potrebná aplikácia DPD Mobile.",
+        "glspolandreturn": "Zásielku odneste do vhodného pre Vás bodu GLS: Carrefour, Auchan, Kolporter a ďalšie body Szybkiej Paczki / ParcelShop a pobočky GLS.",
+        "dhlreturnwithlabel": "Zásielku so štítkom odneste do vhodného pre Vás bodu DHL POP: Žabka, Inmedio, Relay, 1minute, pobočky DHL.",
+        "dpdreturnwithlabel": "Zásielku so štítkom odneste do akéhokoľvek obchodu Žabka alebo iného bodu z reťazca DPD Pickup.",
+        "dpdreturnwithlabellocker": "Umiestnite zásielku so štítkom do akéhokoľvek balíkového automatu DPD. Pamätajte, že na otvorenie schránky je potrebná aplikácia DPD Mobile.",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Zásielku bez štítka odneste do vhodného pre Vás stánku RUCH (bodu ORLEN Paczka).",
+        "orlenreturnwithlabel": "Zásielku so štítkom odneste do vhodného pre Vás bodu ORLEN Paczka.",
+        "pocztareturn": "Zásielku odneste do ktorejkoľvek pobočky Poľskej pošty, s výnimkou poštových agentúr."
+    },
+    "serviceDescriptionAdditional": {
+        "inpostreturn": "",
+        "dhlreturn": "Dôležité: Niektoré body sú vylúčené z reťazca DHL POP. Pred návštevou bodu skontrolujte jeho dostupnosť.",
+        "dpdreturn": "",
+        "dpdreturnlocker": "",
+        "glspolandreturn": "Dôležité: Pamätajte na to, aby ste si pred návštevou bodu overili jeho dostupnosť.",
+        "dhlreturnwithlabel": "Dôležité: Niektoré body sú vylúčené z reťazca DHL POP. Pred návštevou bodu skontrolujte jeho dostupnosť.",
+        "dpdreturnwithlabel": "",
+        "dpdreturnwithlabellocker": "",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Dôležité: Stánky a obchodíky RUCH sú body ORLEN Paczka, v ktorých odošlete zásielku bez štítka. Sú označené na mape ako PSD.",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "mailboxSearch": {
+        "description": "Vyhľadajte obchod, do ktorého chcete vrátiť tovar, a jednoducho odošlite balík",
+        "field": "Vyhľadať obchod",
+        "recentSection": "Posledné vrátenia",
+        "suggestStoreMessage": "Obchod, ktorý hľadáte, nie je na zozname?\nSkúste zadať webovú adresu obchodu, napr. tvojobchod.sk. Ak sa obchod stále nezobrazuje vo výsledkoch vyhľadávania, dajte nám vedieť a pridáme obchod do Pohodlných Vrátení.",
+        "suggestStoreButton": "Nahlásiť obchod",
+        "bottomSheet": {
+            "title": "Nahlásiť obchod do Pohodlných Vrátení",
+            "fieldLabel": "Adresa webovej stránky obchodu",
+            "fieldHint": "Napr. www.vasobchod.sk",
+            "description": "Zvyčajne pridáme obchod do 24 hodín v pracovné dni. Po pridaní obchodu Vám pošleme upozornenie na vašu e-mailovú adresu.",
+            "button": "Odoslať nahlásenie",
+            "successMessage": "Vaše nahlásenie sme prijali. Pošleme Vám e-mail, keď bude obchod pridaný."
+        }
+    },
+    "newOrderBar": {
+        "title": "Nové vrátenie",
+        "step1": "Vaša zásielka",
+        "step2": "Objednávka",
+        "step3": "Zhrnutie"
+    },
+    "serviceSelection": {
+        "title": "Vyberte kuriérsku spoločnosť",
+        "description": "Balík môžete podať v automate alebo podacom mieste a kuriér ho doručí na adresu obchodu.",
+        "detailsButton": "Podrobnosti ponúk",
+        "moreButton": "Zobraziť viac spôsobov vrátenia",
+        "voucherButton": "Mám zľavový kód",
+        "voucherField": "Zľavový kód",
+        "addVoucherButton": "Pridať",
+        "removeVoucherButton": "Vymazať",
+        "voucherSuccessMessage": "Zľavový kód bol úspešne pridaný",
+        "withPacket": "Zásielka s použitím vrátenia v rámci balíčka",
+        "withPacketDescription": "Ak nechcete používať balíček, v zhrnutí zmeňte spôsob platby.",
+        "errorMessage": "Vyberte kuriérsku spoločnosť",
+        "packetCount": {
+            "one": "Váš balíček: 1 vrátenie",
+            "few": "Váš balíček: {} vrátenia",
+            "many": "Váš balíček: {} vrátení",
+            "other": "Váš balíček: {} vrátení"
+        }
+    },
+    "offerDetails": {
+        "barTitle": "Podrobnosti ponuky",
+        "serviceName": {
+            "inpostreturn": "Balíkomaty InPost 24/7",
+            "dpdreturn": "Obchod Żabka a miesta DPD",
+            "dhlreturn": "Miesta a automaty DHL"
+        },
+        "withoutLabel": "Bez tlačenia štítku",
+        "shipmentLocationSection": "Kde odošlete zásielku",
+        "shipmentLocationDescription": {
+            "inpostreturn": "Ľubovoľný Balíkomat InPost",
+            "dpdreturn": "Ľubovoľný obchod Żabka alebo iné obchodné miesto z reťazca DPD Pickup.\nOstatné miesta: Dino, Delikatesy Centrum, Obchod ABC, Lewiatan, Groszek, Kaufland, pobočky DPD Polska a iné.",
+            "dhlreturn": "Żabka, Innmedio, 1 minute, Relay a pobočky DHL.\nDôležité: Niektoré body sú vylúčené z reťazca DHL. Pred návštevou miesta skontrolujte jeho dostupnosť."
+        },
+        "and": "a",
+        "andOthers": "a iné",
+        "checkOnMapButton": "Skontrolovať miesta na mape",
+        "maxParametersSection": "Maximálne parametre",
+        "maxParametersDetails": {
+            "inpostreturn": "",
+            "dpdreturn": "Dĺžka balíka (najdlhšia strana) plus obvod základne nesmú presiahnuť 300 cm.",
+            "dhlreturn": ""
+        },
+        "checkParamsButton": "Skontrolujte, či má balík správne rozmery",
+        "insuranceSection": "Poistenie",
+        "insuranceDetails": {
+            "inpostreturn": "Bezplatné do 5000 PLN",
+            "dpdreturn": "Bezplatné do 1000 PLN",
+            "dhlreturn": "Bezplatné do 500 PLN"
+        },
+        "verification": {
+            "barTitle": "Overenie parametrov",
+            "label": "Skontrolujte, či má balík správne rozmery",
+            "successMessage": "Rozmery balíka sú správne",
+            "errorMessage": "Rozmery balíka nie sú správne",
+            "errorMessageDescription": "Ak je Váš balík príliš veľký, môžete skúsiť zabaliť obsah do menšej škatule alebo zvážiť jeho odoslanie cez inú kuriérsku spoločnosť."
+        }
+    },
+    "packetSelection": {
+        "title": "Pridajte balík k objednávke a ušetrite pri vrátení tovaru do svojich obľúbených obchodov",
+        "descriptionRegular1": "Cez Pohodlné Vrátenia vrátite objednávku ",
+        "descriptionBold": "do každého e-shopu",
+        "descriptionRegular2": " na Slovensku.",
+        "bullet1": "Kúpou balíčka ušetríte už teraz, keď vraciate tovar do obchodu {}",
+        "bullet2": "Vrátenia v rámci balíčka môžete zdieľať s blízkymi",
+        "bullet3": "Najlepšia cena - priamo v InPost stojí jednotlivé vrátenie až 25,99 PLN",
+        "moreButton": "Zobraziť ďalšie balíčky"
+    },
+    "newOrderInfo": {
+        "title": "Informácie o objednávke",
+        "optional": " (voliteľné)",
+        "bankAccountTitle": "Vrátenie peňazí",
+        "bankAccountDescription": "Peniaze vám vrátime rovnakou metódou, akou bola uskutočnená platba za objednávku. Ak to nebude možné, prostriedky Vám vrátime na účet, ktorý uvediete nižšie.",
+        "requiredFieldErrorMessage": "Pole \"{}\" je povinné",
+        "bankAccountErrorMessage": "Zadajte platné číslo účtu",
+        "addProduct": "Pridať ďalší produkt",
+        "removeProduct": "Odstrániť produkt"
+    },
+    "newOrderSummary": {
+        "title": "Zhrnutie",
+        "box": "Balík",
+        "packageInfo": "Hmotnosť a rozmery",
+        "packageMax": "Maximálne parametre",
+        "mailboxSection": "Vrátenie do obchodu",
+        "clientSection": "Vaše údaje",
+        "orderInfoSection": "Informácie o objednávke",
+        "deliveryCost": "Cena zásielky",
+        "brutto": "brutto",
+        "packetTile": {
+            "count": {
+                "one": "{} vrátenie do akéhokoľvek e-shopu na Slovensku cez Pohodlné Vrátenia",
+                "few": "{} vrátenia do akéhokoľvek e-shopu na Slovensku cez Pohodlné Vrátenia",
+                "many": "{} vrátení do akéhokoľvek e-shopu na Slovensku cez Pohodlné Vrátenia",
+                "other": "{} vrátení do akéhokoľvek e-shopu na Slovensku cez Pohodlné Vrátenia"
+            },
+            "benefits": "Výhody pri kúpe vrátení v rámci balíčka",
+            "bullet1": "Kúpou balíčka šetríte už pri prvom vrátení",
+            "bullet2": "Vrátenia v rámci balíčka môžete zdieľať s blízkymi",
+            "bullet3Part1": "Je to lacnejšie o ",
+            "bullet3Part2": {
+                "one": " v porovnaní s odoslaním {} najlacnejšieho vrátenia priamo v InPost!",
+                "few": " v porovnaní s odoslaním {} najlacnejších vrátení priamo v InPost!",
+                "many": " v porovnaní s odoslaním {} najlacnejších vrátení priamo v InPost!",
+                "other": " v porovnaní s odoslaním {} najlacnejších vrátení priamo v InPost!"
+            },
+            "recoverUnused": "Ak nevyužijete zásielky z balíčka do {}, môžete získať späť všetky nevyužité prostriedky"
+        },
+        "numberOfReturns": "Počet vrátení",
+        "amountToPay": "Celková suma na zaplatenie",
+        "xTimesReturn": " x vrátenie ",
+        "paymentSection": "Spôsob platby",
+        "payButton": "Objednávam a platím {}",
+        "payPacketButton": "Objednávam s použitím balíčka",
+        "createButton": "Vytvoriť zásielku",
+        "packetPayment": "Vrátenia v rámci balíčka",
+        "noPaymentMethodErrorMessage": "Vyberte spôsob platby",
+        "regulationsErrorMessage": "Je potrebné akceptovať požadované predpisy prepravcu",
+        "paymentErrorMessage": "Chyba platby",
+        "orderCreationSuccess": "Objednávka bola prijatá"
+    },
+    "blikSheet": {
+        "title": "Spôsob platby",
+        "blik": "Blik",
+        "withCode": "S kódom",
+        "withoutCode": "Bez kódu",
+        "codeFieldDescription": "Zadajte 6-miestny kód Blik vygenerovaný vo Vašej bankovej aplikácii.",
+        "codeFieldLabel": "Kód BLIK",
+        "regulation1": "Platením akceptujem ",
+        "regulationLink1": "pravidlá",
+        "regulation2": " PayPro S.A. Počas platobného procesu je Správcom vašich osobných údajov spoločnosť PayPro S.A. ",
+        "regulationExpand": "Prečítať celé",
+        "regulation3": "(KRS 0000347935), 60-327 Poznań (Poľsko), Kancelarska 15, +48 61 642 93 44, ",
+        "regulationLink2": ". Pozrite si celé znenie informačnej doložky.",
+        "payButton": "Objednávam a platím {}",
+        "noCodeDescription": "Pokračujte ďalej kliknutím na tlačidlo objednávam a platím, a v ďalšom kroku potvrďte platbu vo Vašej bankovej aplikácii",
+        "selectApp": "Vyberte bankový účet, z ktorého chcete vykonať platbu",
+        "errorButton": "Skúste znova",
+        "confirmation": {
+            "title": "Potvrďte platbu v bankovej aplikácii",
+            "description": "Ak to neurobíte, platba sa neuskutoční."
+        }
+    },
+    "firstCall": {
+        "barTitle": "Uvítacia ponuka",
+        "title": "Dobrý deň, {}",
+        "description1": "Tešíme sa, že využívate Pohodlné Vrátenia. Aby sme ocenili Vašu prítomnosť, pripravili sme pre Vás ",
+        "descriptionBold": "Uvítacie Vrátenia v rámci balíčka",
+        "description2": " za veľmi atraktívnu cenu!",
+        "description3": "Prostredníctvom Pohodlných Vrátení môžete odoslať vrátenie do každého e-shopu na Slovensku",
+        "welcomeOffer": "Uvítacia Ponuka",
+        "onlyInApp": "Vrátenia z uvítacieho balíka môžete využiť výhradne v aplikácii Pohodlné Vrátenia",
+        "codeFieldDescription": "Zadajte 6-miestny kód Blik vygenerovaný vo Vašej bankovej aplikácii.",
+        "bullet1": "Jednorazová ponuka",
+        "bullet2": "Dostupná výhradne v aplikácii",
+        "bullet3": "Dlhá platnosť vrátení v rámci balíka - až 6 mesiacov od momentu nákupu",
+        "availableFor": "Ponuka platná ešte {}",
+        "remindMeButton": "Pripomeňte mi neskôr",
+        "buyButton": "Znie to dobre, kupujem balíček",
+        "tile": {
+            "onlyInApp": "Výhradne v aplikácii",
+            "availableFor": "Koniec za {}",
+            "returns": "{} vrátenia InPost Balíkomat"
+        }
+    },
+    "invoiceDataSection": {
+        "checkbox": "Chcem dostať faktúru s DPH",
+        "header": "Údaje pre faktúru"
+    },
+    "orderStatus": {
+        "created": "Vytvorená",
+        "deleted": "Odstránená",
+        "awaitingApproval": "Čaká na schválenie",
+        "rejected": "Zamietnutá",
+        "canceled": "Zrušená",
+        "readyToSend": "Pripravená na odoslanie",
+        "paid": "Zaplatená",
+        "processingError": "Chyba spracovania",
+        "shipped": "Odoslaná",
+        "inTransit": "Na ceste",
+        "returnToSender": "Vrátenie odosielateľovi",
+        "returned": "Vrátená",
+        "outForDelivery": "Odovzdaná na doručenie",
+        "awaitingPickup": "Čaká na vyzdvihnutie na odbernom mieste",
+        "delivered": "Doručená"
+    },
+    "orderEvent": {
+        "created": "Zásielka vytvorená",
+        "deleted": "Zásielka odstránená",
+        "awaitingApproval": "Zásielka čaká na schválenie",
+        "rejected": "Zásielka zamietnutá",
+        "canceled": "Zásielka zrušená",
+        "readyToSend": "Zásielka čaká na odoslanie",
+        "paid": "Zásielka zaplatená",
+        "processingError": "Chyba spracovania",
+        "shipped": "Zásielka odoslaná",
+        "inTransit": "Zásielka na ceste",
+        "returnToSender": "Vrátenie odosielateľovi",
+        "returned": "Zásielka vrátená",
+        "outForDelivery": "Odovzdaná na doručenie",
+        "awaitingPickup": "Zásielka čaká na vyzdvihnutie na odbernom mieste",
+        "delivered": "Zásielka doručená"
+    },
+    "navigationBar": {
+        "orderList": "Moje vrátenia",
+        "newOrder": "Nové vrátenie",
+        "packets": "Vrátenia v rámci balíčka",
+        "account": "Môj účet"
+    },
+    "common": {
+        "nextButton": "Pokračovať",
+        "saveButton": "Uložiť",
+        "editButton": "Upraviť",
+        "deleteButton": "Vymazať",
+        "changeButton": "Zmeniť",
+        "selectButton": "Vybrať",
+        "confirmButton": "Potvrdiť",
+        "cancelButton": "Zrušiť",
+        "skipButton": "Preskočiť",
+        "copyButton": "Kopírovať",
+        "moreButton": "Viac",
+        "lessButton": "Menej",
+        "or": "alebo",
+        "errorOccurred": "Vyskytla sa chyba",
+        "errorConnection": "Žiadne pripojenie k serveru",
+        "fromDate": "od {}",
+        "expand": "Rozbaliť",
+        "collapse": "Zbaliť",
+        "optionalRegulation": " (voliteľné)",
+        "default": "Predvolené",
+        "step": "Krok {} z {}",
+        "kg": "kg",
+        "cm": "cm"
+    }
+}

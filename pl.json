@@ -115,7 +115,17 @@
         "dark": "Ciemny"
     },
     "languageSettings": {
-        "pl": "Polski"
+        "bg": "български",
+        "cs": "Česky",
+        "de": "Deutsch",
+        "el": "ελληνικά",
+        "en": "English",
+        "hu": "Magyar",
+        "pl": "Polski",
+        "ro": "Românește",
+        "ru": "Русский",
+        "sk": "Slovenčina",
+        "uk": "Українська"
     },
     "profileList": {
         "addNew": "Dodaj nowy profil",

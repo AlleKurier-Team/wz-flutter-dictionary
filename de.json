@@ -1,0 +1,663 @@
+{
+    "appName": "Bequeme Retouren",
+    "firstExplainer": {
+        "title": "Willkommen bei der Bequeme Retouren-App",
+        "header": "Hier können Sie eine Retoure an jeden Online-Shop in Polen senden!",
+        "bullet1": "Shop aus Liste auswählen",
+        "bullet2": "Versenden Sie das Paket mit dem ausgewählten Kurierunternehmen – über InPost, bei Żabka und vielen anderen Punkten.",
+        "bullet3": "Bringen Sie Ihr Paket zur Versandstelle und fertig.",
+        "servicesSection": "So versenden Sie Ihr Paket"
+    },
+    "secondExplainer": {
+        "title": "Verfolgen Sie Ihre Rücksendungen",
+        "description": "Sie können den Weg Ihrer Rücksendungen ständig überwachen. Dadurch haben Sie immer aktuelle Informationen über den Status Ihrer Rücksendungen"
+    },
+    "thirdExplainer": {
+        "title": "Verwenden Sie Retourenpakete, um Geld und Zeit zu sparen!",
+        "bullet1": "Durch den Kauf von Retouren im Paket sparen Sie ab der ersten Lieferung",
+        "bullet2": "Sie können Rücksendungen aus dem Paket mit Ihrer Familie und Ihren Freunden teilen",
+        "bullet3": "Bester Preis – direkt bei InPost kostet eine einzelne Rücksendung bis zu 25,99 PLN, bei Bequemen Retouren beginnen die Preise bei 10,97 PLN",
+        "button": "Starten"
+    },
+    "login": {
+        "title": "Starten Sie mit der Bequeme Retouren-App",
+        "description": "Wir verifizieren Ihre E-Mail-Adresse, um Ihnen die Möglichkeit zu geben, bequem und sicher Retouren für Online-Shops zu erstellen.",
+        "withAppleButton": "Weiter über Apple ID",
+        "withGoogleButton": "Weiter über Google",
+        "withFacebookButton": "Weiter über Facebook",
+        "withEmailButton": "Weiter über E-Mail",
+        "withAllegroButton": "Weiter über Allegro",
+        "withMicrosoftButton": "Weiter über Microsoft",
+        "loggedInAsMessage": "Eingeloggt als {}",
+        "regulations": {
+            "title": "Akzeptieren Sie die Allgemeinen Geschäftsbedingungen, um fortzufahren",
+            "accept": "Ich akzeptiere",
+            "deny": "Ich akzeptiere nicht"
+        }
+    },
+    "loginWithEmail": {
+        "title": "Geben Sie Ihre E-Mail-Adresse ein",
+        "field": "E-Mail",
+        "checkboxAll": "Alle Einwilligungen auswählen",
+        "emailErrorMessage": "Es wurde eine ungültige E-Mail-Adresse eingegeben",
+        "regulationsErrorMessage": "Sie müssen alle erforderlichen Einwilligungen akzeptieren, um ein Konto zu erstellen"
+    },
+    "loginVerify": {
+        "title": "Überprüfung der E-Mail-Adresse",
+        "description": "Wir haben einen Verifizierungscode an Ihre E-Mail-Adresse gesendet. Bitte geben Sie den Code ein, den Sie erhalten haben.",
+        "emailLabel": "E-Mail:",
+        "codeField": "Verifizierungscode eingeben",
+        "notReceivedButton": "E-Mail nicht erhalten?",
+        "anotherEmailButton": "Ich möchte eine andere E-Mail eingeben",
+        "passwordButton": "Ich möchte mich mit meinem Passwort anmelden",
+        "codeSentMessage": "Wir haben den Code an die angegebene E-Mail-Adresse gesendet",
+        "codeResentMessage": "Der Aktivierungscode wurde erneut gesendet",
+        "emailErrorMessage": "Es wurde eine ungültige E-Mail-Adresse eingegeben",
+        "codeErrorMessage": "Es wurde ein ungültiger Verifizierungscode eingegeben"
+    },
+    "loginAnotherEmail": {
+        "title": "Geben Sie eine andere E-Mail-Adresse ein",
+        "field": "E-mail",
+        "button": "E-Mail-Adresse ändern"
+    },
+    "loginEmailNotReceived": {
+        "title": "E-Mail ist nicht angekommen",
+        "text": "1. Überprüfen Sie Ihren Spam-Ordner.\n2. Warten Sie 15 Minuten und überprüfen Sie ihn erneut.\n3. Oder ",
+        "button": "Bestätigungscode erneut senden."
+    },
+    "loginWithPassword": {
+        "title": "Anmeldung bei der Bequeme Retouren-App",
+        "fieldEmail": "E-mail",
+        "fieldPassword": "Passwort",
+        "forgotButton": "Passwort vergessen?",
+        "emailErrorMessage": "Es wurde eine ungültige E-Mail-Adresse eingegeben",
+        "passwordErrorMessage": "Sie müssen ein Passwort eingeben"
+    },
+    "completeUserInfo": {
+        "title": "Retourendetails",
+        "description": "Geben Sie einfach Ihre Daten ein, die für Rücksendungen verwendet werden sollen. Und fertig! In Ihrem Konto können Sie weitere Profile für Rücksendungen hinzufügen.",
+        "fieldLabelSender": "Absender",
+        "fieldHintSender": "Vor- und Nachname oder Firmenname",
+        "fieldPhoneNumber": "Telefonnummer",
+        "fieldEmail": "E-mail",
+        "successMessage": "Daten gespeichert",
+        "nameErrorMessage": "Sie müssen Ihren Vor- und Nachnamen oder Firmennamen eingeben",
+        "phoneErrorMessage": "Es wurde eine ungültige Telefonnummer eingegeben"
+    },
+    "account": {
+        "barTitle": "Mein Konto",
+        "email": "E-mail",
+        "clientData": "Ihre Angaben",
+        "bankAccountNumber": "Bankkontonummer",
+        "invoiceData": "Rechnungsdetails",
+        "appTheme": "Appthema",
+        "appLanguage": "Appsprache",
+        "notifications": "Benachrichtigungen",
+        "marketingRegulations": "Marketingeinwilligungen",
+        "accountManagement": "Kontoverwaltung",
+        "help": "Hilfe",
+        "helpAndContact": "Hilfe und Kontakt",
+        "deleteAccount": "Konto löschen",
+        "logout": "Abmelden",
+        "manage": "Verwalten"
+    },
+    "deleteAccount": {
+        "dialogTitle": "Konto löschen",
+        "dialogBody": "Sind Sie sicher, dass Sie Ihr Konto bei Bequemen Retouren löschen möchten?",
+        "emailTitle": "Löschung des Kontos bei Bequemen Retouren",
+        "emailBody": "Bitte löschen Sie mein Konto bei Bequemen Retouren.\n\nMeine E-Mail-Adresse, unter der das Konto erstellt wurde, lautet: {}",
+        "noEmailMessage1": "Um Ihr Konto zu löschen, senden Sie eine E-Mail an",
+        "noEmailMessage2": "o przykładowej treści:"
+    },
+    "themeSettings": {
+        "system": "System",
+        "light": "Hell",
+        "dark": "Dunkel"
+    },
+    "languageSettings": {
+        "bg": "български",
+        "cs": "Česky",
+        "de": "Deutsch",
+        "el": "ελληνικά",
+        "en": "English",
+        "hu": "Magyar",
+        "pl": "Polski",
+        "ro": "Românește",
+        "ru": "Русский",
+        "sk": "Slovenčina",
+        "uk": "Українська"
+    },
+    "profileList": {
+        "addNew": "Neues Profil hinzufügen",
+        "deleteDialogTitle": "Profil löschen?",
+        "deleteDialogMessage": "Sind Sie sicher, dass Sie das ausgewählte Profil löschen möchten?",
+        "deleteSuccessMessage": "Daten wurden gelöscht"
+    },
+    "profileEdit": {
+        "newProfile": "Neues Retourenprofil",
+        "editProfile": "Retourenprofil bearbeiten",
+        "fieldLabelSender": "Absender",
+        "fieldHintSender": "Vor- und Nachname oder Firmenname",
+        "fieldPhoneNumber": "Telefonnummer",
+        "fieldLabelEmail": "E-Mail (fakultativ)",
+        "fieldHintEmail": "E-mail",
+        "defaultCheckbox": "Als Standardprofil festlegen",
+        "insertProfileButton": "Aus Profilen einfügen",
+        "fieldDescriptionEmail": "Ausfüllen, falls abweichend von Ihrer Standard-E-Mail: {}. So senden wir Ihnen hier Versandinformationen zu.",
+        "fieldDescriptionEmailDisabled": "Diese E-Mail-Adresse wurde zum Erstellen einer Bestellung im {}-Shop verwendet. Sie kann nicht geändert werden. Den Rückgabecode finden Sie in Ihrer Bequeme Retouren-App. Wir senden ihn auch an diese E-Mail-Adresse .",
+        "successMessage": "Daten gespeichert",
+        "emailErrorMessage": "Es wurde eine ungültige E-Mail-Adresse eingegeben",
+        "nameErrorMessage": "Sie müssen Ihren Vor- und Nachnamen oder Firmennamen eingeben",
+        "phoneErrorMessage": "Es wurde eine ungültige Telefonnummer eingegeben"
+    },
+    "bankAccountList": {
+        "addNew": "Neue Kontonummer hinzufügen",
+        "deleteDialogTitle": "Kontonummer löschen?",
+        "deleteDialogMessage": "Sind Sie sicher, dass Sie das ausgewählte Kontonummer löschen möchten?",
+        "deleteSuccessMessage": "Daten wurden gelöscht"
+    },
+    "bankAccountEdit": {
+        "newAccount": "Neue Bankkontonummer",
+        "editAccount": "Bankkontonummer bearbeiten",
+        "fieldAccountNumber": "Bankkontonummer",
+        "successMessage": "Daten gespeichert",
+        "accountNumberErrorMessage": "Es wurde eine ungültige Bankkontonummer eingegeben"
+    },
+    "invoiceList": {
+        "nip": "Steueridentifikationsnummer",
+        "addNew": "Neue Rechnungsdetails hinzufügen",
+        "deleteDialogTitle": "Rechnungsdetails löschen?",
+        "deleteDialogMessage": "Sind Sie sicher, dass Sie das ausgewählte Rechnungsdetails löschen möchten?",
+        "deleteSuccessMessage": "Daten wurden gelöscht"
+    },
+    "invoiceEdit": {
+        "newData": "Neue Rechnungsdetails",
+        "editData": "Rechnungsdetails bearbeiten",
+        "typeCompany": "Firma",
+        "typePerson": "Privatperson",
+        "fieldNIP": "Steueridentifikationsnummer",
+        "fieldCompanyName": "Name der Firma",
+        "fieldFullName": "Vor- und Nachname",
+        "fieldStreet": "Straße und Hausnummer",
+        "fieldPostalCode": "Postleitzahl",
+        "fieldCity": "Ort",
+        "defaultData": "Standarddaten",
+        "successMessage": "Daten gespeichert",
+        "nameErrorMessage": "Sie müssen Ihren Vor- und Nachnamen oder Firmennamen eingeben",
+        "addressErrorMessage": "Straße und Hausnummer eingeben",
+        "postalCodeErrorMessage": "Es wurde ein ungültiger Verifizierungscode eingegeben",
+        "cityErrorMessage": "Ort eingeben",
+        "nipErrorMessage": "Steueridentifikationsnummer eingeben"
+    },
+    "notificationSettings": {
+        "barTitle": "Benachrichtigungen verwalten",
+        "push": "Push-Benachrichtigungen",
+        "successMessage": "Einstellungen wurden gespeichert",
+        "settingsButton": "Einstellungen",
+        "settingsDialogMessage": "Um Benachrichtigungen zu erhalten, stimmen Sie dem Versand in den Systemeinstellungen zu."
+    },
+    "help": {
+        "cancelReturnHeader": "Wie kann ich meine Sendung stornieren und eine Rückerstattung erhalten?",
+        "cancelReturnText": "Um die Sendung zu stornieren und eine Rückerstattung zu erhalten, kontaktieren Sie uns bitte per E-Mail: sklep@wygodnezwroty.pl. Teilen Sie uns in der Nachricht den Rückerstattungscode oder die Sendungsnummer mit. Wir erstatten Ihnen die Kosten für die Sendung innerhalb von 14 Tagen auf demselben Weg, auf dem die Zahlung erfolgt ist;\nwenn Ihre Sendung als Teil eines Retourenpakets erstellt wurde, geht die Erstattung innerhalb von 14 Tagen an den Pool zurück.",
+        "cancelPacketHeader": "Wie kann ich das Retourenpaket stornieren?",
+        "cancelPacketText": "Um das Retourenpaket zu stornieren und eine Rückerstattung zu erhalten, kontaktieren Sie uns bitte per E-Mail: sklep@wygodnezwroty.pl. Teilen Sie uns in der Nachricht die E-Mail-Adresse mit, an die das Retourenpaket gekauft wurde. Wir werden die Kosten für das Paket auf die gleiche Weise zurückerstatten, wie die Zahlung erfolgt ist.",
+        "appErrorHeader": "Meine App funktioniert nicht richtig",
+        "appErrorText": "Wenn Sie ein Problem mit der Bedienung der mobilen Bequeme Retouren-App haben, kontaktieren Sie uns bitte per E-Mail: kontakt@wygodnezwroty.pl. Bitte beschreiben Sie uns genau, wo das Problem liegt. Fügen Sie auch einen Screenshot bei. Ihre Antwort hilft uns, die Fehlerquelle schneller zu finden und zu beheben. Schließen Sie in der Zwischenzeit die App, öffnen Sie sie erneut und versuchen Sie dann den Vorgang, der das Problem verursacht hat.",
+        "otherQuestions": "Wenn Sie die Antwort auf Ihre Frage nicht sehen, kontaktieren Sie uns bitte.",
+        "email": "wsparcie@wygodnezwroty.pl",
+        "emailCopied": "Die E-Mail-Adresse wurde in die Zwischenablage kopiert",
+        "phoneNumber": "12 345 00 50",
+        "phoneNumberCopied": "Die Telefonnummer wurde in die Zwischenablage kopiert",
+        "workingHours": "Das Kundensupport-Center steht Ihnen von Montag bis Freitag von 8:00 bis 16:00 Uhr zur Verfügung"
+    },
+    "myPackets": {
+        "barTitle": "Meine Pakete",
+        "noPacket": {
+            "description1": "Wir haben für Sie Retourenpakete vorbereitet, mit denen Sie Versandkosten sparen können.",
+            "description2": "Mit Bequemen Retouren können Sie Ihre Bestellung in jedem Online-Shop in Polen zurücksenden.",
+            "bulletPoint1": "Durch den Kauf eines Pakets sparen Sie bereitr bei Ihrer ersten Retoure",
+            "bulletPoint2": "Sie können Rücksendungen aus dem Paket mit Ihrer Familie und Ihren Freunden teilen",
+            "bulletPoint3": "Der beste Preis – direkt bei InPost kostet eine einzelne Retoure bis zu 25,99 PLN",
+            "recoverUnused": "Wenn Sie Ihre Paketsendungen bis {} nicht in Anspruch nehmen, können Sie die nicht genutzten Mittel zurückfordern",
+            "button": "Retourenpakete entdecken und sparen"
+        },
+        "withPacket": {
+            "returnsLeft": "Meine Retouren im Paket",
+            "buyMoreButton": "Mehr Retouren kaufen",
+            "description1": "Um eine Sendung per Paket zu versenden, wählen Sie beim Bezahlen Retourenpaket als Zahlungsmethode aus.",
+            "packetCode": "Paketcode prüfen",
+            "description2": "Mehr über Retourenpakete erfahren. Überprüfen",
+            "questionsLink": "Häufig gestellte Fragen",
+            "createReturnButton": "Retourensendung erstellen",
+            "packetCodeCopiedMessage": "Der Paketcode wurde in die Zwischenablage kopiert"
+        }
+    },
+    "newPacket": {
+        "title": "Rückerstattungspaket auswählen",
+        "barTitle": "Paketkauf",
+        "step1": "Paketauswahl",
+        "step2": "Zusammenfassung",
+        "noneSelectedError": "Rückerstattungspaket auswählen",
+        "paymentErrorMessage": "Zahlungsfehler",
+        "noPaymentMethodError": "Zahlungsmethode auswählen",
+        "successMessage": "Das Retourenpaket wurde Ihrem Konto hinzugefügt",
+        "summary": {
+            "title": "Zusammenfassung",
+            "emailLabel": "Ihre E-Mail",
+            "invoiceCheckbox": "Ich möchte eine Rechnung mit ausgewiesener Mehrwertsteuer erhalten",
+            "selectedPacket": "Ausgewähltes Rückerstattungspaket",
+            "count": {
+                "one": "{} Retouren an alle Online-Shops in Polen über Bequeme Retouren",
+                "few": "{} Retouren an alle Online-Shops in Polen über Bequeme Retouren",
+                "many": "{} Retouren an alle Online-Shops in Polen über Bequeme Retouren",
+                "other": "{} Retouren an alle Online-Shops in Polen über Bequeme Retouren"
+            },
+            "benefits": "Vorteile beim Kauf eines Retourenpakets",
+            "bullet1": "Durch den Kauf eines Pakets sparen Sie bereitr bei Ihrer ersten Retoure",
+            "bullet2": "Sie können Rücksendungen aus dem Paket mit Ihrer Familie und Ihren Freunden teilen",
+            "bullet3Part1": "Günstiger um",
+            "bullet3Part2": {
+                "one": " Im Vergleich zum Versenden {} der günstigsten Retoure direkt bei InPost!",
+                "few": " Im Vergleich zum Versenden {} der günstigsten Retoure direkt bei InPost!",
+                "many": " Im Vergleich zum Versenden {} der günstigsten Retoure direkt bei InPost!",
+                "other": " Im Vergleich zum Versenden {} der günstigsten Retoure direkt bei InPost!"
+            },
+            "recoverUnused": "Wenn Sie Ihre Paketsendungen bis {} nicht in Anspruch nehmen, können Sie die nicht genutzten Mittel zurückfordern",
+            "numberOfReturns": "Anzahl der Retouren",
+            "amountToPay": "Zu zahlender Gesamtbetrag",
+            "brutto": "brutto",
+            "paymentMethod": "Zahlungsart",
+            "showMoreMethods": "Weitere Zahlungsmethoden anzeigen"
+        }
+    },
+    "packetListItem": {
+        "recommended": "Für Sie ausgewählt",
+        "checkbox": "Ich füge der Bestellung ein Paket hinzu",
+        "forReturn": "pro Retoure",
+        "forPacket": "pro Paket",
+        "savings": "Sie sparen {}",
+        "count": {
+            "one": "Bequeme Retoure\nInPost Paketautomat",
+            "few": "Bequeme Retoure\nInPost Paketautomat",
+            "many": "Bequeme Retoure\nInPost Paketautomat",
+            "other": "Bequeme Retoure\nInPost Paketautomat"
+        }
+    },
+    "orderListEmpty": {
+        "title": "Hallo, {}",
+        "createDescription": "Wenn Sie Ihre erste Rücksendung einreichen, erscheint hier eine Statusmeldung.",
+        "createButton": "Retoure erstellen",
+        "packagesDescription": "Möchten Sie schon ab Ihrer ersten Sendung Geld bei Retouren sparen? Erfahren Sie mehr über unsere Retourenpakete",
+        "packagesButton": "Pakete erkunden"
+    },
+    "orderList": {
+        "barTitle": "Meine Retouren"
+    },
+    "orderDetails": {
+        "barTitle": "Retourendetails",
+        "returnInfo": "Retouren-Informationen",
+        "mailboxInfo": "Retoure zum Shop",
+        "clientInfo": "Ihre Angaben",
+        "historySection": "Sendungshistorie",
+        "returnCodeLabel": "Retourencode",
+        "returnCodeValidUntil": "Code gültig bis {}",
+        "trackingNumberLabel": "Sendungsverfolgungsnummer",
+        "trackingNumberCopiedMessage": "Die Sendungsverfolgungsnummer wurde in die Zwischenablage kopiert",
+        "codeDescription": "Schreiben Sie den Retourencode auf das Paket. Entfernen Sie andere Etiketten von der Sendung.",
+        "qrCodeDescription": "Um das Schließfach zu öffnen, geben Sie den Retourencode ein oder scannen Sie den QR-Code.",
+        "qrCodeZoom": "Zum Zoomen antippen",
+        "returnDetails": "Retourendetails",
+        "product": "Produkt",
+        "packageInfo": "Informationen über die Sendung",
+        "maxPackageSize": "Maximale Parameter",
+        "weightAndSize": "Gewicht und Abmessungen",
+        "shippingCost": "Lieferkosten",
+        "paymentMethod": "Zahlungsart",
+        "invoiceData": "Rechnungsdetails",
+        "retryPaymentButton": "Versand bezahlen",
+        "retryPaymentDescription": "Die Sendung wurde noch nicht bezahlt. Nehmen Sie eine Zahlung vor, um Ihre Retoure senden zu können.",
+        "forApproval": "Wir haben dem Shop {} mitgeteilt, dass Sie Ihre Bestellung zurücksenden möchten. Wenn der Shop Ihre Rücksendung akzeptiert, werden wir Sie mit einer Benachrichtigung in der App informieren und Ihr Retourendecode wird hier angezeigt."
+    },
+    "orderOptions": {
+        "recreateButton": "Erstellen Sie die gleiche Retoure",
+        "cancelButton": "Sendung stornieren",
+        "deleteButton": "Sendung aus Retourenliste löschen",
+        "deleteDialog": {
+            "title": "Entfernung der Sendung aus der Retourenliste",
+            "message": "Sind Sie sicher, dass Sie die Sendung aus der Retourenliste entfernen möchten? Der Vorgang kann nicht rückgängig gemacht werden.",
+            "yesButton": "Ja, ich möchte die Sendung entfernen",
+            "noButton": "Nein, ich lasse das Paket auf der Liste",
+            "successMessage": "Die Sendung wurde aus der Retourenliste entfernt"
+        }
+    },
+    "notifications": {
+        "barTitle": "Benachrichtigungen",
+        "empty": "Keine Benachrichtigungen"
+    },
+    "instantReturn": {
+        "title": "Neue Retoure an den Shop {}",
+        "message": "Im nächsten Schritt werden wir Sie bitten, Informationen zur zurückgegebenen Bestellung anzugeben.",
+        "createButton": "Ich erstelle eine Retoure",
+        "restoreButton": "Wiederherstellen",
+        "weightAndSize": "Gewicht und Abmessungen"
+    },
+    "packageParams": {
+        "title": "Sendungsparameter",
+        "type": "Wie ist Ihre Sendung verpackt",
+        "foil-package": "Folienpack",
+        "delivery-package": "Pappkarton",
+        "foil-package-short": "Folienpack",
+        "delivery-package-short": "Box",
+        "weight": "Wie viel wiegt Ihre Sendung",
+        "weightTo": "do {} kg",
+        "size": "Geben Sie die Abmessungen der Sendung ein",
+        "length": "Länge",
+        "width": "Breite",
+        "height": "Höhe",
+        "typeErrorMessage": "Wählen Sie, wie Ihre Sendung verpackt wird",
+        "weightErrorMessage": "Sendungsgewicht auswählen",
+        "lengthErrorMessage": "Geben Sie die Sendungslänge ein",
+        "widthErrorMessage": "Geben Sie die Sendungsbreite ein",
+        "heightErrorMessage": "Geben Sie die Sendungshöhe ein"
+    },
+    "maxPackageSize": {
+        "prefix": "max.",
+        "inpostreturn": "41 cm x 38 cm x 64 cm, 25 kg",
+        "dhlreturn": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturn": "längste Seite 150 cm, 31,5 kg",
+        "dpdreturnlocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "glspolandreturn": "längste Seite 200 cm",
+        "dhlreturnwithlabel": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturnwithlabel": "längste Seite 150 cm, 31,5 kg",
+        "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "dpdreturnnolabelcourier": "längste Seite 150 cm, 31,5 kg",
+        "dpdreturnwithlabelcourier": "längste Seite 150 cm, 31,5 kg",
+        "orlenreturn": "",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "serviceDescription": {
+        "inpostreturn": "Sie können das Paket ohne Etikett an jedem InPost Paketautomaten versenden",
+        "dhlreturn": "Bringen Sie das Paket ohne Etikett zu einem beliebigen DHL-POP-Punkt: Żabka, Inmedio, Relay, 1minute, DHL-Filialen.",
+        "dpdreturn": "Bringen Sie das Paket ohne Etikett zu einer beliebigen Żabka-Filiale oder einem anderen DPD-Pickup-Punkt.",
+        "dpdreturnlocker": "Legen Sie das Paket ohne Etikett in ein beliebiges DPD-Paketschließfach. Denken Sie daran, dass zum Öffnen des Paketschließfachs die DPD Mobile-App erforderlich ist.",
+        "glspolandreturn": "Bringen Sie das Paket zu einem beliebigen GLS-Punkt: Carrefour, Auchan, Kolporter und anderen Szybka Paczka / ParcelShop-Punkten und GLS-Filialen.",
+        "dhlreturnwithlabel": "Bringen Sie das Paket mit Etikett zu einem beliebigen DHL-POP-Punkt: Żabka, Inmedio, Relay, 1minute, DHL-Filialen.",
+        "dpdreturnwithlabel": "Bringen Sie das Paket mit Etikett zu einer beliebigen Żabka-Filiale oder einem anderen DPD-Pickup-Punkt.",
+        "dpdreturnwithlabellocker": "Legen Sie das Paket ohne Etikett in ein beliebiges DPD-Paketschließfach. Denken Sie daran, dass zum Öffnen des Paketschließfachs die DPD Mobile-App erforderlich ist.",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Bringen Sie das Paket ohne Etikett zu einem beliebigen RUCH-Kiosk (ORLEN Paczka-Punkt).",
+        "orlenreturnwithlabel": "Bringen Sie das Paket mit Etikett zu einem beliebigen ORLEN Paczka-Punkt.",
+        "pocztareturn": "Bringen Sie das Paket zu einem beliebigen polnischen Postamt, außer zu Postagenturen."
+    },
+    "serviceDescriptionAdditional": {
+        "inpostreturn": "",
+        "dhlreturn": "Wichtig: Einige Punkte sind vom DHL POP-Netzwerk ausgeschlossen. Bevor Sie einen Punkt besuchen, prüfen Sie dessen Verfügbarkeit.",
+        "dpdreturn": "",
+        "dpdreturnlocker": "",
+        "glspolandreturn": "Wichtig: Denken Sie daran, die Verfügbarkeit zu überprüfen, bevor Sie den Punkt besuchen.",
+        "dhlreturnwithlabel": "Wichtig: Einige Punkte sind vom DHL POP-Netzwerk ausgeschlossen. Bevor Sie einen Punkt besuchen, prüfen Sie dessen Verfügbarkeit.",
+        "dpdreturnwithlabel": "",
+        "dpdreturnwithlabellocker": "",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Wichtig: RUCH-Kioske und -Shops sind ORLEN Paczka-Punkte, an denen Sie Pakete ohne Etikett versenden können. Sie sind auf der Karte als PSD markiert.",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "mailboxSearch": {
+        "description": "Wählen Sie den Shop aus, an den Sie die Ware zurücksenden möchten, und versenden Sie das Paket ganz einfach",
+        "field": "Wählen Sie den Shop aus",
+        "recentSection": "Letzte Retouren",
+        "suggestStoreMessage": "Der von Ihnen gesuchte Shop ist nicht auf der Liste?\nVersuchen Sie, die Website-Adresse des Shops einzugeben, z. B. twojsklep.pl. Wenn der Shop immer noch nicht in den Suchergebnissen erscheint, lassen Sie es uns wissen und wir werden den Shop zu Bequemen Retouren hinzufügen.",
+        "suggestStoreButton": "Shop melden",
+        "bottomSheet": {
+            "title": "Melden Sie den Shop bei Bequemen Retouren",
+            "fieldLabel": "Website des Shops",
+            "fieldHint": "Z.B. www.twojsklep.pl",
+            "description": "Wir fügen den Shop in der Regel innerhalb von 24 Stunden an Werktagen hinzu. Nach dem Hinzufügen des Shops senden wir Ihnen eine Benachrichtigung an Ihre E-Mail-Adresse.",
+            "button": "Bericht senden",
+            "successMessage": "Wir haben Ihre Meldung erhalten. Wir senden Ihnen eine E-Mail, wenn der Shop hinzugefügt wird."
+        }
+    },
+    "newOrderBar": {
+        "title": "Neue Retoure",
+        "step1": "Ihre Sendung",
+        "step2": "Bestellung",
+        "step3": "Zusammenfassung"
+    },
+    "serviceSelection": {
+        "title": "Kurierunternehmen wählen",
+        "description": "Sie können das Paket ohne Etikett an einem Automaten oder einer Versandstelle abgeben und der Kurier liefert es dann an die Adresse des Shops.",
+        "detailsButton": "Angebotsdetails",
+        "moreButton": "Weitere Rückgabeformen anzeigen",
+        "voucherButton": "Ich habe einen Rabattcode",
+        "voucherField": "Rabattcode",
+        "addVoucherButton": "Hinzufügen",
+        "removeVoucherButton": "Löschen",
+        "voucherSuccessMessage": "Rabattcode erfolgreich hinzugefügt",
+        "withPacket": "Sendung mit Retoure aus Paket",
+        "withPacketDescription": "Wenn Sie das Paket nicht nutzen möchten, ändern Sie bitte Ihre Zahlungsmethode in der Zusammenfassung.",
+        "errorMessage": "Kurierunternehmen wählen",
+        "packetCount": {
+            "one": "Ihr Paket: 1 Retoure",
+            "few": "Ihr Paket: {} Retouren",
+            "many": "Ihr Paket: {} Retouren",
+            "other": "Ihr Paket: {} Retouren"
+        }
+    },
+    "offerDetails": {
+        "barTitle": "Angebotsdetails",
+        "serviceName": {
+            "inpostreturn": "InPost 24/7 Paketautomaten",
+            "dpdreturn": "Żabka-Filiale und DPD-Punkte",
+            "dhlreturn": "DHL-Punkte und -Automaten"
+        },
+        "withoutLabel": "Ohne Etikettendruck",
+        "shipmentLocationSection": "Wo können Sie die Sendung aufgeben",
+        "shipmentLocationDescription": {
+            "inpostreturn": "Beliebiges InPost Paketautomat",
+            "dpdreturn": "Jede Żabka-Filiale oder andere Einzelhandelsfiliale der DPD-Pickup-Kette.\nWeitere Punkte: Dino, Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, DPD Polska-Filialen und andere.",
+            "dhlreturn": "Żabka, Innmedio, 1 Minute, Relay und DHL-Filialen.\nWichtig: Einige Punkte sind vom DHL-Netzwerk ausgeschlossen. Bevor Sie einen Punkt besuchen, prüfen Sie dessen Verfügbarkeit."
+        },
+        "and": "und",
+        "andOthers": "und andere",
+        "checkOnMapButton": "Überprüfen Sie die Versandstellen auf der Karte",
+        "maxParametersSection": "Maximale Parameter",
+        "maxParametersDetails": {
+            "inpostreturn": "",
+            "dpdreturn": "Die Länge des Pakets (längste Seite) plus die Summe des Grundumfangs darf 300 cm nicht überschreiten.",
+            "dhlreturn": ""
+        },
+        "checkParamsButton": "Prüfen Sie, ob das Paket die passenden Maße hat",
+        "insuranceSection": "Versicherung",
+        "insuranceDetails": {
+            "inpostreturn": "Gratis bis 5000 PLN",
+            "dpdreturn": "Gratis bis 1000 PLN",
+            "dhlreturn": "Gratis bis 500 PLN"
+        },
+        "verification": {
+            "barTitle": "Parameterverifizierung",
+            "label": "Prüfen Sie, ob das Paket die passenden Maße hat",
+            "successMessage": "Die Maße des Pakets sind angemessen",
+            "errorMessage": "Die Maße des Pakets sind nicht angemessen",
+            "errorMessageDescription": "Wenn Ihr Paket zu groß ist, können Sie versuchen, den Inhalt in einen kleineren Karton umzupacken oder es über einen anderen Kurierdienst zu versenden."
+        }
+    },
+    "packetSelection": {
+        "title": "Fügen Sie Ihrer Bestellung ein Paket hinzu und sparen Sie, indem Sie zu Ihren Lieblingsshops zurückkehren",
+        "descriptionRegular1": "So senden Sie eine Bestellung über Bequeme Retouren zurück",
+        "descriptionBold": "an jeden Online-Shop",
+        "descriptionRegular2": "in Polen.",
+        "bullet1": "Wenn Sie ein Paket kaufen, sparen Sie jetzt Geld, indem Sie eine Rücksendung an den Shop schicken {}",
+        "bullet2": "Sie können Rücksendungen aus dem Paket mit Ihrer Familie und Ihren Freunden teilen",
+        "bullet3": "Der beste Preis – direkt bei InPost kostet eine einzelne Retoure bis zu 25,99 PLN",
+        "moreButton": "Andere Pakete anzeigen"
+    },
+    "newOrderInfo": {
+        "title": "Informationen zur Bestellung",
+        "optional": " (fakultativ)",
+        "bankAccountTitle": "Rückerstattung",
+        "bankAccountDescription": "Sie erhalten die Rückerstattung auf demselben Weg, mit dem Sie die Bestellung bezahlt haben. Sollte dies nicht möglich sein, erstatten wir den Betrag auf das unten angegebene Konto zurück.",
+        "requiredFieldErrorMessage": "Das Feld \"{}\" ist obligatorisch",
+        "bankAccountErrorMessage": "Geben Sie eine gültige Kontonummer ein",
+        "addProduct": "Weiteres Produkt hinzufügen",
+        "removeProduct": "Produkt entfernen"
+    },
+    "newOrderSummary": {
+        "title": "Zusammenfassung",
+        "box": "Paket",
+        "packageInfo": "Gewicht und Abmessungen",
+        "packageMax": "Maximale Parameter",
+        "mailboxSection": "Retoure zum Shop",
+        "clientSection": "Ihre Angaben",
+        "orderInfoSection": "Informationen zur Bestellung",
+        "deliveryCost": "Versandkosten",
+        "brutto": "brutto",
+        "packetTile": {
+            "count": {
+                "one": "{} Retouren an alle Online-Shops in Polen über Bequeme Retouren",
+                "few": "{} Retouren an alle Online-Shops in Polen über Bequeme Retouren",
+                "many": "{} Retouren an alle Online-Shops in Polen über Bequeme Retouren",
+                "other": "{} Retouren an alle Online-Shops in Polen über Bequeme Retouren"
+            },
+            "benefits": "Vorteile beim Kauf eines Retourenpakets",
+            "bullet1": "Durch den Kauf eines Pakets sparen Sie bereitr bei Ihrer ersten Retoure",
+            "bullet2": "Sie können Rücksendungen aus dem Paket mit Ihrer Familie und Ihren Freunden teilen",
+            "bullet3Part1": "Günstiger um",
+            "bullet3Part2": {
+                "one": " Im Vergleich zum Versenden {} der günstigsten Retoure direkt bei InPost!",
+                "few": " Im Vergleich zum Versenden {} der günstigsten Retoure direkt bei InPost!",
+                "many": " Im Vergleich zum Versenden {} der günstigsten Retoure direkt bei InPost!",
+                "other": " Im Vergleich zum Versenden {} der günstigsten Retoure direkt bei InPost!"
+            },
+            "recoverUnused": "Wenn Sie Ihre Paketsendungen bis {} nicht in Anspruch nehmen, können Sie die nicht genutzten Mittel zurückfordern"
+        },
+        "numberOfReturns": "Anzahl der Retouren",
+        "amountToPay": "Zu zahlender Gesamtbetrag",
+        "xTimesReturn": " x Retoure ",
+        "paymentSection": "Zahlungsart",
+        "payButton": "Bestellen und bezahlen {}",
+        "payPacketButton": "Ich bestelle über das Paket",
+        "createButton": "Retourensendung erstellen",
+        "packetPayment": "Retourenpaket",
+        "noPaymentMethodErrorMessage": "Zahlungsmethode auswählen",
+        "regulationsErrorMessage": "Sie müssen die erforderlichen Geschäftsbedingungen des Spediteurs akzeptieren",
+        "paymentErrorMessage": "Zahlungsfehler",
+        "orderCreationSuccess": "Die Bestellung wurde angenommen"
+    },
+    "blikSheet": {
+        "title": "Zahlungsart",
+        "blik": "Blik",
+        "withCode": "Mit Code",
+        "withoutCode": "Ohne Code",
+        "codeFieldDescription": "Geben Sie den 6-stelligen Blik-Code ein, der in Ihrer Bankapp generiert wurde.",
+        "codeFieldLabel": "BLIK-Code",
+        "regulation1": "Mit der Zahlung akzeptiere ich ",
+        "regulationLink1": "Allgemeine Geschäftsbedingungen",
+        "regulation2": " PayPro S.A. Im Zahlungsprozess ist PayPro S.A. der Verantwortliche für die Verarbeitung Ihrer personenbezogenen Daten.",
+        "regulationExpand": "Alles lesen",
+        "regulation3": "(KRS 0000347935),60-327 Poznań (Polen), Kancelarska 15, +48 61 642 93 44, ",
+        "regulationLink2": ". Siehe den vollständigen Inhalt der Informationsklausel.",
+        "payButton": "Bestellen und bezahlen {}",
+        "noCodeDescription": "Fahren Sie fort, indem Sie auf die Schaltfläche \"Bestellen und bezahlen\" klicken und im nächsten Schritt die Zahlung in Ihrer Banking-App bestätigen.",
+        "selectApp": "Wählen Sie das Bankkonto aus, von dem Sie die Zahlung vornehmen möchten",
+        "errorButton": "Bitte versuchen Sie es erneut",
+        "confirmation": {
+            "title": "Bestätigen Sie die Zahlung in der Banking-App",
+            "description": "Wenn Sie dies nicht tun, wird die Zahlung nicht verarbeitet."
+        }
+    },
+    "firstCall": {
+        "barTitle": "Willkommensangebot",
+        "title": "Hallo, {}",
+        "description1": "Wir freuen uns, dass Sie Bequeme Retouren nutzen. Um Ihr Vertrauen zu würdigen, haben wir ein Willkommensangebot für Sie vorbereitet",
+        "descriptionBold": "Willkommens-Retourenpaket",
+        "description2": " zu einem sehr attraktiven Preis!",
+        "description3": "Bei Bequemen Retouren können Sie eine Retoure an jeden Online-Shop in Polen senden",
+        "welcomeOffer": "Willkommensangebot",
+        "onlyInApp": "Sie verwenden die Retouren aus dem Willkommenspaket nur in der Bequeme Retouren-App",
+        "codeFieldDescription": "Geben Sie den 6-stelligen Blik-Code ein, der in Ihrer Bankapp generiert wurde.",
+        "bullet1": "Einmaliges Angebot",
+        "bullet2": "Nur in der App verfügbar",
+        "bullet3": "Lange Gültigkeit der Paketretouren - bis zu 6 Monate nach dem Kauf",
+        "availableFor": "Angebot ist noch gültig {}",
+        "remindMeButton": "Erinnere mich später",
+        "buyButton": "Klingt gut, ich kaufe das Paket",
+        "tile": {
+            "onlyInApp": "Nur in der App",
+            "availableFor": "Ende in {}",
+            "returns": "{} Retouren über InPost Paketautomat"
+        }
+    },
+    "invoiceDataSection": {
+        "checkbox": "Ich möchte eine Rechnung mit ausgewiesener Mehrwertsteuer erhalten",
+        "header": "Rechnungsdetails"
+    },
+    "orderStatus": {
+        "created": "Erstellt",
+        "deleted": "Gelöscht",
+        "awaitingApproval": "Warten auf Genehmigung",
+        "rejected": "Abgelehnt",
+        "canceled": "Storniert",
+        "readyToSend": "Bereit zum Senden",
+        "paid": "Bezahlt",
+        "processingError": "Verarbeitungsfehler",
+        "shipped": "Versandt",
+        "inTransit": "Unterwegs",
+        "returnToSender": "Retoure an den Absender",
+        "returned": "Zurückgeschickt",
+        "outForDelivery": "In Zustellung",
+        "awaitingPickup": "Wartet auf Abholung am Punkt",
+        "delivered": "Zugestellt"
+    },
+    "orderEvent": {
+        "created": "Sendung erstellt",
+        "deleted": "Sendung gelöscht",
+        "awaitingApproval": "Die Sendung wartet auf Genehmigung",
+        "rejected": "Sendung abgelehnt",
+        "canceled": "Sendung storniert",
+        "readyToSend": "Die Sendung wartet auf den Versand",
+        "paid": "Sendung bezahlt",
+        "processingError": "Verarbeitungsfehler",
+        "shipped": "Sendung gesendet",
+        "inTransit": "Sendung unterwegs",
+        "returnToSender": "Retoure an den Absender",
+        "returned": "Sendung zurückgeschickt",
+        "outForDelivery": "In Zustellung",
+        "awaitingPickup": "Die Sendung wartet auf Abholung am Punkt",
+        "delivered": "Sendung zugestellt"
+    },
+    "navigationBar": {
+        "orderList": "Meine Retouren",
+        "newOrder": "Neue Retoure",
+        "packets": "Retourenpaket",
+        "account": "Mein Konto"
+    },
+    "common": {
+        "nextButton": "Weiter",
+        "saveButton": "Speichern",
+        "editButton": "Bearbeiten",
+        "deleteButton": "Löschen",
+        "changeButton": "Ändern",
+        "selectButton": "Wählen",
+        "confirmButton": "Genehmigen",
+        "cancelButton": "Stornieren",
+        "skipButton": "Überspringen",
+        "copyButton": "Kopieren",
+        "moreButton": "Mehr",
+        "lessButton": "Weniger",
+        "or": "oder",
+        "errorOccurred": "Es ist ein Fehler aufgetreten",
+        "errorConnection": "Keine Verbindung zum Server",
+        "fromDate": "von {}",
+        "expand": "Mehr anzeigen",
+        "collapse": "Weniger anzeigen",
+        "optionalRegulation": " (fakultativ)",
+        "default": "Standard",
+        "step": "Schritt {} von {}",
+        "kg": "kg",
+        "cm": "cm"
+    }
+}

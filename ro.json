@@ -1,0 +1,663 @@
+{
+    "appName": "Retururi Simple",
+    "firstExplainer": {
+        "title": "Bine ați venit la aplicația Retururi Simple",
+        "header": "Prin intermediul acestei aplicații poți trimite un retur la orice magazin online din Polonia!",
+        "bullet1": "Selectează un magazin din listă",
+        "bullet2": "Trimite coletul prin serviciul ales de curierat - prin intermediul Pachetomatului InPost, în cadrul Żabka și în alte multe puncte de vânzare.",
+        "bullet3": "Du-l la punctul de predare și asta este tot.",
+        "servicesSection": "Așa îți poți trimite coletul"
+    },
+    "secondExplainer": {
+        "title": "Urmărește retururile trimise",
+        "description": "Poți monitoriza în timp real traseul retururilor tale. În acest fel, vei avea întotdeauna informații actualizate cu privire la statutul coletelor returnate."
+    },
+    "thirdExplainer": {
+        "title": "Apelează la opțiunea de colete returnate pentru a economisi bani și timp!",
+        "bullet1": "Prin cumpărarea unui pachet de retururi economisești de la primul colet",
+        "bullet2": "Poți împărți retururile din pachet cu cei apropiați ție",
+        "bullet3": "Cel mai bun preț - direct la InPost un singur retur costă până la 25,99 PLN, la Retururi Simple prețurile încep de la 10,97 PLN",
+        "button": "Începe"
+    },
+    "login": {
+        "title": "Începe să utilizezi aplicația Retururi Simple",
+        "description": "Îți vom verifica adresa de e-mail pentru a-ți oferi posibilitatea de a crea în mod convenabil și sigur retururi pentru magazinele online.",
+        "withAppleButton": "Continuă cu Apple ID",
+        "withGoogleButton": "Continuă cu Google",
+        "withFacebookButton": "Continuă cu Facebook",
+        "withEmailButton": "Continuă cu adresa de e-mail",
+        "withAllegroButton": "Continuă cu Allegro",
+        "withMicrosoftButton": "Continuă cu Microsoft",
+        "loggedInAsMessage": "Conectat ca {}",
+        "regulations": {
+            "title": "Acceptă termenii și condițiile pentru a continua",
+            "accept": "Accept",
+            "deny": "Nu accept"
+        }
+    },
+    "loginWithEmail": {
+        "title": "Introdu-ți adresa de e-mail",
+        "field": "E-mail",
+        "checkboxAll": "Marchează toate consimțămintele",
+        "emailErrorMessage": "Adresa de e-mail introdusă este incorectă",
+        "regulationsErrorMessage": "Pentru a crea un cont, trebuie acceptate toate consimțămintele necesare"
+    },
+    "loginVerify": {
+        "title": "Verificarea adresei de e-mail",
+        "description": "Am trimis un cod de verificare pe adresa ta de e-mail. Introdu codul primit.",
+        "emailLabel": "E-mail: ",
+        "codeField": "Introdu codul de verificare",
+        "notReceivedButton": "E-mailul nu a ajuns?",
+        "anotherEmailButton": "Vreau să introduc un alt e-mail",
+        "passwordButton": "Vreau să mă loghez cu parola mea",
+        "codeSentMessage": "Am trimis codul la adresa de e-mail furnizată",
+        "codeResentMessage": "Codul de activare a fost trimis din nou",
+        "emailErrorMessage": "Adresa de e-mail introdusă este incorectă",
+        "codeErrorMessage": "A fost introdus un cod de verificare invalid."
+    },
+    "loginAnotherEmail": {
+        "title": "Introduc o altă adresă de e-mail",
+        "field": "E-mail",
+        "button": "Modifică adresa de e-mail"
+    },
+    "loginEmailNotReceived": {
+        "title": "E-mailul nu a ajuns",
+        "text": "1. Verifică folder spam.\n2. Așteaptă 15 minute și verifică din nou.\n3. Sau ",
+        "button": "trimite din nou codul de verificare."
+    },
+    "loginWithPassword": {
+        "title": "Logare în aplicația Retururi Simple",
+        "fieldEmail": "E-mail",
+        "fieldPassword": "Parolă",
+        "forgotButton": "Ai uitat parola?",
+        "emailErrorMessage": "Adresa de e-mail introdusă este incorectă",
+        "passwordErrorMessage": "Introdu parola"
+    },
+    "completeUserInfo": {
+        "title": "Date pentru retururi",
+        "description": "Completează-și doar datele care urmează să fie utilizate pentru retururi. Și gata! În cadrul contului tău poți adăuga mai multe profiluri pentru retururi.",
+        "fieldLabelSender": "Expeditor",
+        "fieldHintSender": "Prenumele și numele sau denumirea societății",
+        "fieldPhoneNumber": "Număr telefon",
+        "fieldEmail": "E-mail",
+        "successMessage": "Datele au fost salvate",
+        "nameErrorMessage": "Introdu prenumele și numele sau denumirea societății",
+        "phoneErrorMessage": "Numărul de telefon introdus este incorect"
+    },
+    "account": {
+        "barTitle": "Contul meu",
+        "email": "E-mail",
+        "clientData": "Datele tale",
+        "bankAccountNumber": "Numărul contului bancar",
+        "invoiceData": "Date privind facturile",
+        "appTheme": "Tema aplicației",
+        "appLanguage": "Limba aplicației",
+        "notifications": "Notificări",
+        "marketingRegulations": "Consimțăminte de marketing",
+        "accountManagement": "Administrarea contului",
+        "help": "Asistență",
+        "helpAndContact": "Asistență și contact",
+        "deleteAccount": "Șterge contul",
+        "logout": "Deconectare",
+        "manage": "Administrează"
+    },
+    "deleteAccount": {
+        "dialogTitle": "Șterge contul",
+        "dialogBody": "Ești sigur că dorești să îți ștergi contul din cadrul Retururi Simple?",
+        "emailTitle": "Ștergere cont din cadrul Retururi Simple",
+        "emailBody": "Vă rog să-mi ștergeți contul din cadrul Retururi Simple.\n\nAdresa de e-mail utilizată pentru crearea contului este: {}",
+        "noEmailMessage1": "Pentru ștergerea contului trimite un e-mail la adresa",
+        "noEmailMessage2": "cu conținutul:"
+    },
+    "themeSettings": {
+        "system": "Sistem",
+        "light": "De culoare deschisă",
+        "dark": "De culoare închisă"
+    },
+    "languageSettings": {
+        "bg": "български",
+        "cs": "Česky",
+        "de": "Deutsch",
+        "el": "ελληνικά",
+        "en": "English",
+        "hu": "Magyar",
+        "pl": "Polski",
+        "ro": "Românește",
+        "ru": "Русский",
+        "sk": "Slovenčina",
+        "uk": "Українська"
+    },
+    "profileList": {
+        "addNew": "Adaugă un profil nou",
+        "deleteDialogTitle": "Dorești să ștergi profilul?",
+        "deleteDialogMessage": "Ești sigur că dorești să ștergi profilul selectat?",
+        "deleteSuccessMessage": "Datele au fost șterse"
+    },
+    "profileEdit": {
+        "newProfile": "Profil nou pentru retururi",
+        "editProfile": "Editează profilul pentru retururi",
+        "fieldLabelSender": "Expeditor",
+        "fieldHintSender": "Prenumele și numele sau denumirea societății",
+        "fieldPhoneNumber": "Număr telefon",
+        "fieldLabelEmail": "E-mail (opțional)",
+        "fieldHintEmail": "E-mail",
+        "defaultCheckbox": "Setează ca profil implicit",
+        "insertProfileButton": "Inserare din profiluri",
+        "fieldDescriptionEmail": "Completează dacă este diferit de e-mailul implicit: {}. Apoi îți vom trimite informații despre colet.",
+        "fieldDescriptionEmailDisabled": "Acest e-mail a fost utilizat pentru a crea o comandă în cadrul magazinului {}. Nu este posibilă modificarea acestuia. Vei găsi codul de retur în aplicația Retururi Simple, îl vom trimite și la această adresă de e-mail.",
+        "successMessage": "Datele au fost salvate",
+        "emailErrorMessage": "Adresa de e-mail introdusă este incorectă",
+        "nameErrorMessage": "Introdu prenumele și numele sau denumirea societății",
+        "phoneErrorMessage": "Numărul de telefon introdus este incorect"
+    },
+    "bankAccountList": {
+        "addNew": "Adaugă un nou număr de cont",
+        "deleteDialogTitle": "Dorești ștergerea numărului de cont?",
+        "deleteDialogMessage": "Ești sigur că dorești să ștergi numărul de cont selectat?",
+        "deleteSuccessMessage": "Datele au fost șterse"
+    },
+    "bankAccountEdit": {
+        "newAccount": "Număr nou de cont bancar",
+        "editAccount": "Editează numărul contului bancar",
+        "fieldAccountNumber": "Numărul contului bancar",
+        "successMessage": "Datele au fost salvate",
+        "accountNumberErrorMessage": "A fost introdus un număr incorect de cont bancar"
+    },
+    "invoiceList": {
+        "nip": "Număr NIP/CUI",
+        "addNew": "Adaugă date noi de facturare",
+        "deleteDialogTitle": "Dorești ștergerea datelor de facturare?",
+        "deleteDialogMessage": "Ești sigur că dorești să ștergi datele de facturare selectate?",
+        "deleteSuccessMessage": "Datele au fost șterse"
+    },
+    "invoiceEdit": {
+        "newData": "Date noi de facturare",
+        "editData": "Editează datele de facturare",
+        "typeCompany": "Societate",
+        "typePerson": "Persoană fizică",
+        "fieldNIP": "Număr NIP/CUI",
+        "fieldCompanyName": "Denumirea societății",
+        "fieldFullName": "Prenume și nume",
+        "fieldStreet": "Strada și numărul",
+        "fieldPostalCode": "Cod poștal",
+        "fieldCity": "Localitate",
+        "defaultData": "Date implicite",
+        "successMessage": "Datele au fost salvate",
+        "nameErrorMessage": "Introdu prenumele și numele sau denumirea societății",
+        "addressErrorMessage": "Introdu strada și numărul.",
+        "postalCodeErrorMessage": "A fost introdus un cod poștal invalid.",
+        "cityErrorMessage": "Trebuie introdusă denumirea localității",
+        "nipErrorMessage": "Trebuie introdus numărul NIP/CUI"
+    },
+    "notificationSettings": {
+        "barTitle": "Gestionează notificările",
+        "push": "Notificări push",
+        "successMessage": "Setările au fost salvate",
+        "settingsButton": "Setări",
+        "settingsDialogMessage": "Pentru a primi notificări, exprimă-ți consimțământul din setările sistemului."
+    },
+    "help": {
+        "cancelReturnHeader": "Cum pot anula un colet și primi o rambursare a sumei plătite?",
+        "cancelReturnText": "Pentru a anula un colet și a primi rambursarea sumei plătite, contactează-ne prin e-mail: wsparcie@wygodnezwroty.pl. Menționează în cadrul mesajului care este codul returului sau numărul coletului. Suma plătită pentru colet îți va fi rambursată în decurs de 14 zile, folosind aceeași metodă prin care a fost efectuată plata.\nDacă transportul tău a fost creat ca parte a unui pachet de rambursare, rambursarea va fi realizată în termen de 14 zile.",
+        "cancelPacketHeader": "Cum pot renunța la un pachet de retururi?",
+        "cancelPacketText": "Pentru a renunța la un pachet de retururi și a primi rambursarea sumei plătite, contactează-ne prin e-mail: wsparcie@wygodnezwroty.pl. Menționează în e-mail adresa de e-mail în baza căreia a fost achiziționat pachetul de retururi. Suma aferentă pachetului ți-o vom rambursa folosind aceeași metodă prin care a fost efectuată plata.",
+        "appErrorHeader": "Aplicația mea nu funcționează corespunzător",
+        "appErrorText": "Dacă întâmpini dificultăți privind funcționarea aplicației mobile Retururi Simple, te rugăm să ne contactezi la adresa de e-mail: wsparcie@wygodnezwroty.pl. Te rugăm să ne descrii cu exactitate în ce constă problema. Include, de asemenea, o captură de ecran. Răspunsul tău ne va ajuta să localizăm sursa problemei și să o rezolvăm cât mai rapid. Între timp, închide și redeschide aplicația și apoi încearcă să efectuezi operațiunea în timpul căreia a apărut problema.",
+        "otherQuestions": "Dacă nu găsești un răspuns la întrebarea ta, te rugăm să ne contactezi.",
+        "email": "wsparcie@wygodnezwroty.pl",
+        "emailCopied": "Adresa de e-mail a fost copiată în clipboard",
+        "phoneNumber": "12 345 00 50",
+        "phoneNumberCopied": "Numărul de telefon a fost copiat în clipboard",
+        "workingHours": "Centrul de asistență pentru clienți îți stă la dispoziție de luni până vineri, între orele 8:00 - 16:00."
+    },
+    "myPackets": {
+        "barTitle": "Pachetele mele",
+        "noPacket": {
+            "description1": "Am pregătit pentru tine pachete de retururi cu ajutorul cărora vei economisi pe transport.",
+            "description2": "Cu ajutorul Retururilor Convenabile poți returna comanda la orice magazin online din Polonia.",
+            "bulletPoint1": "Achiziționând pachetul, economisești de la primul retur",
+            "bulletPoint2": "Poți împărți retururile din pachet cu cei apropiați ție",
+            "bulletPoint3": "Cel mai bun preț - direct la InPost un singur retur costă până la 25,99 PLN",
+            "recoverUnused": "Dacă nu utilizezi transporturile din pachet până la {}, poți primi înapoi toate fondurile neutilizate.",
+            "button": "Descoperă pachetele de retururi și economisește bani"
+        },
+        "withPacket": {
+            "returnsLeft": "Retururile mele într-un pachet",
+            "buyMoreButton": "Cumpără mai multe retururi",
+            "description1": "Pentru a trimite un colet folosind pachetul, selectați Pachet retururi ca metodă de plată în timpul plății.",
+            "packetCode": "Verifică codul pachetului",
+            "description2": "Află mai multe despre Pachetele de retururi. Verifică ",
+            "questionsLink": "Întrebări frecvente",
+            "createReturnButton": "Creează un transport de retur",
+            "packetCodeCopiedMessage": "Codul pachetului a fost copiat în clipboard"
+        }
+    },
+    "newPacket": {
+        "title": "Alege un pachet de retururi",
+        "barTitle": "Cumpără pachetul",
+        "step1": "Selectează pachetul",
+        "step2": "Sumar",
+        "noneSelectedError": "Alege un pachet de retururi",
+        "paymentErrorMessage": "Eroare de plată",
+        "noPaymentMethodError": "Alege metoda de plată",
+        "successMessage": "Pachetul de retururi a fost adăugat la contul tău",
+        "summary": {
+            "title": "Sumar",
+            "emailLabel": "Adresa ta de e-mail",
+            "invoiceCheckbox": "Doresc să primesc o factură cu TVA",
+            "selectedPacket": "Pachetul de retururi selectat",
+            "count": {
+                "one": "{} retur la orice magazin online din Polonia prin intermediul Retururilor Convenabile",
+                "few": "{} retururi la orice magazin online din Polonia prin intermediul Retururilor Convenabile",
+                "many": "{} retururi la orice magazin online din Polonia prin intermediul Retururilor Convenabile",
+                "other": "{} retururi la orice magazin online din Polonia prin intermediul Retururilor Convenabile"
+            },
+            "benefits": "Avantaje la achiziționarea unui pachet de retururi",
+            "bullet1": "Achiziționând pachetul, economisești de la primul retur",
+            "bullet2": "Poți împărți retururile din pachet cu cei apropiați ție",
+            "bullet3Part1": "Este mai ieftin cu ",
+            "bullet3Part2": {
+                "one": "în comparație cu expedierea {} celui mai ieftin retur direct la InPost!",
+                "few": "în comparație cu expedierea {} celor mai ieftine retururi direct la InPost!",
+                "many": "în comparație cu expedierea {} celor mai ieftine retururi direct la InPost!",
+                "other": "în comparație cu expedierea {} celor mai ieftine retururi direct la InPost!"
+            },
+            "recoverUnused": "Dacă nu utilizezi transporturile din pachet până la {}, poți primi înapoi toate fondurile neutilizate.",
+            "numberOfReturns": "Numărul de retururi",
+            "amountToPay": "Suma totală de plată",
+            "brutto": "brut",
+            "paymentMethod": "Metoda de plată",
+            "showMoreMethods": "Afișează mai multe metode de plată"
+        }
+    },
+    "packetListItem": {
+        "recommended": "Ales pentru tine",
+        "checkbox": "Adaug pachetul la comandă",
+        "forReturn": "pentru retur",
+        "forPacket": "pentru pachet",
+        "savings": "Economisești {}",
+        "count": {
+            "one": "Retur convenabil\nInPost Pachetomat",
+            "few": "Retururi Simple\nInPost Pachetomat",
+            "many": "Retururi Simple\nInPost Pachetomat",
+            "other": "Retururi Simple\nInPost Pachetomat"
+        }
+    },
+    "orderListEmpty": {
+        "title": "Bună ziua, {}",
+        "createDescription": "La trimiterea primului retur, aici vor apărea informații privind statusul său.",
+        "createButton": "Creează un retur",
+        "packagesDescription": "Dorești să începi să economisești cu retururile începând cu primul colet? Află mai multe despre pachetele noastre de retururi",
+        "packagesButton": "Descoperă pachetele"
+    },
+    "orderList": {
+        "barTitle": "Retururile mele"
+    },
+    "orderDetails": {
+        "barTitle": "Detaliile returului",
+        "returnInfo": "Informații despre retur",
+        "mailboxInfo": "Retur către magazin",
+        "clientInfo": "Datele tale",
+        "historySection": "Istoricul coletelor",
+        "returnCodeLabel": "Cod retur",
+        "returnCodeValidUntil": "Cod valabil până la {}",
+        "trackingNumberLabel": "Număr colet",
+        "trackingNumberCopiedMessage": "Numărul coletului a fost copiat în clipboard",
+        "codeDescription": "Scrie codul returului pe colet. Îndepărtați celelalte etichete de pe colet.",
+        "qrCodeDescription": "Pentru a deschide cutia, introdu codul returului sau scanează codul QR.",
+        "qrCodeZoom": "Atinge pentru a mări",
+        "returnDetails": "Detaliile returului",
+        "product": "Produs",
+        "packageInfo": "Informații privind coletul",
+        "maxPackageSize": "Parametri max",
+        "weightAndSize": "Greutate și dimensiuni",
+        "shippingCost": "Costul coletului",
+        "paymentMethod": "Metoda de plată",
+        "invoiceData": "Date de facturare",
+        "retryPaymentButton": "Plătește coletul",
+        "retryPaymentDescription": "Coletul nu a fost plătit. Efectuează plata pentru a putea trimite coletul.",
+        "forApproval": "Am informat magazinului {} cu privire la faptul că dorești să returnezi comanda.\nDupă ce magazinul va accepta returul tău, te vom informa printr-o notificare în aplicație, iar codul tău de retur va apărea aici."
+    },
+    "orderOptions": {
+        "recreateButton": "Creează același retur",
+        "cancelButton": "Anulează expedierea coletului",
+        "deleteButton": "Elimină expedierea coletului din lista de retururi",
+        "deleteDialog": {
+            "title": "Eliminarea expedierii coletului din lista de retururi",
+            "message": "Ești sigur/ă că dorești să elimini expedierea coletului din lista de retururi? Operațiunea nu mai poate fi anulată.",
+            "yesButton": "Da, vreau să șterg expedierea",
+            "noButton": "Nu, las expedierea",
+            "successMessage": "Coletul a fost scos de pe lista de retururi"
+        }
+    },
+    "notifications": {
+        "barTitle": "Notificări",
+        "empty": "Lipsă notificări"
+    },
+    "instantReturn": {
+        "title": "Retur nou către magazinul {}",
+        "message": "În pasul următor îți vom cere să completezi informațiile despre comanda returnată.",
+        "createButton": "Creez retur",
+        "restoreButton": "Înapoi",
+        "weightAndSize": "Greutate și dimensiuni"
+    },
+    "packageParams": {
+        "title": "Parametrii coletului",
+        "type": "Cum este ambalat coletul",
+        "foil-package": "Foliopak",
+        "delivery-package": "Cutie de carton",
+        "foil-package-short": "Foliopak",
+        "delivery-package-short": "Cutie",
+        "weight": "Cât cântărește coletul tău",
+        "weightTo": "până la {} kg",
+        "size": "Specifică dimensiunile coletului",
+        "length": "Lungime",
+        "width": "Lățime",
+        "height": "Înălțime",
+        "typeErrorMessage": "Alege modul de ambalare a coletului tău",
+        "weightErrorMessage": "Alege greutatea coletului",
+        "lengthErrorMessage": "Completează lungimea coletului",
+        "widthErrorMessage": "Completează lățimea coletului",
+        "heightErrorMessage": "Completează înălțimea coletului"
+    },
+    "maxPackageSize": {
+        "prefix": "max.",
+        "inpostreturn": "41 cm x 38 cm x 64 cm, 25 kg",
+        "dhlreturn": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturn": "latura cea mai lungă 150 cm, 31,5 kg",
+        "dpdreturnlocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "glspolandreturn": "latura cea mai lungă 200 cm",
+        "dhlreturnwithlabel": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturnwithlabel": "latura cea mai lungă 150 cm, 31,5 kg",
+        "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "dpdreturnnolabelcourier": "latura cea mai lungă 150 cm, 31,5 kg",
+        "dpdreturnwithlabelcourier": "latura cea mai lungă 150 cm, 31,5 kg",
+        "orlenreturn": "",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "serviceDescription": {
+        "inpostreturn": "Trimit coletul fără etichetă în oricare dintre automatele de colete InPost",
+        "dhlreturn": "Duc coletul fără etichetă la un punct DHL POP preferat: Żabka, Inmedio, Relay, 1minute, sucursale DHL.",
+        "dpdreturn": "Duc coletul fără etichetă la orice magazin Żabka sau la alt punct din rețeaua DPD Pickup.",
+        "dpdreturnlocker": "Introduc coletul fără etichetă în orice pachetomat DPD. Ai în vedere faptul că pentru deschiderea automatului de colete ai nevoie de aplicația DPD Mobile.",
+        "glspolandreturn": "Duc coletul la un punct GLS preferat: Carrefour, Auchan, Kolporter sau alte puncte Szybkiej Paczki / ParcelShop și sucursale GLS.",
+        "dhlreturnwithlabel": "Duc coletul cu etichetă la un punct DHL POP preferat: Żabka, Inmedio, Relay, 1minute, sucursale DHL.",
+        "dpdreturnwithlabel": "Duc coletul cu etichetă la orice magazin Żabka sau la alt punct din rețeaua DPD Pickup.",
+        "dpdreturnwithlabellocker": "Introduc coletul cu etichetă în orice pachetomat DPD. Ai în vedere faptul că pentru deschiderea automatului de colete ai nevoie de aplicația DPD Mobile.",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Duc coletul fără etichetă la un chioșc RUCH (punct ORLEN Paczka) convenabil pentru tine.",
+        "orlenreturnwithlabel": "Duc coletul cu eticheta la un punct ORLEN Paczka convenabil pentru tine.",
+        "pocztareturn": "Duc coletul la orice oficiu poștal, cu excepția agențiilor poștale."
+    },
+    "serviceDescriptionAdditional": {
+        "inpostreturn": "",
+        "dhlreturn": "Important: Unele puncte sunt excluse din rețeaua DHL POP. Înainte de a merge la un punct dat, verifică disponibilitatea acestuia.",
+        "dpdreturn": "",
+        "dpdreturnlocker": "",
+        "glspolandreturn": "Important: Înainte de a merge la un punct dat, verifică disponibilitatea acestuia.",
+        "dhlreturnwithlabel": "Important: Unele puncte sunt excluse din rețeaua DHL POP. Înainte de a merge la un punct dat, verifică disponibilitatea acestuia.",
+        "dpdreturnwithlabel": "",
+        "dpdreturnwithlabellocker": "",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Important: Chioșcurile și magazinele RUCH sunt puncte ORLEN Paczka, unde poți trimite un colet fără etichetă. Acestea sunt marcate pe hartă ca PSD.",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "mailboxSearch": {
+        "description": "Caută un magazin în care poți returna bunurile și trimite-le cu ușurință",
+        "field": "Caută magazin",
+        "recentSection": "Retururi recente",
+        "suggestStoreMessage": "Magazinul pe care îl cauți nu se află pe listă?\nÎncearcă să introduci adresa web a magazinului, de exemplu twojsklep.pl. Dacă magazinul tot nu apare în rezultatele căutării, anunță-ne și vom adăuga magazinul în cadrul aplicației Retururi Simple.",
+        "suggestStoreButton": "Notifică un magazin",
+        "bottomSheet": {
+            "title": "Notifică un magazin pentru Retururi Simple",
+            "fieldLabel": "Adresa paginii de internet a magazinului",
+            "fieldHint": "De exemnplu, www.twojsklep.pl",
+            "description": "De obicei, adăugăm un magazin în termen de 24 de ore, în zilele lucrătoare. Odată ce magazinul a fost adăugat, îți vom trimite o notificare la adresa ta de e-mail.",
+            "button": "Trimite solicitarea",
+            "successMessage": "Am primit solicitarea ta. Îți vom trimite o notificare pe e-mail după ce magazinul a fost adăugat."
+        }
+    },
+    "newOrderBar": {
+        "title": "Retur nou",
+        "step1": "Coletul tău",
+        "step2": "Comanda",
+        "step3": "Sumar"
+    },
+    "serviceSelection": {
+        "title": "Alege o companie de curierat",
+        "description": "Trimite coletul fără etichetă la un automat sau punct, iar curierul îl va livra la adresa magazinului.",
+        "detailsButton": "Detaliile ofertei",
+        "moreButton": "Afișează mai multe forme de retur",
+        "voucherButton": "Am un cod de reducere",
+        "voucherField": "Cod de reducere",
+        "addVoucherButton": "Adaugă",
+        "removeVoucherButton": "Șterge",
+        "voucherSuccessMessage": "Codul de reducere a fost adăugat cu succes",
+        "withPacket": "Expediere cu utilizarea unui retur din pachet",
+        "withPacketDescription": "Dacă nu dorești să utilizezi pachetul, modifică metoda de plată în sumarul plății.",
+        "errorMessage": "Alege o companie de curierat",
+        "packetCount": {
+            "one": "Coletul tău: 1 retur",
+            "few": "Coletul tău: {} retururi",
+            "many": "Coletul tău: {} retururi",
+            "other": "Coletul tău: {} retururi"
+        }
+    },
+    "offerDetails": {
+        "barTitle": "Detaliile ofertei",
+        "serviceName": {
+            "inpostreturn": "Pachetomate InPost 24/7",
+            "dpdreturn": "Magazin Żabka și puncte DPD",
+            "dhlreturn": "Puncte și automate DHL"
+        },
+        "withoutLabel": "Fără tipărirea etichetei",
+        "shipmentLocationSection": "Unde trimiți coletul",
+        "shipmentLocationDescription": {
+            "inpostreturn": "Orice Pachetomat InPost",
+            "dpdreturn": "Orice magazin Żabka sau alt punct comercial din rețeaua DPD Pickup.\nAlte puncte: Dino, Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, sucursalele DPD Polska și altele.",
+            "dhlreturn": "Żabka, Innmedio, 1 minute, Relay și sucursalele DHL.\nImportant: Unele puncte sunt excluse din rețeaua DHL. Înainte de a merge la un punct dat, verifică disponibilitatea acestuia."
+        },
+        "and": "și",
+        "andOthers": "și altele",
+        "checkOnMapButton": "Verifică punctele pe hartă",
+        "maxParametersSection": "Parametrii maximi",
+        "maxParametersDetails": {
+            "inpostreturn": "",
+            "dpdreturn": "Lungimea coletului (latura cea mai lungă) plus suma perimetrului bazei nu trebuie să depășească 300 cm.",
+            "dhlreturn": ""
+        },
+        "checkParamsButton": "Verifică dacă coletul are dimensiunile corecte",
+        "insuranceSection": "Asigurare",
+        "insuranceDetails": {
+            "inpostreturn": "Gratuit până la 5.000 PLN",
+            "dpdreturn": "Gratuit până la 1000 PLN",
+            "dhlreturn": "Gratuit până la 500 PLN"
+        },
+        "verification": {
+            "barTitle": "Verificarea parametrilor",
+            "label": "Verifică dacă coletul are dimensiunile corecte",
+            "successMessage": "Dimensiunile coletului sunt corecte",
+            "errorMessage": "Dimensiunile coletului nu sunt corecte",
+            "errorMessageDescription": "Dacă coletul tău este prea mare, poți încerca să reambalezi conținutul într-o cutie de carton mai mică sau poți lua în considerare trimiterea acestuia cu un alt serviciu de curierat."
+        }
+    },
+    "packetSelection": {
+        "title": "Adaugă un pachet la comandă și economisește revenind la magazinele tale preferate",
+        "descriptionRegular1": "Cu ajutorul Retururilor Convenabile returnezi comanda ",
+        "descriptionBold": "la orice magazin online",
+        "descriptionRegular2": " din Polonia.",
+        "bullet1": "Achiziționând un pachet, economisești bani prin trimiterea unui retur la magazin  {}",
+        "bullet2": "Poți împărți retururile din pachet cu cei apropiați ție",
+        "bullet3": "Cel mai bun preț - direct la InPost un singur retur costă până la 25,99 PLN",
+        "moreButton": "Arată alte pachete"
+    },
+    "newOrderInfo": {
+        "title": "Informații despre comandă",
+        "optional": " (opțional)",
+        "bankAccountTitle": "Rambursare",
+        "bankAccountDescription": "Vei primi rambursarea prin aceeași metodă utilizată pentru plata comenzii. Dacă acest lucru nu este posibil, îți vom rambursa fondurile în contul indicat mai jos.",
+        "requiredFieldErrorMessage": "Câmpul \"{}\" este obligatoriu",
+        "bankAccountErrorMessage": "Introdu un număr valid de cont",
+        "addProduct": "Adaugă un alt produs",
+        "removeProduct": "Șterge produs"
+    },
+    "newOrderSummary": {
+        "title": "Sumar",
+        "box": "Pachet",
+        "packageInfo": "Greutate și dimensiuni",
+        "packageMax": "Parametrii maximi",
+        "mailboxSection": "Retur către magazin",
+        "clientSection": "Datele tale",
+        "orderInfoSection": "Informații despre comandă",
+        "deliveryCost": "Costul coletului",
+        "brutto": "brut",
+        "packetTile": {
+            "count": {
+                "one": "{} retur la orice magazin online din Polonia prin intermediul Retururilor Convenabile",
+                "few": "{} retururi la orice magazin online din Polonia prin intermediul Retururilor Convenabile",
+                "many": "{} retururi la orice magazin online din Polonia prin intermediul Retururilor Convenabile",
+                "other": "{} retururi la orice magazin online din Polonia prin intermediul Retururilor Convenabile"
+            },
+            "benefits": "Avantaje la achiziționarea unui pachet de retururi",
+            "bullet1": "Achiziționând pachetul, economisești de la primul retur",
+            "bullet2": "Poți împărți retururile din pachet cu cei apropiați ție",
+            "bullet3Part1": "Este mai ieftin cu ",
+            "bullet3Part2": {
+                "one": "în comparație cu expedierea {} celui mai ieftin retur direct la InPost!",
+                "few": "în comparație cu expedierea {} celor mai ieftine retururi direct la InPost!",
+                "many": "în comparație cu expedierea {} celor mai ieftine retururi direct la InPost!",
+                "other": "în comparație cu expedierea {} celor mai ieftine retururi direct la InPost!"
+            },
+            "recoverUnused": "Dacă nu utilizezi transporturile din pachet până la {}, poți primi înapoi toate fondurile neutilizate."
+        },
+        "numberOfReturns": "Numărul de retururi",
+        "amountToPay": "Suma totală de plată",
+        "xTimesReturn": " x retur ",
+        "paymentSection": "Metoda de plată",
+        "payButton": "Comand și plătesc {}",
+        "payPacketButton": "Comand utilizând pachetul",
+        "createButton": "Creează o expediere",
+        "packetPayment": "Pachet de retururi",
+        "noPaymentMethodErrorMessage": "Alege metoda de plată",
+        "regulationsErrorMessage": "Trebuie acceptate termenii și condițiile transportatorului",
+        "paymentErrorMessage": "Eroare de plată",
+        "orderCreationSuccess": "Comanda a fost acceptată"
+    },
+    "blikSheet": {
+        "title": "Metoda de plată",
+        "blik": "Blik",
+        "withCode": "Cu cod",
+        "withoutCode": "Fără cod",
+        "codeFieldDescription": "Introdu codul Blik din 6 cifre generat în aplicația ta bancară.",
+        "codeFieldLabel": "Codul BLIK",
+        "regulation1": "Prin plată accept ",
+        "regulationLink1": "termeni și condiții",
+        "regulation2": " PayPro S.A. În procesul de plată, operatorul datelor tale cu caracter personal este PayPro S.A. ",
+        "regulationExpand": "Citește în întregime",
+        "regulation3": "(KRS 0000347935), 60-327 Poznań (Polska), Kancelarska 15, +48 61 642 93 44, ",
+        "regulationLink2": ". Vezi conținutul integral al clauzei de informare.",
+        "payButton": "Comand și plătesc {}",
+        "noCodeDescription": "Mergi mai departe făcând clic pe butonul Comand și plătesc, iar în etapa următoare confirmă plata în aplicația ta bancară",
+        "selectApp": "Selectează contul bancar din care dorești să efectuezi plata",
+        "errorButton": "Încearcă din nou",
+        "confirmation": {
+            "title": "Confirmă plata în aplicația bancară",
+            "description": "Dacă nu faci acest lucru, plata nu va fi procesată."
+        }
+    },
+    "firstCall": {
+        "barTitle": "Ofertă de bun-venit",
+        "title": "Bună ziua, {}",
+        "description1": "Suntem încântați că folosești aplicația Retururi Simple. Pentru a vă mulțumi pentru prezență, ți-am pregătit ",
+        "descriptionBold": "Un Pachet de Retururi de Bun-venit",
+        "description2": " la un preț foarte atractiv!",
+        "description3": "Prin intermediul aplicației Retururi Simple poți trimite un retur la orice magazin online din Polonia",
+        "welcomeOffer": "Ofertă de bun-venit",
+        "onlyInApp": "Retururile din pachetul de bun-venit pot fi utilizate exclusiv în aplicația Retururi Simple",
+        "codeFieldDescription": "Introdu codul Blik din 6 cifre generat în aplicația ta bancară.",
+        "bullet1": "Ofertă unică",
+        "bullet2": "Disponibilă doar în aplicație",
+        "bullet3": "Perioadă lungă de valabilitate a retururilor din pachet - până la 6 luni de la cumpărare",
+        "availableFor": "Oferta este încă valabilă {}",
+        "remindMeButton": "Amintește-mi mai târziu",
+        "buyButton": "Sună bine, cumpăr pachetul",
+        "tile": {
+            "onlyInApp": "Doar în aplicație",
+            "availableFor": "Sfârșitul pentru {}",
+            "returns": "{} retururi Pachetomat InPost"
+        }
+    },
+    "invoiceDataSection": {
+        "checkbox": "Doresc să primesc o factură cu TVA",
+        "header": "Date de facturare"
+    },
+    "orderStatus": {
+        "created": "Creat",
+        "deleted": "Șters",
+        "awaitingApproval": "Așteaptă acceptare",
+        "rejected": "Respins",
+        "canceled": "Anulat",
+        "readyToSend": "Pregătit pentru expediere",
+        "paid": "Achitat",
+        "processingError": "Eroare de procesare",
+        "shipped": "Expediat",
+        "inTransit": "Pe drum",
+        "returnToSender": "Retur la expeditor",
+        "returned": "Returnat",
+        "outForDelivery": "În proces de livrare",
+        "awaitingPickup": "Așteaptă să fie preluat în punctul",
+        "delivered": "Livrat"
+    },
+    "orderEvent": {
+        "created": "Expediere creată",
+        "deleted": "Expediere ștearsă",
+        "awaitingApproval": "Expediere în curs de aprobare",
+        "rejected": "Expediere respinsă",
+        "canceled": "Expediere anulată",
+        "readyToSend": "Expediere în așteptare pentru a fi trimisă",
+        "paid": "Expediere plătită",
+        "processingError": "Eroare de procesare",
+        "shipped": "Expediere trimisă",
+        "inTransit": "Expediere în curs",
+        "returnToSender": "Retur la expeditor",
+        "returned": "Expediere returnată",
+        "outForDelivery": "Transmis pentru livrare",
+        "awaitingPickup": "Expediere în așteptare pentru preluare în punctul",
+        "delivered": "Expediere livrată"
+    },
+    "navigationBar": {
+        "orderList": "Retururile mele",
+        "newOrder": "Retur nou",
+        "packets": "Pachet de retururi",
+        "account": "Contul meu"
+    },
+    "common": {
+        "nextButton": "Mergi mai departe",
+        "saveButton": "Salvează",
+        "editButton": "Editează",
+        "deleteButton": "Șterge",
+        "changeButton": "Modifică",
+        "selectButton": "Alege",
+        "confirmButton": "Confirmă",
+        "cancelButton": "Anulează",
+        "skipButton": "Omite",
+        "copyButton": "Copiază",
+        "moreButton": "Mai mult",
+        "lessButton": "Mai puțin",
+        "or": "sau",
+        "errorOccurred": "A apărut o eroare",
+        "errorConnection": "Nu există o conexiune la server",
+        "fromDate": "de la {}",
+        "expand": "Extinde",
+        "collapse": "Restrânge",
+        "optionalRegulation": " (opțional)",
+        "default": "Implicit",
+        "step": "Pasul {} din {}",
+        "kg": "kg",
+        "cm": "cm"
+    }
+}

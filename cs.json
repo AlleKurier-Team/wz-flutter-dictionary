@@ -1,0 +1,661 @@
+{
+    "appName": "Pohodlná zpětná zásilka",
+    "firstExplainer": {
+        "title": "Vítejte v aplikaci Pohodlná zpětná zásilka",
+        "header": "Zde můžete podat zpětnou zásilku do jakéhokoli internetového obchodu v Polsku!",
+        "bullet1": "Vyberte obchod ze seznamu",
+        "bullet2": "Nahlaste zásilku u kurýrní společnosti dle vlastního výběru - prostřednictvím balíkomatu InPost, v Żabce a na mnoha dalších místech.",
+        "bullet3": "Zaneste na podací místo a je to.",
+        "servicesSection": "Takto podáte svoji zásilku"
+    },
+    "secondExplainer": {
+        "title": "Sledujte své zpětné zásilky",
+        "description": "Můžete sledovat cestu svých zpětných zásilek. Díky tomu budete mít vždy aktuální informace o stavu svých zpětných zásilek"
+    },
+    "thirdExplainer": {
+        "title": "Využijte balíčky zpětných zásilek a ušetřete peníze i čas!",
+        "bullet1": "Nákupem balíčku zpětných zásilek ušetříte již při první zásilce",
+        "bullet2": "Zpětné zásilky z balíčku můžete sdílet se svými blízkými",
+        "bullet3": "Nejlepší cena - přímo u InPost stojí jedna zpětná zásilka dokonce až 25,99 PLN, u Pohodlné zpětné zásilky začínají ceny na 10,97 PLN",
+        "button": "Začít"
+    },
+    "login": {
+        "title": "Začněte používat aplikaci Pohodlná zpětná zásilka",
+        "description": "Ověříme vaši e-mailovou adresu, abychom vám umožnili pohodlně a bezpečně vytvářet vratky do internetových obchodů.",
+        "withAppleButton": "Pokračovat přes Apple ID",
+        "withGoogleButton": "Pokračovat přes Google",
+        "withFacebookButton": "Pokračovat přes Facebook",
+        "withEmailButton": "Pokračovat přes e-mail",
+        "withAllegroButton": "Pokračovat přes Allegro",
+        "withMicrosoftButton": "Pokračovat přes Microsoft",
+        "loggedInAsMessage": "Přihlášen jako {}",
+        "regulations": {
+            "title": "Chcete-li pokračovat, je nutné souhlasit s podmínkami",
+            "accept": "Souhlasím",
+            "deny": "Nesouhlasím"
+        }
+    },
+    "loginWithEmail": {
+        "title": "Zadejte svou e-mailovou adresu",
+        "field": "E-mail",
+        "checkboxAll": "Označit všechny souhlasy",
+        "emailErrorMessage": "Byla zadána chybná e-mailová adresa",
+        "regulationsErrorMessage": "Chcete-li si vytvořit účet, musíte zaznačit všechny povinné souhlasy"
+    },
+    "loginVerify": {
+        "title": "Ověření e-mailové adresy",
+        "description": "Na vaši e-mailovou adresu jsme zaslali ověřovací kód. Zadejte kód, který jste obdrželi.",
+        "emailLabel": "E-mail: ",
+        "codeField": "Zadejte ověřovací kód",
+        "notReceivedButton": "E-mail nedošel?",
+        "anotherEmailButton": "Chci zadat jiný e-mail",
+        "passwordButton": "Chci se přihlásit pomocí hesla",
+        "codeSentMessage": "Na zadanou e-mailovou adresu jsme odeslali kód",
+        "codeResentMessage": "Aktivační kód byl znovu odeslán",
+        "emailErrorMessage": "Byla zadána chybná e-mailová adresa",
+        "codeErrorMessage": "Byl zadán chybný ověřovací kód"
+    },
+    "loginAnotherEmail": {
+        "title": "Zadejte jinou e-mailovou adresu",
+        "field": "E-mail",
+        "button": "Změnit e-mailovou adresu"
+    },
+    "loginEmailNotReceived": {
+        "title": "E-mail nedošel",
+        "text": "1. Zkontrolujte složku spam.\n2. Počkejte 15 minut a znovu zkontrolujte.\n3. Nebo ",
+        "button": "znovu odeslat ověřovací kód."
+    },
+    "loginWithPassword": {
+        "title": "Přihlášení do aplikace Pohodlná zpětná zásilka",
+        "fieldEmail": "E-mail",
+        "fieldPassword": "Heslo",
+        "forgotButton": "Zapomněli jste heslo?",
+        "emailErrorMessage": "Byla zadána chybná e-mailová adresa",
+        "passwordErrorMessage": "Je nutné zadat heslo"
+    },
+    "completeUserInfo": {
+        "title": "Údaje pro zpětnou zásilku",
+        "description": "Vyplňte ještě své údaje, které budou použity pro zpětnou zásilku. A máte hotovo! Na svém účtu můžete přidat další profily pro zpětné zásilky.",
+        "fieldLabelSender": "Odesílatel",
+        "fieldHintSender": "Jméno a příjmení nebo název firmy",
+        "fieldPhoneNumber": "Telefonní číslo",
+        "fieldEmail": "E-mail",
+        "successMessage": "Údaje byly uloženy",
+        "nameErrorMessage": "Je nutné zadat jméno a příjmení nebo název firmy",
+        "phoneErrorMessage": "Bylo zadáno chybné telefonní číslo"
+    },
+    "account": {
+        "barTitle": "Můj účet",
+        "email": "E-mail",
+        "clientData": "Vaše údaje",
+        "bankAccountNumber": "Číslo bankovního účtu",
+        "invoiceData": "Fakturační údaje",
+        "appTheme": "Motiv aplikace",
+        "appLanguage": "Jazyk aplikace",
+        "notifications": "Oznámení",
+        "marketingRegulations": "Marketingové souhlasy",
+        "accountManagement": "Správa účtů",
+        "help": "Nápověda",
+        "helpAndContact": "Nápověda a kontakt",
+        "deleteAccount": "Smazat účet",
+        "logout": "Odhlásit se",
+        "manage": "Spravovat"
+    },
+    "deleteAccount": {
+        "dialogTitle": "Smazat účet",
+        "dialogBody": "Opravdu chcete smazat svůj účet v systému Pohodlná zpětná zásilka?",
+        "emailTitle": "Vymazání účtu v systému Pohodlná zpětná zásilka",
+        "emailBody": "Žádám o vymazání svého účtu v systému Pohodlná zpětná zásilka. Moje e-mailová adresa, na kterou je účet veden, je: {}",
+        "noEmailMessage1": "Chcete-li smazat svůj účet, pošlete e-mail na adresu",
+        "noEmailMessage2": "s následujícím příkladovým obsahem:"
+    },
+    "themeSettings": {
+        "system": "Systémové",
+        "light": "Světlé",
+        "dark": "Tmavé"
+    },
+    "languageSettings": {
+        "bg": "български",
+        "cs": "Česky",
+        "de": "Deutsch",
+        "el": "ελληνικά",
+        "en": "English",
+        "hu": "Magyar",
+        "pl": "Polski",
+        "ro": "Românește",
+        "ru": "Русский",
+        "sk": "Slovenčina",
+        "uk": "Українська"
+    },
+    "profileList": {
+        "addNew": "Přidat nový profil",
+        "deleteDialogTitle": "Smazat profil?",
+        "deleteDialogMessage": "Opravdu chcete smazat vybraný profil?",
+        "deleteSuccessMessage": "Údaje byly smazány"
+    },
+    "profileEdit": {
+        "newProfile": "Nový profil pro zpětné zásilky",
+        "editProfile": "Upravit profil pro zpětné zásilky",
+        "fieldLabelSender": "Odesílatel",
+        "fieldHintSender": "Jméno a příjmení nebo název firmy",
+        "fieldPhoneNumber": "Telefonní číslo",
+        "fieldLabelEmail": "E-mail (volitelné)",
+        "fieldHintEmail": "E-mail",
+        "defaultCheckbox": "Nastavit jako výchozí profil",
+        "insertProfileButton": "Vložit z profilů",
+        "fieldDescriptionEmail": "Vyplňte, pokud se liší od vašeho výchozího e-mailu: {}. Poté vám zde zašleme informace o zásilce.",
+        "fieldDescriptionEmailDisabled": "Tento e-mail byl použit k vytvoření objednávky v obchodě {}. Není možné jej změnit. Kód zpětné zásilky naleznete v aplikaci Pohodlná zpětná zásilka, zašleme vám jej také na tuto e-mailovou adresu.",
+        "successMessage": "Údaje byly uloženy",
+        "emailErrorMessage": "Byla zadána chybná e-mailová adresa",
+        "nameErrorMessage": "Je nutné zadat jméno a příjmení nebo název firmy",
+        "phoneErrorMessage": "Bylo zadáno chybné telefonní číslo"
+    },
+    "bankAccountList": {
+        "addNew": "Přidat nové číslo účtu",
+        "deleteDialogTitle": "Smazat číslo účtu?",
+        "deleteDialogMessage": "Opravdu chcete smazat vybrané číslo účtu?",
+        "deleteSuccessMessage": "Údaje byly smazány"
+    },
+    "bankAccountEdit": {
+        "newAccount": "Nové číslo bankovního účtu",
+        "editAccount": "Upravit číslo bankovního účtu",
+        "fieldAccountNumber": "Číslo bankovního účtu",
+        "successMessage": "Údaje byly uloženy",
+        "accountNumberErrorMessage": "Bylo zadáno chybné číslo bankovního účtu"
+    },
+    "invoiceList": {
+        "nip": "DIČ",
+        "addNew": "Přidat nové fakturační údaje",
+        "deleteDialogTitle": "Smazat fakturační údaje?",
+        "deleteDialogMessage": "Opravdu chcete smazat fakturační údaje?",
+        "deleteSuccessMessage": "Údaje byly smazány"
+    },
+    "invoiceEdit": {
+        "newData": "Nové fakturační údaje",
+        "editData": "Upravit  fakturační údaje",
+        "typeCompany": "Firma",
+        "typePerson": "Fyzická osoba",
+        "fieldNIP": "DIČ",
+        "fieldCompanyName": "Název firmy",
+        "fieldFullName": "Jméno a příjmení",
+        "fieldStreet": "Ulice a číslo popisné",
+        "fieldPostalCode": "PSČ",
+        "fieldCity": "Město",
+        "defaultData": "Výchozí údaje",
+        "successMessage": "Údaje byly uloženy",
+        "nameErrorMessage": "Je nutné zadat jméno a příjmení nebo název firmy",
+        "addressErrorMessage": "Je nutné zadat ulici a číslo popisné",
+        "postalCodeErrorMessage": "Bylo zadáno chybné poštovní směrovací číslo",
+        "cityErrorMessage": "Je nutné zadat název města",
+        "nipErrorMessage": "Je nutné zadat DIČ"
+    },
+    "notificationSettings": {
+        "barTitle": "Správa oznámení",
+        "push": "Oznámení Push",
+        "successMessage": "Nastavení byla uložena",
+        "settingsButton": "Nastavení",
+        "settingsDialogMessage": "Chcete-li dostávat oznámení, vyjádřete svůj souhlas v nastavení systému."
+    },
+    "help": {
+        "cancelReturnHeader": "Jak mohu zásilku zrušit a získat zpět peníze?",
+        "cancelReturnText": "Chcete-li zrušit zásilku a získat zpět peníze, kontaktujte nás e-mailem: wsparcie@wygodnezwroty.pl. Ve zprávě nám napište, jaký je kód zpětné zásilky nebo sledovací číslo. Do 14 dnů vám vrátíme peníze stejným způsobem, jakým byla provedena platba.\nPokud byla vaše zásilka vytvořena jako součást balíčku, vrátí se peníze do 14 dnů zpět do rozpočtu.",
+        "cancelPacketHeader": "Jak se odhlásit z balíčku zpětných zásilek?",
+        "cancelPacketText": "Chcete-li se odhlásit z balíčku a získat zpět peníze, kontaktujte nás e-mailem: wsparcie@wygodnezwroty.pl. Ve zprávě nám sdělte, na jakou e-mailovou adresu byl balíček zpětných zásilek zakoupen. Peníze za balíček vám vrátíme stejným způsobem, jakým byla provedena platba.",
+        "appErrorHeader": "Moje aplikace nefunguje správně",
+        "appErrorText": "Pokud máte problém s fungováním mobilní aplikace Pohodlná zpětná zásilka, kontaktujte nás prosím e-mailem: wsparcie@wygodnezwroty.pl. Popište nám prosím, v čem přesně problém spočívá. Přiložte také snímek obrazovky. Vaše odpověď, nám pomůže lokalizovat zdroj závady a rychleji ji vyřešit. Mezitím prosím zavřete a znovu otevřete aplikaci a pokuste se provést operaci, při které došlo k problému.",
+        "otherQuestions": "Pokud nevidíte odpověď na svou otázku, kontaktujte nás.",
+        "email": "wsparcie@wygodnezwroty.pl",
+        "emailCopied": "E-mailová adresa byla zkopírována do schránky",
+        "phoneNumber": "12 345 00 50",
+        "phoneNumberCopied": "Telefonní číslo bylo zkopírováno do schránky",
+        "workingHours": "Centrum zákaznické podpory je vám k dispozici od pondělí do pátku od 8: 00 do 16: 00 hodin"
+    },
+    "myPackets": {
+        "barTitle": "Moje balíčky",
+        "noPacket": {
+            "description1": "Připravili jsme pro vás balíčky zpětných zásilek, díky čemuž ušetříte na poštovném.",
+            "description2": "Prostřednictvím služby Pohodlná zpětná zásilka vrátíte svou objednávku do jakéhokoli internetového obchodu v Polsku.",
+            "bulletPoint1": "Když si koupíte balíček, ušetříte již při první zásilce",
+            "bulletPoint2": "Zpětné zásilky z balíčku můžete sdílet se svými blízkými",
+            "bulletPoint3": "Nejlepší cena - přímo u InPost stojí jedna zpětná zásilka dokonce až 25,99 PLN",
+            "recoverUnused": "Pokud zásilky v balíčku nevyužijete do {}, můžete všechny nevyužité prostředky získat zpět",
+            "button": "Seznamte se s balíčky zpětných zásilek a ušetřete"
+        },
+        "withPacket": {
+            "returnsLeft": "Moje zpětné zásilky v balíčku",
+            "buyMoreButton": "Koupit další zpětné zásilky",
+            "description1": "Chcete-li odeslat zásilku z balíčku, zvolte způsob platby Balíček zpětných zásilek.",
+            "packetCode": "Podívejte se na kód balíčku",
+            "description2": "Zjistěte více informací o Balíčkách zpětných zásilek. Zjistit více ",
+            "questionsLink": "Často kladené otázky",
+            "createReturnButton": "Vytvořit zpětnou zásilku",
+            "packetCodeCopiedMessage": "Kód balíčku byl zkopírován do schránky"
+        }
+    },
+    "newPacket": {
+        "title": "Zvolte balíček zpětných zásilek",
+        "barTitle": "Nákup balíčku",
+        "step1": "Výběr balíčku",
+        "step2": "Shrnutí",
+        "noneSelectedError": "Zvolte balíček zpětných zásilek",
+        "paymentErrorMessage": "Chyba platby",
+        "noPaymentMethodError": "Zvolte způsob platby",
+        "successMessage": "Balíček pro vrácení zásilek byl přidán na váš účet",
+        "summary": {
+            "title": "Shrnutí",
+            "emailLabel": "Váš e-mail",
+            "invoiceCheckbox": "Chci obdržet fakturu DPH",
+            "selectedPacket": "Zvolený balíček zpětných zásilek",
+            "count": {
+                "one": "{} zpětná zásilka do libovolného internetového obchodu v Polsku prostřednictvím služby Pohodlná zpětná zásilka",
+                "few": "{} zpětných zásilek do libovolného internetového obchodu v Polsku prostřednictvím služby Pohodlná zpětná zásilka",
+                "many": "{} zpětných zásilek do libovolného internetového obchodu v Polsku prostřednictvím služby Pohodlná zpětná zásilka"
+            },
+            "benefits": "Výhody při nákupu balíčku zpětných zásilek",
+            "bullet1": "Když si koupíte balíček, ušetříte již při první zásilce",
+            "bullet2": "Zpětné zásilky z balíčku můžete sdílet se svými blízkými",
+            "bullet3Part1": "Je to levnější o ",
+            "bullet3Part2": {
+                "one": " ve srovnání s odesláním {} nejlevnější zpětné zásilky přímo u InPost!",
+                "few": " ve srovnání s odesláním {} nejlevnějších zpětných zásilek přímo u InPost!",
+                "many": " ve srovnání s odesláním {} nejlevnějších zpětných zásilek přímo u InPost!",
+                "other": " ve srovnání s odesláním {} nejlevnějších zpětných zásilek přímo u InPost!"
+            },
+            "recoverUnused": "Pokud zásilky v balíčku nevyužijete do {}, můžete všechny nevyužité prostředky získat zpět",
+            "numberOfReturns": "Počet zpětných zásilek",
+            "amountToPay": "Celková částka k úhradě",
+            "brutto": "hrubá",
+            "paymentMethod": "Způsob platby",
+            "showMoreMethods": "Zobrazit další způsoby platby"
+        }
+    },
+    "packetListItem": {
+        "recommended": "Vybráno pro vás",
+        "checkbox": "Přidat balíček k objednávce",
+        "forReturn": "za zpětnou zásilku",
+        "forPacket": "za balíček",
+        "savings": "Ušetříte {}",
+        "count": {
+            "one": "Pohodlná zpětná zásilka\nInPost Balíkomat",
+            "few": "Pohodlné zpětné zásilky\nInPost Balíkomat",
+            "many": "Pohodlné zpětné zásilky\nInPost Balíkomat",
+            "other": "Pohodlné zpětné zásilky\nInPost Balíkomat"
+        }
+    },
+    "orderListEmpty": {
+        "title": "Dobrý den, {}",
+        "createDescription": "Po odeslání první zpětné zásilky se zde zobrazí zpráva o jejím stavu.",
+        "createButton": "Vytvořit zpětnou zásilku",
+        "packagesDescription": "Chcete začít šetřit na zpětných zásilkách již od prvního odeslání? Seznamte se s našimi balíčky zpětných zásilek",
+        "packagesButton": "Poznaj pakiety"
+    },
+    "orderList": {
+        "barTitle": "Moje zpětné zásilky"
+    },
+    "orderDetails": {
+        "barTitle": "Podrobnosti o zpětné zásilce",
+        "returnInfo": "Informace o zpětné zásilce",
+        "mailboxInfo": "Zpětná zásilka do obchodu",
+        "clientInfo": "Vaše údaje",
+        "historySection": "Historie zásilky",
+        "returnCodeLabel": "Kód zpětné zásilky",
+        "returnCodeValidUntil": "Kód je platný do {}",
+        "trackingNumberLabel": "Číslo zásilky",
+        "trackingNumberCopiedMessage": "Číslo zásilky bylo zkopírováno do schránky",
+        "codeDescription": "Kód zpětné zásilky napište na zásilku. Ostatní štítky ze zásilky odstraňte.",
+        "qrCodeDescription": "Pro otevření skříňky zadejte kód zpětné zásilky nebo naskenujte QR kód.",
+        "qrCodeZoom": "Dotykem zvětšíte",
+        "returnDetails": "Podrobnosti o zpětné zásilce",
+        "product": "Produkt",
+        "packageInfo": "Informace o zásilce",
+        "maxPackageSize": "Max parametry",
+        "weightAndSize": "Hmotnost a rozměry",
+        "shippingCost": "Náklady na dopravu",
+        "paymentMethod": "Způsob platby",
+        "invoiceData": "Fakturační údaje",
+        "retryPaymentButton": "Zaplatit zásilku",
+        "retryPaymentDescription": "Zásilka nebyla zaplacena. Proveďte platbu, abyste mohli zásilku odeslat.",
+        "forApproval": "Odeslali jsme informaci do obchodu {}, že chcete vrátit svou objednávku.\nJakmile obchod přijme vaši zpětnou zásilku, budeme vás informovat oznámením v aplikaci a zde se objeví váš kód zpětné zásilky."
+    },
+    "orderOptions": {
+        "recreateButton": "Vytvořit stejnou zpětnou zásilky",
+        "cancelButton": "Zrušit zásilku",
+        "deleteButton": "Smazat zásilku ze seznamu zpětných zásilek",
+        "deleteDialog": {
+            "title": "Smazání zásilky ze seznamu zpětných zásilek",
+            "message": "Opravdu chcete smazat zásilku ze seznamu zpětných zásilek? Akci nelze vrátit zpět.",
+            "yesButton": "Ano, chci smazat zásilku",
+            "noButton": "Ne, nechávám zásilku",
+            "successMessage": "Zásilka byla ze seznamu zpětných zásilek smazána"
+        }
+    },
+    "notifications": {
+        "barTitle": "Oznámení",
+        "empty": "Žádná oznámení"
+    },
+    "instantReturn": {
+        "title": "Nová zpětná zásilka do obchodu {}",
+        "message": "V dalším kroku vás požádáme o doplnění informací o vrácené objednávce.",
+        "createButton": "Vytvoření zpětné zásilky",
+        "restoreButton": "Obnovit",
+        "weightAndSize": "Hmotnost a rozměry"
+    },
+    "packageParams": {
+        "title": "Parametry zásilky",
+        "type": "Jak je vaše zásilka zabalena",
+        "foil-package": "Foliová obálka",
+        "delivery-package": "Kartonová krabice",
+        "foil-package-short": "Foliová obálka",
+        "delivery-package-short": "Krabice",
+        "weight": "Kolik váží vaše zásilka",
+        "weightTo": "do {} kg",
+        "size": "Uveďte rozměry zásilky",
+        "length": "Délka",
+        "width": "Šířka",
+        "height": "Výška",
+        "typeErrorMessage": "Vyberte balení zásilky",
+        "weightErrorMessage": "Vyberte hmotnost zásilky",
+        "lengthErrorMessage": "Zadejte délku zásilky",
+        "widthErrorMessage": "Zadejte šířku zásilky",
+        "heightErrorMessage": "Zadejte výšku zásilky"
+    },
+    "maxPackageSize": {
+        "prefix": "max.",
+        "inpostreturn": "41 cm x 38 cm x 64 cm, 25 kg",
+        "dhlreturn": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturn": "nejdelší strana 150 cm, 31,5 kg",
+        "dpdreturnlocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "glspolandreturn": "nejdelší strana 200 cm",
+        "dhlreturnwithlabel": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturnwithlabel": "nejdelší strana 150 cm, 31,5 kg",
+        "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "dpdreturnnolabelcourier": "nejdelší strana 150 cm, 31,5 kg",
+        "dpdreturnwithlabelcourier": "nejdelší strana 150 cm, 31,5 kg",
+        "orlenreturn": "",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "serviceDescription": {
+        "inpostreturn": "Zásilku bez štítku podáte v libovolném balíkomatu InPost",
+        "dhlreturn": "Zásilku bez štítku odneste do libovolného místa DHL POP: Żabka, Inmedio, Relay, 1minute, pobočky DHL.",
+        "dpdreturn": "Zásilku bez štítku odneste do libovolné prodejny Żabka nebo jiného místa DPD Pickup.",
+        "dpdreturnlocker": "Zásilku bez štítku vložte do libovolného balíkomatu DPD. Vezměte prosím na vědomí, že k otevření skříňky potřebujete aplikaci DPD Mobile.",
+        "glspolandreturn": "Zásilku odneste do libovolného podacího místa GLS: Carrefour, Auchan, Kolporter a jiná místa Szybkiej Paczki / ParcelShop či pobočky GLS.",
+        "dhlreturnwithlabel": "Zásilku se štítkem odneste do libovolného místa DHL POP: Żabka, Inmedio, Relay, 1minute, pobočky DHL.",
+        "dpdreturnwithlabel": "Zásilku se štítkem odneste do libovolné prodejny Żabka nebo jiného místa DPD Pickup.",
+        "dpdreturnwithlabellocker": "Zásilku se štítkem vložte do libovolného balíkomatu DPD. Vezměte prosím na vědomí, že k otevření skříňky potřebujete aplikaci DPD Mobile.",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Zásilku bez štítku odneste do libovolného kiosku RUCH (podací místo ORLEN Paczka).",
+        "orlenreturnwithlabel": "Zásilku se štítkem odneste do libovolného místa ORLEN Paczka.",
+        "pocztareturn": "Zásilku podejte na libovolnou pobočku polské pošty, s výjimkou poštovních agentur."
+    },
+    "serviceDescriptionAdditional": {
+        "inpostreturn": "",
+        "dhlreturn": "Důležité: Některá místa jsou ze sítě DHL POP vyloučena. Před návštěvou podacího místa si ověřte jeho dostupnost.",
+        "dpdreturn": "",
+        "dpdreturnlocker": "",
+        "glspolandreturn": "Důležité: Před návštěvou podacího místa si nezapomeňte ověřit dostupnost.",
+        "dhlreturnwithlabel": "Důležité: Některá místa jsou ze sítě DHL POP vyloučena. Před návštěvou podacího místa si ověřte jeho dostupnost.",
+        "dpdreturnwithlabel": "",
+        "dpdreturnwithlabellocker": "",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Důležité: Kiosky a prodejny RUCH jsou podací místa ORLEN Paczka, kde můžete podat balík bez štítku. Na mapě jsou označeny jako PSD.",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "mailboxSearch": {
+        "description": "Vyhledejte obchod, do kterého chcete zboží vrátit, a snadno odešlete zásilku",
+        "field": "Hledat obchod",
+        "recentSection": "Poslední zpětné zásilky",
+        "suggestStoreMessage": "Hledaný obchod není v seznamu?\n Zkuste zadat www adresu obchodu, jako např. twojsklep.pl. Pokud se obchod stále nezobrazuje ve výsledcích vyhledávání, dejte nám vědět a obchod přidáme do Pohodlné zpětné zásilky.",
+        "suggestStoreButton": "Nahlásit obchod",
+        "bottomSheet": {
+            "title": "Nahlásit obchod do Pohodlné zpětné zásilky",
+            "fieldLabel": "Adresa webových stránek obchodu",
+            "fieldHint": "Např. www.twojsklep.pl",
+            "description": "Obvykle přidáváme obchod do 24 hodin během pracovních dnů. Jakmile bude váš obchod přidán, zašleme vám oznámení na vaši e-mailovou adresu.",
+            "button": "Odeslat oznámení",
+            "successMessage": "Obdrželi jsme vaše oznámení. Po přidání obchodu vám zašleme zprávu e-mailem."
+        }
+    },
+    "newOrderBar": {
+        "title": "Nová zpětná zásilka",
+        "step1": "Vaše zásilka",
+        "step2": "Objednávka",
+        "step3": "Shrnutí"
+    },
+    "serviceSelection": {
+        "title": "Vyberte kurýrní společnost",
+        "description": "Balík bez štítku podáte v balíkomatu nebo na podacím místě a kurýr jej doručí na adresu obchodu.",
+        "detailsButton": "Podrobnosti o nabídkách",
+        "moreButton": "Zobrazit více forem zpětné zásilky",
+        "voucherButton": "Mám slevový kód",
+        "voucherField": "Slevový kód",
+        "addVoucherButton": "Přidat",
+        "removeVoucherButton": "Smazat",
+        "voucherSuccessMessage": "Slevový kód byl úspěšně přidán",
+        "withPacket": "Zásilka při využití balíčku zpětných zásilek",
+        "withPacketDescription": "Pokud nechcete balíček využít, změňte způsob platby v přehledu.",
+        "errorMessage": "Vyberte kurýrní společnost",
+        "packetCount": {
+            "one": "Váš balíček: 1 zpětná zásilka",
+            "few": "Váš balíček: {} zpětné zásilky",
+            "many": "Váš balíček: {} zpětných zásilek",
+            "other": "Váš balíček: {} zpětných zásilek"
+        }
+    },
+    "offerDetails": {
+        "barTitle": "Podrobnosti o nabídce",
+        "serviceName": {
+            "inpostreturn": "Balíkomaty InPost 24/7",
+            "dpdreturn": "Obchod Żabka a podací místa DPD",
+            "dhlreturn": "Podací místa a balíkomaty DHL"
+        },
+        "withoutLabel": "Bez tisku štítku",
+        "shipmentLocationSection": "Kde podáte zásilku",
+        "shipmentLocationDescription": {
+            "inpostreturn": "Libovolný balíkomat InPost",
+            "dpdreturn": "Libovolná prodejna Żabka nebo jiné místo ze sítě DPD Pickup\nZbylá místa: Dino, Delikatesy Centrum, Prodejna ABC, Lewiatan, Groszek, Kaufland, pobočky DPD Polsko a další.",
+            "dhlreturn": "Żabka, Innmedio, 1 minute, Relay a pobočky DHL.\nDůležité: Některá místa jsou ze sítě DHL vyloučena. Před návštěvou podacího místa si ověřte jeho dostupnost."
+        },
+        "and": "a",
+        "andOthers": "a další",
+        "checkOnMapButton": "Podívejte se na podací místa na mapě",
+        "maxParametersSection": "Maximální parametry",
+        "maxParametersDetails": {
+            "inpostreturn": "",
+            "dpdreturn": "Délka balíku (nejdelší strana) plus součet obvodů základny nesmí přesáhnout 300 cm.",
+            "dhlreturn": ""
+        },
+        "checkParamsButton": "Zkontrolujte, zda má balík správné rozměry",
+        "insuranceSection": "Pojištění",
+        "insuranceDetails": {
+            "inpostreturn": "Zdarma do 5 000 PLN",
+            "dpdreturn": "Zdarma do 1000 PLN",
+            "dhlreturn": "Zdarma do 500 PLN"
+        },
+        "verification": {
+            "barTitle": "Ověřování parametrů",
+            "label": "Zkontrolujte, zda má balík správné rozměry",
+            "successMessage": "Rozměry balíku jsou vyhovující",
+            "errorMessage": "Rozměry balíku nejsou vyhovující",
+            "errorMessageDescription": "Pokud je balík příliš velký, můžete zkusit obsah přebalit do menšího kartonu nebo zvážit zaslání zásilky jinou kurýrní společností."
+        }
+    },
+    "packetSelection": {
+        "title": "Přidejte si k objednávce balíček a ušetřete na vrácení zboží do svých oblíbených obchodů",
+        "descriptionRegular1": "Prostřednictvím služby Pohodlná zpětná zásilka vrátíte svou objednávku ",
+        "descriptionBold": "do jakéhokoli internetového obchodu",
+        "descriptionRegular2": " v Polsku.",
+        "bullet1": "Nákupem balíčku ušetříte již dnes, při vrácení zásilky do obchodu {}",
+        "bullet2": "Zpětné zásilky z balíčku můžete sdílet se svými blízkými",
+        "bullet3": "Nejlepší cena - přímo u InPost stojí jedna zpětná zásilka dokonce až 25,99 PLN",
+        "moreButton": "Zobrazit další balíčky"
+    },
+    "newOrderInfo": {
+        "title": "Informace o objednávce",
+        "optional": " (volitelné)",
+        "bankAccountTitle": "Vrácení peněz",
+        "bankAccountDescription": "Vrácené peníze obdržíte stejným způsobem, jakým byla provedena platba za vaši objednávku. Pokud to nebude možné, vrátíme vám peníze na účet, který jste uvedli níže.",
+        "requiredFieldErrorMessage": "Pole \"{}\" je povinné",
+        "bankAccountErrorMessage": "Zadejte správné číslo účtu",
+        "addProduct": "Přidat další produkt",
+        "removeProduct": "Smazat produkt"
+    },
+    "newOrderSummary": {
+        "title": "Shrnutí",
+        "box": "Balík",
+        "packageInfo": "Hmotnost a rozměry",
+        "packageMax": "Maximální parametry",
+        "mailboxSection": "Zpětná zásilka do obchodu",
+        "clientSection": "Vaše údaje",
+        "orderInfoSection": "Informace o objednávce",
+        "deliveryCost": "Cena za přepravu",
+        "brutto": "hrubá",
+        "packetTile": {
+            "count": {
+                "one": "{} zpětná zásilka do libovolného internetového obchodu v Polsku prostřednictvím služby Pohodlná zpětná zásilka",
+                "few": "{} zpětných zásilek do libovolného internetového obchodu v Polsku prostřednictvím služby Pohodlná zpětná zásilka",
+                "many": "{} zpětných zásilek do libovolného internetového obchodu v Polsku prostřednictvím služby Pohodlná zpětná zásilka"
+            },
+            "benefits": "Výhody při nákupu balíčku zpětných zásilek",
+            "bullet1": "Když si koupíte balíček, ušetříte již při první zásilce",
+            "bullet2": "Zpětné zásilky z balíčku můžete sdílet se svými blízkými",
+            "bullet3Part1": "Je to levnější o ",
+            "bullet3Part2": {
+                "one": " ve srovnání s odesláním {} nejlevnější zpětné zásilky přímo u InPost!",
+                "few": " ve srovnání s odesláním {} nejlevnějších zpětných zásilek přímo u InPost!",
+                "many": " ve srovnání s odesláním {} nejlevnějších zpětných zásilek přímo u InPost!",
+                "other": " ve srovnání s odesláním {} nejlevnějších zpětných zásilek přímo u InPost!"
+            },
+            "recoverUnused": "Pokud zásilky v balíčku nevyužijete do {}, můžete všechny nevyužité prostředky získat zpět"
+        },
+        "numberOfReturns": "Počet zpětných zásilek",
+        "amountToPay": "Celková částka k úhradě",
+        "xTimesReturn": " x zpětných zásilek ",
+        "paymentSection": "Způsob platby",
+        "payButton": "Objednávám se závazkem platby {}",
+        "payPacketButton": "Objednávám s využitím balíčku",
+        "createButton": "Vytvořit zásilku",
+        "packetPayment": "Balíček zpětných zásilek",
+        "noPaymentMethodErrorMessage": "Zvolte způsob platby",
+        "regulationsErrorMessage": "Musíte souhlasit s požadovanými podmínkami dopravce",
+        "paymentErrorMessage": "Chyba platby",
+        "orderCreationSuccess": "Objednávka byla přijata"
+    },
+    "blikSheet": {
+        "title": "Způsob platby",
+        "blik": "Blik",
+        "withCode": "S kódem",
+        "withoutCode": "Bez kódu",
+        "codeFieldDescription": "Zadejte 6místný kód Blik vygenerovaný v bankovní aplikaci.",
+        "codeFieldLabel": "Kód BLIK",
+        "regulation1": "Zaplacením souhlasím s ",
+        "regulationLink1": "podmínkami",
+        "regulation2": " PayPro S.A. V platebním procesu je správcem vašich osobních údajů společnost PayPro S.A. ",
+        "regulationExpand": "Přečtěte si vše",
+        "regulation3": "(KRS 0000347935), 60-327 Poznaň (Polsko), Kancelarska 15, +48 61 642 93 44, ",
+        "regulationLink2": ". Podívejte se na celý obsah informační doložky.",
+        "payButton": "Objednávám se závazkem platby {}",
+        "noCodeDescription": "Pokračujte kliknutím na tlačítko objednávám se závazkem platby a v dalším kroku potvrďte platbu ve své bankovní aplikaci",
+        "selectApp": "Vyberte bankovní účet, ze kterého chcete provést platbu",
+        "errorButton": "Zkusit znovu",
+        "confirmation": {
+            "title": "Potvrďte platbu v bankovní aplikaci",
+            "description": "Pokud tak neučiníte, platba nebude provedena."
+        }
+    },
+    "firstCall": {
+        "barTitle": "Uvítací nabídka",
+        "title": "Dobrý den, {}",
+        "description1": "Jsme rádi, že používáte službu Pohodlná zpětná zásilka. Jako poděkování za vaši přítomnost jsme pro vás připravili ",
+        "descriptionBold": "Uvítací balíček zpětných zásilek",
+        "description2": " za velmi atraktivní cenu!",
+        "description3": "Prostřednictvím služby Pohodlná zpětná zásilka můžete odeslat zpětnou zásilku do jakéhokoli internetového obchodu v Polsku",
+        "welcomeOffer": "Uvítací nabídka",
+        "onlyInApp": "Zpětné zásilky s uvítacím balíčkem využijete pouze v aplikaci Pohodlná zpětná zásilka",
+        "codeFieldDescription": "Zadejte 6místný kód Blik vygenerovaný v bankovní aplikaci.",
+        "bullet1": "Jednorázová nabídka",
+        "bullet2": "Dostupná pouze v aplikaci",
+        "bullet3": "Dlouhá doba platnosti pro zpětné zásilky z balíčku - až 6 měsíců po nákupu",
+        "availableFor": "Nabídka platí ještě {}",
+        "remindMeButton": "Připomenout později",
+        "buyButton": "Zní to dobře, kupuji balíček",
+        "tile": {
+            "onlyInApp": "Pouze v aplikaci",
+            "availableFor": "Končí za {}",
+            "returns": "{} zpětné zásilky InPost Balíkomat"
+        }
+    },
+    "invoiceDataSection": {
+        "checkbox": "Chci obdržet fakturu DPH",
+        "header": "Fakturační údaje"
+    },
+    "orderStatus": {
+        "created": "Vytvořena",
+        "deleted": "Smazána",
+        "awaitingApproval": "Čeká na schválení",
+        "rejected": "Zamítnuta",
+        "canceled": "Zrušena",
+        "readyToSend": "Připravena k odeslání",
+        "paid": "Zaplacena",
+        "processingError": "Chyba zpracování",
+        "shipped": "Odeslána",
+        "inTransit": "Na cestě",
+        "returnToSender": "Vrácení odesílateli",
+        "returned": "Vrácena",
+        "outForDelivery": "Doručována",
+        "awaitingPickup": "Čeká ve výdejním místě",
+        "delivered": "Doručena"
+    },
+    "orderEvent": {
+        "created": "Zásilka byla vytvořena",
+        "deleted": "Zásilka byla smazána",
+        "awaitingApproval": "Zásilka čeká na schválení",
+        "rejected": "Zásilka byla zamítnuta",
+        "canceled": "Zásilka byla zrušena",
+        "readyToSend": "Zásilka čeká na odeslání",
+        "paid": "Zásilka byla zaplacena",
+        "processingError": "Chyba zpracování",
+        "shipped": "Zásilka byla odeslána",
+        "inTransit": "Zásilka je na cestě",
+        "returnToSender": "Vrácení odesílateli",
+        "returned": "Zásilka byla vrácena",
+        "outForDelivery": "Předána k doručení",
+        "awaitingPickup": "Zásilka čeká ve výdejním místě",
+        "delivered": "Zásilka byla doručena"
+    },
+    "navigationBar": {
+        "orderList": "Moje zpětné zásilky",
+        "newOrder": "Nová zpětná zásilka",
+        "packets": "Balíček zpětných zásilek",
+        "account": "Můj účet"
+    },
+    "common": {
+        "nextButton": "Dále",
+        "saveButton": "Uložit",
+        "editButton": "Upravit",
+        "deleteButton": "Smazat",
+        "changeButton": "Změnit",
+        "selectButton": "Vybrat",
+        "confirmButton": "Potvrdit",
+        "cancelButton": "Zrušit",
+        "skipButton": "Přeskočit",
+        "copyButton": "Kopírovat",
+        "moreButton": "Více",
+        "lessButton": "Méně",
+        "or": "nebo",
+        "errorOccurred": "Došlo k chybě",
+        "errorConnection": "Žádné připojení k serveru",
+        "fromDate": "od {}",
+        "expand": "Rozbalit",
+        "collapse": "Sbalit",
+        "optionalRegulation": " (volitelné)",
+        "default": "Výchozí",
+        "step": "Krok {} z {}",
+        "kg": "kg",
+        "cm": "cm"
+    }
+}

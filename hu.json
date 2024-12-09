@@ -1,0 +1,663 @@
+{
+    "appName": "Kényelmes Visszaküldések",
+    "firstExplainer": {
+        "title": "Üdvözöljük a Kényelmes Visszaküldések álkalmazásban!",
+        "header": "Itt küldhet vissza csomagot bármelyik online áruházba Magyarországon!",
+        "bullet1": "Válasszon boltot a listából",
+        "bullet2": "Adja fel a csomagot az Ön által választott futárcéggel - az InPost automatákban, Żabkában vagy bármely más ponton.",
+        "bullet3": "Vigye el a feladási pontra, és kész.",
+        "servicesSection": "Így adhatja fel csomagját"
+    },
+    "secondExplainer": {
+        "title": "Kövesse nyomon a visszaküldéseit",
+        "description": "Nyomon követheti visszaküldései útját. Így mindig naprakész információkkal rendelkezhet a csomagok állapotáról."
+    },
+    "thirdExplainer": {
+        "title": "Használja a visszaküldési szolgáltatáscsomagokat, hogy pénzt és időt takarítson meg!",
+        "bullet1": "A visszaküldéseket csomagban vásárolva már az első küldeménynél spórolhat.",
+        "bullet2": "A szolgáltatáscsomagját megoszthatja szeretteivel",
+        "bullet3": "Legjobb ár - közvetlenül az InPostnál egyetlen visszaküldés akár 25,99 zł, míg a Kényelmes Visszaküldések szolgáltatásban az árak 10,97 PLN-tól kezdődnek.",
+        "button": "Kezdje el"
+    },
+    "login": {
+        "title": "Kezdje el használni a Kényelmes Visszaküldések alkalmazást.",
+        "description": "Ellenőrizzük az e-mail címét, hogy kényelmesen és biztonságosan hozhasson létre visszaküldéseket az online áruházak számára.",
+        "withAppleButton": "Folytatás Apple ID-val",
+        "withGoogleButton": "Folytatás Google-lal",
+        "withFacebookButton": "Folytatás Facebookkal",
+        "withEmailButton": "Folytatás e-maillel",
+        "withAllegroButton": "Folytatás Allegroval",
+        "withMicrosoftButton": "Folytatás Microsofttal",
+        "loggedInAsMessage": "Bejelentkezve mint: {}",
+        "regulations": {
+            "title": "Fogadja el a szabályzatot a folytatáshoz.",
+            "accept": "Elfogadom",
+            "deny": "Nem fogadom el"
+        }
+    },
+    "loginWithEmail": {
+        "title": "Adja meg e-mail címét",
+        "field": "E-mail",
+        "checkboxAll": "Jelölje be az összes hozzájárulást",
+        "emailErrorMessage": "Érvénytelen e-mail címet adott meg",
+        "regulationsErrorMessage": "A fiók létrehozásához el kell fogadni az összes szükséges hozzájárulást."
+    },
+    "loginVerify": {
+        "title": "E-mail cím megerősítése",
+        "description": "Egy ellenőrző kódot küldtünk az e-mail címére. Adja meg a kapott kódot.",
+        "emailLabel": "E-mail: ",
+        "codeField": "Adja meg az ellenőrző kódot",
+        "notReceivedButton": "Nem érkezett meg az e-mail?",
+        "anotherEmailButton": "Másik e-mail címet szeretnék megadni",
+        "passwordButton": "Jelszóval szeretnék bejelentkezni",
+        "codeSentMessage": "Kódot küldtünk a megadott e-mail címre",
+        "codeResentMessage": "Az aktiváló kódot újra elküldtük",
+        "emailErrorMessage": "Érvénytelen e-mail címet adott meg",
+        "codeErrorMessage": "Érvénytelen ellenőrző kódot adott meg"
+    },
+    "loginAnotherEmail": {
+        "title": "Adjon meg egy másik e-mail címet",
+        "field": "E-mail",
+        "button": "E-mail cím módosítása"
+    },
+    "loginEmailNotReceived": {
+        "title": "Nem érkezett meg az e-mail?",
+        "text": "1. Ellenőrizze a spam mappát.\n2. Várjon 15 percet, majd ellenőrizze újra.\n3 vagy ",
+        "button": "küldje el újra az ellenőrző kódot."
+    },
+    "loginWithPassword": {
+        "title": "Bejelentkezés a Kényelmes Visszaküldések alkalmazásba",
+        "fieldEmail": "E-mail",
+        "fieldPassword": "Jelszó",
+        "forgotButton": "Elfelejtette a jelszavát?",
+        "emailErrorMessage": "Érvénytelen e-mail címet adott meg",
+        "passwordErrorMessage": "Meg kell adni a jelszót"
+    },
+    "completeUserInfo": {
+        "title": "Visszaküldési adatok",
+        "description": "Töltse ki még a visszaküldéshez szükséges adatait, és kész is van! A fiókjában további visszaküldési profilokat is hozzáadhat.",
+        "fieldLabelSender": "Feladó",
+        "fieldHintSender": "Név vagy cégnév",
+        "fieldPhoneNumber": "Telefonszám",
+        "fieldEmail": "E-mail",
+        "successMessage": "Az adatok mentésre kerültek",
+        "nameErrorMessage": "Meg kell adni a nevet vagy a cég nevét",
+        "phoneErrorMessage": "Érvénytelen telefonszámot adott meg"
+    },
+    "account": {
+        "barTitle": "A fiókom",
+        "email": "E-mail",
+        "clientData": "Az Ön adatai",
+        "bankAccountNumber": "Bankszámlaszám",
+        "invoiceData": "Számlázási adatok",
+        "appTheme": "Alkalmazás témája",
+        "appLanguage": "Alkalmazás nyelve",
+        "notifications": "Értesítések",
+        "marketingRegulations": "Marketinghozzájárulások",
+        "accountManagement": "Fiókkezelés",
+        "help": "Segítség",
+        "helpAndContact": "Segítség és kapcsolat",
+        "deleteAccount": "Fiók törlése",
+        "logout": "Kijelentkezés",
+        "manage": "Kezelés"
+    },
+    "deleteAccount": {
+        "dialogTitle": "Fiók törlése",
+        "dialogBody": "Biztosan törölni szeretné a Kényelmes Visszaküldések fiókját?",
+        "emailTitle": "Fiók törlése a Kényelmes Visszaküldések szolgáltatásban",
+        "emailBody": "Kérem, töröljék a Kényelmes Visszaküldések szolgáltatásban lévő fiókomat.\n\nAz e-mail címem, amelyhez a fiók tartozik: {}",
+        "noEmailMessage1": "Fiókja törléséhez küldjön e-mailt az alábbi címre",
+        "noEmailMessage2": "az alábbi példa szerint:"
+    },
+    "themeSettings": {
+        "system": "Rendszer szerint",
+        "light": "Világos",
+        "dark": "Sötét"
+    },
+    "languageSettings": {
+        "bg": "български",
+        "cs": "Česky",
+        "de": "Deutsch",
+        "el": "ελληνικά",
+        "en": "English",
+        "hu": "Magyar",
+        "pl": "Polski",
+        "ro": "Românește",
+        "ru": "Русский",
+        "sk": "Slovenčina",
+        "uk": "Українська"
+    },
+    "profileList": {
+        "addNew": "Új profil hozzáadása",
+        "deleteDialogTitle": "Profil törlése?",
+        "deleteDialogMessage": "Biztosan törölni szeretné a kiválasztott profilt?",
+        "deleteSuccessMessage": "Az adatok törlésre kerültek"
+    },
+    "profileEdit": {
+        "newProfile": "Új visszaküldési profil",
+        "editProfile": "Visszaküldési profil szerkesztése",
+        "fieldLabelSender": "Feladó",
+        "fieldHintSender": "Név vagy cégnév",
+        "fieldPhoneNumber": "Telefonszám",
+        "fieldLabelEmail": "E-mail (opcionális)",
+        "fieldHintEmail": "E-mail",
+        "defaultCheckbox": "Alapértelmezett profilként állítsa be",
+        "insertProfileButton": "Profilokból beszúrás",
+        "fieldDescriptionEmail": "Töltse ki, ha eltér az alapértelmezett e-mail címétől: {}. Az információkat erre az e-mail címre küldjük.",
+        "fieldDescriptionEmailDisabled": "Ezt az e-mail címet a(z) {} áruházban létrehozott rendeléshez használták. Nem lehet megváltoztatni. A visszaküldési kódot megtalálja a Kényelmes Visszaküldések alkalmazásban, és erre az e-mail címre is elküldjük.",
+        "successMessage": "Az adatok mentésre kerültek",
+        "emailErrorMessage": "Érvénytelen e-mail címet adott meg",
+        "nameErrorMessage": "Meg kell adni a nevet vagy a cég nevét",
+        "phoneErrorMessage": "Érvénytelen telefonszámot adott meg"
+    },
+    "bankAccountList": {
+        "addNew": "Új bankszámlaszám hozzáadása",
+        "deleteDialogTitle": "Törölni szeretné a bankszámlaszámot?",
+        "deleteDialogMessage": "Biztosan törölni szeretné a kiválasztott bankszámlaszámot?",
+        "deleteSuccessMessage": "Az adatok törlésre kerültek"
+    },
+    "bankAccountEdit": {
+        "newAccount": "Új bankszámlaszám",
+        "editAccount": "Bankszámlaszám szerkesztése",
+        "fieldAccountNumber": "Bankszámlaszám",
+        "successMessage": "Az adatok mentésre kerültek",
+        "accountNumberErrorMessage": "Érvénytelen bankszámlaszámot adott meg"
+    },
+    "invoiceList": {
+        "nip": "Adószám",
+        "addNew": "Új számlázási adat hozzáadása",
+        "deleteDialogTitle": "Törölni szeretné a számlázási adatokat?",
+        "deleteDialogMessage": "Biztosan törölni szeretné a kiválasztott számlázási adatokat?",
+        "deleteSuccessMessage": "Az adatok törlésre kerültek"
+    },
+    "invoiceEdit": {
+        "newData": "Új számlázási adatok",
+        "editData": "Számlázási adatok szerkesztése",
+        "typeCompany": "Cég",
+        "typePerson": "Magánszemély",
+        "fieldNIP": "Adószám",
+        "fieldCompanyName": "Cég neve",
+        "fieldFullName": "Teljes név",
+        "fieldStreet": "Utca és házszám",
+        "fieldPostalCode": "Irányítószám",
+        "fieldCity": "Település",
+        "defaultData": "Alapértelmezett adatok",
+        "successMessage": "Az adatok mentésre kerültek",
+        "nameErrorMessage": "Meg kell adni a nevet vagy a cég nevét",
+        "addressErrorMessage": "Adja meg az utcát és a házszámot",
+        "postalCodeErrorMessage": "Érvénytelen irányítószámot adott meg",
+        "cityErrorMessage": "Adja meg a település nevét",
+        "nipErrorMessage": "Adja meg az adószámot"
+    },
+    "notificationSettings": {
+        "barTitle": "Értesítések kezelése",
+        "push": "Push értesítések",
+        "successMessage": "A beállítások mentésre kerültek",
+        "settingsButton": "Beállítások",
+        "settingsDialogMessage": "Az értesítések fogadásához engedélyezze az értesítések küldését a rendszer beállításaiban."
+    },
+    "help": {
+        "cancelReturnHeader": "Hogyan tudom törölni a csomagot, és visszatérítést kapni?",
+        "cancelReturnText": "A csomag törléséhez és a visszatérítéshez vegye fel velünk a kapcsolatot e-mailben: wsparcie@wygodnezwroty.pl. Az üzenetben kérjük, adja meg a visszaküldési kódot vagy a csomag számát. A csomag díját 14 napon belül visszatérítjük, ugyanazzal a fizetési móddal, amelyet a fizetéshez használt.\nHa a csomagja visszaküldési szolgáltatáscsomag része volt, a visszatérítés 14 napon belül visszatér a csomagba.",
+        "cancelPacketHeader": "Hogyan lehet lemondani a visszaküldési szolgáltatáscsomagot?",
+        "cancelPacketText": "A visszaküldési szolgáltatáscsomag lemondásához és a visszatérítéshez vegye fel velünk a kapcsolatot e-mailben: wsparcie@wygodnezwroty.pl. Az üzenetben kérjük, adja meg, hogy mely e-mail címhez kapcsolódik a visszaküldési szolgáltatáscsomag. A csomag díját ugyanazzal a módszerrel térítjük vissza, amelyet a fizetés során használt.",
+        "appErrorHeader": "Az alkalmazásom nem működik megfelelően",
+        "appErrorText": "Ha problémát tapasztal a Kényelmes Visszaküldések mobilalkalmazással kapcsolatban, vegye fel velünk a kapcsolatot e-mailben: wsparcie@wygodnezwroty.pl. Kérjük, írja le részletesen a problémát, és csatoljon egy képernyőképet is. Ez segít nekünk gyorsabban azonosítani és megoldani a hibát. Közben zárja be, majd nyissa meg újra az alkalmazást, és próbálja meg újra végrehajtani azt a műveletet, amely során a probléma jelentkezett.",
+        "otherQuestions": "Ha nem talál választ a kérdésére, vegye fel velünk a kapcsolatot.",
+        "email": "wsparcie@wygodnezwroty.pl",
+        "emailCopied": "Az e-mail cím másolásra került a vágólapra",
+        "phoneNumber": "12 345 00 50",
+        "phoneNumberCopied": "A telefonszám másolásra került a vágólapra",
+        "workingHours": "Az Ügyfélszolgálati Központ hétfőtől péntekig, 8:00-16:00 között áll rendelkezésére."
+    },
+    "myPackets": {
+        "barTitle": "Szolgáltatáscsomagjaim",
+        "noPacket": {
+            "description1": "Olyan visszaküldési szolgáltatáscsomagokat készítettünk Önnek, amelyekkel spórolhat a szállításon.",
+            "description2": "A Kényelmes Visszaküldések segítségével bármelyik online áruházhoz visszaküldheti rendelését Magyarországon.",
+            "bulletPoint1": "Egy szolgáltatáscsomag vásárlásával már az első visszaküldésnél spórolhat.",
+            "bulletPoint2": "A szolgáltatáscsomagját megoszthatja szeretteivel",
+            "bulletPoint3": "A legjobb ár – közvetlenül az InPostnál egyetlen visszaküldés akár 25,99 PLN-ba is kerülhet.",
+            "recoverUnused": "Ha a csomagban lévő küldeményeket nem használja fel {}-ig, visszaigényelheti az összes fel nem használt összeget.",
+            "button": "Ismerje meg a visszaküldési szolgáltatáscsomagokat, és spóroljon"
+        },
+        "withPacket": {
+            "returnsLeft": "Csomagban lévő visszaküldéseim",
+            "buyMoreButton": "Vásároljon további visszaküldéseket",
+            "description1": "Ha csomagot szeretne feladni a szolgáltatáscsomag keretében, a fizetés során válassza a szolgáltatáscsomagot fizetési módként.",
+            "packetCode": "Ellenőrizze a szolgáltatáscsomag kódját",
+            "description2": "Tudjon meg többet a visszaküldési szolgáltatáscsomagokról. Nézze meg",
+            "questionsLink": "Gyakori kérdések",
+            "createReturnButton": "Hozzon létre visszaküldési csomagot",
+            "packetCodeCopiedMessage": "A szolgáltatáscsomag kódja másolásra került a vágólapra"
+        }
+    },
+    "newPacket": {
+        "title": "Válasszon visszaküldési szolgáltatáscsomagot",
+        "barTitle": "Csomag vásárlása",
+        "step1": "Csomag kiválasztása",
+        "step2": "Összegzés",
+        "noneSelectedError": "Válasszon visszaküldési szolgáltatáscsomagot",
+        "paymentErrorMessage": "Fizetési hiba",
+        "noPaymentMethodError": "Válasszon fizetési módot",
+        "successMessage": "A visszaküldési szolgáltatáscsomag hozzáadásra került a fiókjához",
+        "summary": {
+            "title": "Összegzés",
+            "emailLabel": "Az Ön e-mail címe",
+            "invoiceCheckbox": "Szeretnék ÁFA-s számlát kapni",
+            "selectedPacket": "A kiválasztott visszaküldési szolgáltatáscsomag",
+            "count": {
+                "one": "{} visszaküldés bármelyik online áruházba Magyarországon a Kényelmes Visszaküldések segítségével",
+                "few": "{} visszaküldés bármelyik online áruházba Magyarországon a Kényelmes Visszaküldések segítségével",
+                "many": "{} visszaküldés bármelyik online áruházba Magyarországon a Kényelmes Visszaküldések segítségével",
+                "other": "{} visszaküldés bármelyik online áruházba Magyarországon a Kényelmes Visszaküldések segítségével"
+            },
+            "benefits": "A visszaküldési szolgáltatáscsomag vásárlásának előnyei",
+            "bullet1": "Egy szolgáltatáscsomag vásárlásával már az első visszaküldésnél spórolhat.",
+            "bullet2": "A szolgáltatáscsomagját megoszthatja szeretteivel",
+            "bullet3Part1": "Ez olcsóbb ",
+            "bullet3Part2": {
+                "one": " összehasonlítva az InPostnál történő {} legolcsóbb visszaküldéssel!",
+                "few": " összehasonlítva az InPostnál történő {} legolcsóbb visszaküldéssel!",
+                "many": " összehasonlítva az InPostnál történő {} legolcsóbb visszaküldéssel!",
+                "other": " összehasonlítva az InPostnál történő {} legolcsóbb visszaküldéssel!"
+            },
+            "recoverUnused": "Ha a csomagban lévő küldeményeket nem használja fel {}-ig, visszaigényelheti az összes fel nem használt összeget.",
+            "numberOfReturns": "A visszaküldések száma",
+            "amountToPay": "Fizetendő teljes összeg",
+            "brutto": "bruttó",
+            "paymentMethod": "Fizetési mód",
+            "showMoreMethods": "További fizetési módok megjelenítése"
+        }
+    },
+    "packetListItem": {
+        "recommended": "Az Ön számára kiválasztva",
+        "checkbox": "Csomagot adok a rendeléshez",
+        "forReturn": "visszaküldésért",
+        "forPacket": "csomagért",
+        "savings": "{}-t spórol",
+        "count": {
+            "one": "Kényelmes Visszaküldés\nInPost Csomagautomata",
+            "few": "Kényelmes Visszaküldések\nInPost Csomagautomata",
+            "many": "Kényelmes Visszaküldések\nInPost Csomagautomata",
+            "other": "Kényelmes Visszaküldések\nInPost Csomagautomata"
+        }
+    },
+    "orderListEmpty": {
+        "title": "Kedves {}",
+        "createDescription": "Amikor feladja első visszaküldését, itt megjelenik az állapotáról szóló információ.",
+        "createButton": "Hozzon létre visszaküldést",
+        "packagesDescription": "Szeretne már az első csomagtól kezdve spórolni a visszaküldéseken? Ismerje meg visszaküldési szolgáltatáscsomagjainkat",
+        "packagesButton": "Ismerje meg csomagjainkat"
+    },
+    "orderList": {
+        "barTitle": "Visszaküldéseim"
+    },
+    "orderDetails": {
+        "barTitle": "A visszaküldés részletei",
+        "returnInfo": "Információk a visszaküldésről",
+        "mailboxInfo": "Visszaküldés az áruházba",
+        "clientInfo": "Az Ön adatai",
+        "historySection": "A csomag története",
+        "returnCodeLabel": "Visszaküldési kód",
+        "returnCodeValidUntil": "A kód {}-ig érvényes",
+        "trackingNumberLabel": "Csomagszám",
+        "trackingNumberCopiedMessage": "A csomagszám másolásra került a vágólapra",
+        "codeDescription": "Írja rá a visszaküldési kódot a csomagra. Távolítsa el a többi címkét a csomagról.",
+        "qrCodeDescription": "Az automata rekeszének kinyitásához adja meg a visszaküldési kódot, vagy olvassa be a QR-kódot.",
+        "qrCodeZoom": "Érintse meg a nagyításhoz",
+        "returnDetails": "A visszaküldés részletei",
+        "product": "Termék",
+        "packageInfo": "Információk a küldeményről",
+        "maxPackageSize": "Maximális paraméterek",
+        "weightAndSize": "Súly és méretek",
+        "shippingCost": "Szállítási költség",
+        "paymentMethod": "Fizetési mód",
+        "invoiceData": "Számlázási adatok",
+        "retryPaymentButton": "Fizesse ki a küldeményt",
+        "retryPaymentDescription": "A csomag nincs kifizetve. Végezze el a fizetést, hogy feladhassa visszaküldését.",
+        "forApproval": "Értesítettük a(z) {} áruházat, hogy vissza szeretné küldeni rendelését.\nAmint az áruház elfogadja visszaküldését, értesítést küldünk az alkalmazásban, és itt megjelenik a visszaküldési kódja."
+    },
+    "orderOptions": {
+        "recreateButton": "Hozzon létre ugyanilyen visszaküldést",
+        "cancelButton": "Törölje a csomagot",
+        "deleteButton": "Távolítsa el a csomagot a visszaküldések listájáról",
+        "deleteDialog": {
+            "title": "A csomag eltávolítása a visszaküldések listájáról",
+            "message": "Biztosan el szeretné távolítani a csomagot a visszaküldések listájáról? A művelet nem vonható vissza.",
+            "yesButton": "Igen, el szeretném távolítani a csomagot",
+            "noButton": "Nem, megtartom a csomagot",
+            "successMessage": "A csomag eltávolításra került a visszaküldések listájáról"
+        }
+    },
+    "notifications": {
+        "barTitle": "Értesítések",
+        "empty": "Nincsenek értesítések"
+    },
+    "instantReturn": {
+        "title": "Új visszaküldés a(z) {} áruházhoz",
+        "message": "A következő lépésben kérni fogjuk, hogy adja meg a visszaküldendő rendelés adatait.",
+        "createButton": "Visszaküldést hozok létre",
+        "restoreButton": "Visszaállítás",
+        "weightAndSize": "Súly és méretek"
+    },
+    "packageParams": {
+        "title": "A küldemény paraméterei",
+        "type": "Hogyan van becsomagolva a küldeménye?",
+        "foil-package": "Fóliatasak",
+        "delivery-package": "Karton doboz",
+        "foil-package-short": "Fóliatasak",
+        "delivery-package-short": "Doboz",
+        "weight": "Adja meg a küldemény súlyát:",
+        "weightTo": "{} kg-ig",
+        "size": "Adja meg a küldemény méreteit",
+        "length": "Hosszúság",
+        "width": "Szélesség",
+        "height": "Magasság",
+        "typeErrorMessage": "Határozza meg, hogyan van becsomagolva a küldeménye:",
+        "weightErrorMessage": "Határozza meg a küldeményének sulyát",
+        "lengthErrorMessage": "Adja meg a küldemény hosszát",
+        "widthErrorMessage": "Adja meg a küldemény szélességét",
+        "heightErrorMessage": "Adja meg a küldemény magasságát"
+    },
+    "maxPackageSize": {
+        "prefix": "max.",
+        "inpostreturn": "41 cm x 38 cm x 64 cm, 25 kg",
+        "dhlreturn": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturn": "a leghosszabb oldal 150 cm, 31,5 kg",
+        "dpdreturnlocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "glspolandreturn": "a leghosszabb oldal 200 cm",
+        "dhlreturnwithlabel": "64 x 38 x 41 cm, 25 kg",
+        "dpdreturnwithlabel": "a leghosszabb oldal 150 cm, 31,5 kg",
+        "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "dpdreturnnolabelcourier": "a leghosszabb oldal 150 cm, 31,5 kg",
+        "dpdreturnwithlabelcourier": "a leghosszabb oldal 150 cm, 31,5 kg",
+        "orlenreturn": "",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "serviceDescription": {
+        "inpostreturn": "A csomagot címke nélkül adhatja fel bármely InPost csomagautomatában.",
+        "dhlreturn": "Címke nélküli csomagját vigye el az Önnek megfelelő DHL POP pontra: Żabka, Inmedio, Relay, 1minute, DHL kirendeltségek",
+        "dpdreturn": "Címke nélküli csomagját vigye el bármelyik Żabka boltba vagy a DPD Pickup hálózat egyéb pontjára.",
+        "dpdreturnlocker": "Helyezze címke nélküli csomagját bármely DPD csomagautomatába. Ne feledje, hogy a rekesz kinyitásához szüksége van a DPD Mobile alkalmazásra.",
+        "glspolandreturn": "Vigye el csomagját az Önnek legmegfelelőbb GLS pontra: Carrefour, Auchan, Kolporter valamint más Szybka Paczka / ParcelShop pontokra és GLS kirendeltségekre.",
+        "dhlreturnwithlabel": "A címkés csomagját vigye el az Önnek megfelelő DHL POP pontra: Żabka, Inmedio, Relay, 1minute, DHL kirendeltségek",
+        "dpdreturnwithlabel": "A címkés csomagját vigye el bármelyik Żabka boltba vagy a DPD Pickup hálózat egyéb pontjára.",
+        "dpdreturnwithlabellocker": "Helyezze címkés csomagját bármely DPD csomagautomatába. Ne feledje, hogy a rekesz kinyitásához szüksége van a DPD Mobile alkalmazásra.",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Címke nélküli csomagját vigye el az Önnek legmegfelelőbb RUCH kioszkba (ORLEN Paczka pontra).",
+        "orlenreturnwithlabel": "A címkével ellátott csomagját vigye el az Önnek legmegfelelőbb ORLEN Paczka pontra.",
+        "pocztareturn": "Vigye el csomagját bármelyik Poczta Polska kirendeltségre, kivéve a postai ügynökségeket."
+    },
+    "serviceDescriptionAdditional": {
+        "inpostreturn": "",
+        "dhlreturn": "Fontos: Néhány pont nem tartozik a DHL POP hálózatba. Látogatás előtt ellenőrizze a pont elérhetőségét.",
+        "dpdreturn": "",
+        "dpdreturnlocker": "",
+        "glspolandreturn": "Fontos: Ne feledje, hogy a pont látogatása előtt ellenőrizze annak elérhetőségét.",
+        "dhlreturnwithlabel": "Fontos: Néhány pont nem tartozik a DHL POP hálózatba. Látogatás előtt ellenőrizze a pont elérhetőségét.",
+        "dpdreturnwithlabel": "",
+        "dpdreturnwithlabellocker": "",
+        "dpdreturnnolabelcourier": "",
+        "dpdreturnwithlabelcourier": "",
+        "orlenreturn": "Fontos: A RUCH kioszkok és boltok ORLEN Paczka pontokként működnek, ahol címke nélkül is feladhatja csomagját. Ezek a térképen PSD jelzéssel vannak feltüntetve.",
+        "orlenreturnwithlabel": "",
+        "pocztareturn": ""
+    },
+    "mailboxSearch": {
+        "description": "Keresse meg azt az üzletet, ahová vissza szeretné küldeni az árut, és egyszerűen adja fel a csomagot.",
+        "field": "Keresse meg az üzletet",
+        "recentSection": "Utolsó visszaküldések",
+        "suggestStoreMessage": "Az üzlet, amit keres, nincs a listán?\nPróbálja meg beírni az üzlet webcímét, például bolt.hu. Ha az üzlet továbbra sem jelenik meg a keresési eredmények között, jelezze nekünk, és hozzáadjuk a Kényelmes Visszaküldésekhez.",
+        "suggestStoreButton": "Jelentse be az üzletet",
+        "bottomSheet": {
+            "title": "Jelentse be az üzletet a Kényelmes Visszaküldésekhez",
+            "fieldLabel": "A bolt weboldalának címe",
+            "fieldHint": "Például bolt.hu",
+            "description": "Általában 24 órán belül hozzáadjuk a boltot munkanapokon. A bolt hozzáadása után értesítést küldünk az e-mail címére.",
+            "button": "Küldje el a bejelentést",
+            "successMessage": "Megkaptuk a bejelentését. Egy e-mailt küldünk Önnek, amikor a bolt hozzáadásra kerül."
+        }
+    },
+    "newOrderBar": {
+        "title": "Új visszaküldés",
+        "step1": "Az Ön csomagja",
+        "step2": "Megrendelés",
+        "step3": "Összegzés"
+    },
+    "serviceSelection": {
+        "title": "Válassza ki a futárcéget",
+        "description": "A csomagot címke nélkül egy csomagautomatában vagy feladási ponton adhatja fel, a futár pedig kézbesíti azt a bolt címére.",
+        "detailsButton": "Ajánlatok részletei",
+        "moreButton": "A többi visszaküldési módszer mutatása",
+        "voucherButton": "Van kedvezménykódom",
+        "voucherField": "Kedvezménykód",
+        "addVoucherButton": "Hozzáadás",
+        "removeVoucherButton": "Törlés",
+        "voucherSuccessMessage": "A kedvezménykód sikeresen hozzáadásra került",
+        "withPacket": "Csomag feladása a szolgáltatáscsomagban lévő visszaküldés felhasználásával",
+        "withPacketDescription": "Ha nem szeretné használni a szolgáltatáscsomagot, változtassa meg a fizetési módot az összegzésben.",
+        "errorMessage": "Válassza ki a futárcéget",
+        "packetCount": {
+            "one": "A szolgáltatáscsomagja: 1 visszaküldés",
+            "few": "A szolgáltatáscsomagja: {} visszaküldés",
+            "many": "A szolgáltatáscsomagja: {} visszaküldés",
+            "other": "A szolgáltatáscsomagja: {} visszaküldés"
+        }
+    },
+    "offerDetails": {
+        "barTitle": "Ajánlatok részletei",
+        "serviceName": {
+            "inpostreturn": "InPost 24/7 csomagautomaták",
+            "dpdreturn": "Żabka boltok és DPD pontok",
+            "dhlreturn": "DHL pontok és automaták"
+        },
+        "withoutLabel": "Címkenyomtatás nélkül",
+        "shipmentLocationSection": "Hol adhatja fel a csomagot",
+        "shipmentLocationDescription": {
+            "inpostreturn": "Bármely InPost csomagautomata",
+            "dpdreturn": "Bármely Żabka üzlet vagy a DPD Pickup hálózat más kereskedelmi pontjai.\nTovábbi pontok: Dino, Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, a DPD Polska kirendeltségei és mások.",
+            "dhlreturn": "Żabka, Inmedio, 1 Minute, Relay, valamint a DHL kirendeltségei.\nFontos: Néhány pont nem része a DHL hálózatának. Látogatás előtt ellenőrizze a pont elérhetőségét."
+        },
+        "and": "és",
+        "andOthers": "és mások",
+        "checkOnMapButton": "Nézze meg a pontokat a térképen",
+        "maxParametersSection": "Maximális paraméterek",
+        "maxParametersDetails": {
+            "inpostreturn": "",
+            "dpdreturn": "A csomag hossza (a leghosszabb oldal) és az alap kerületének összege nem haladhatja meg a 300 cm-t.",
+            "dhlreturn": ""
+        },
+        "checkParamsButton": "Ellenőrizze, hogy a csomag méretei megfelelők-e.",
+        "insuranceSection": "Biztosítás",
+        "insuranceDetails": {
+            "inpostreturn": "5000 PLN-ig ingyenes",
+            "dpdreturn": "1000 PLN-ig ingyenes",
+            "dhlreturn": "500 PLN-ig ingyenes"
+        },
+        "verification": {
+            "barTitle": "Paraméterek ellenőrzése",
+            "label": "Ellenőrizze, hogy a csomag méretei megfelelők-e.",
+            "successMessage": "A csomag méretei megfelelők.",
+            "errorMessage": "A csomag méretei nem megfelelők.",
+            "errorMessageDescription": "Ha a csomagja túl nagy, próbálja meg kisebb dobozba csomagolni a tartalmát, vagy fontolja meg egy másik futárszolgálat használatát."
+        }
+    },
+    "packetSelection": {
+        "title": "Adjon hozzá egy szolgáltatáscsomagot a rendeléshez, és spóroljon, miközben visszaküldi termékeit kedvenc üzleteibe.",
+        "descriptionRegular1": "A Kényelmes Visszaküldések segítségével visszaküldheti a rendelést",
+        "descriptionBold": "bármelyik webáruházba",
+        "descriptionRegular2": "Magyarországon.",
+        "bullet1": "Szolgáltatáscsomag vásárlásával már most spórolhat, ha visszaküldést ad fel a(z) {} áruházba.",
+        "bullet2": "A szolgáltatáscsomagját megoszthatja szeretteivel",
+        "bullet3": "A legjobb ár – közvetlenül az InPostnál egyetlen visszaküldés akár 25,99 PLN-ba is kerülhet.",
+        "moreButton": "Más csomagok mutatása"
+    },
+    "newOrderInfo": {
+        "title": "Rendelési információk",
+        "optional": "(opcionális)",
+        "bankAccountTitle": "Pénzvisszatérítés",
+        "bankAccountDescription": "A visszatérítést ugyanazzal a módszerrel kapja meg, amelyet a rendelés kifizetéséhez használt. Ha ez nem lehetséges, az alább megadott számlára térítjük vissza az összeget.",
+        "requiredFieldErrorMessage": "A(z) \"{}\" mező kitöltése kötelező",
+        "bankAccountErrorMessage": "Adjon meg egy érvényes bankszámlaszámot",
+        "addProduct": "Adjon hozzá következő terméket",
+        "removeProduct": "Termék eltávolítása"
+    },
+    "newOrderSummary": {
+        "title": "Összegzés",
+        "box": "Csomag",
+        "packageInfo": "Súly és méretek",
+        "packageMax": "Maximális paraméterek",
+        "mailboxSection": "Visszaküldés az áruházba",
+        "clientSection": "Az Ön adatai",
+        "orderInfoSection": "Rendelési információk",
+        "deliveryCost": "Szállítási költség",
+        "brutto": "bruttó",
+        "packetTile": {
+            "count": {
+                "one": "{} visszaküldés bármelyik online áruházba Magyarországon a Kényelmes Visszaküldések segítségével",
+                "few": "{} visszaküldés bármelyik online áruházba Magyarországon a Kényelmes Visszaküldések segítségével",
+                "many": "{} visszaküldés bármelyik online áruházba Magyarországon a Kényelmes Visszaküldések segítségével",
+                "other": "{} visszaküldés bármelyik online áruházba Magyarországon a Kényelmes Visszaküldések segítségével"
+            },
+            "benefits": "A visszaküldési szolgáltatáscsomag vásárlásának előnyei",
+            "bullet1": "Egy szolgáltatáscsomag vásárlásával már az első visszaküldésnél spórolhat.",
+            "bullet2": "A szolgáltatáscsomagját megoszthatja szeretteivel",
+            "bullet3Part1": "Ez olcsóbb ",
+            "bullet3Part2": {
+                "one": " összehasonlítva az InPostnál történő {} legolcsóbb visszaküldéssel!",
+                "few": " összehasonlítva az InPostnál történő {} legolcsóbb visszaküldéssel!",
+                "many": " összehasonlítva az InPostnál történő {} legolcsóbb visszaküldéssel!",
+                "other": " összehasonlítva az InPostnál történő {} legolcsóbb visszaküldéssel!"
+            },
+            "recoverUnused": "Ha a csomagban lévő küldeményeket nem használja fel {}-ig, visszaigényelheti az összes fel nem használt összeget."
+        },
+        "numberOfReturns": "A visszaküldések száma",
+        "amountToPay": "Fizetendő teljes összeg",
+        "xTimesReturn": " x vissza ",
+        "paymentSection": "Fizetési mód",
+        "payButton": "Megrendelem és fizetek",
+        "payPacketButton": "Szolgáltatáscsomagot használva rendelek",
+        "createButton": "Küldemény létrehozása",
+        "packetPayment": "Visszaküldési szolgáltatáscsomag",
+        "noPaymentMethodErrorMessage": "Válasszon fizetési módot",
+        "regulationsErrorMessage": "El kell fogadnia a futárszolgálat kötelező szabályzatait",
+        "paymentErrorMessage": "Fizetési hiba",
+        "orderCreationSuccess": "A rendelést elfogadtuk"
+    },
+    "blikSheet": {
+        "title": "Fizetési mód",
+        "blik": "Blik",
+        "withCode": "Kóddal",
+        "withoutCode": "Kód nélkül",
+        "codeFieldDescription": "Adja meg a banki alkalmazásában generált 6 számjegyű Blik kódot.",
+        "codeFieldLabel": "BLIK kód",
+        "regulation1": "A fizetéssel elfogadom ",
+        "regulationLink1": "a szabályzatot",
+        "regulation2": " PayPro S.A. A fizetési folyamat során az Ön személyes adatainak kezelője a PayPro S.A.",
+        "regulationExpand": "Olvassa el a teljes szabályzatot",
+        "regulation3": "(KRS 0000347935), 60-327 Poznań (Lengyelország), Kancelarska 15, +48 61 642 93 44, ",
+        "regulationLink2": ". Tekintse meg az információs záradék teljes szövegét.",
+        "payButton": "Megrendelem és fizetek",
+        "noCodeDescription": "Kattintson a 'Megrendelem és fizetek' gombra a továbblépéshez, majd a következő lépésben erősítse meg a fizetést a banki alkalmazásában.",
+        "selectApp": "Válassza ki a bankszámlát, amelyről a fizetést szeretné teljesíteni",
+        "errorButton": "Próbálja meg újra",
+        "confirmation": {
+            "title": "Erősítse meg a fizetést a banki alkalmazásban",
+            "description": "Ha ezt nem teszi meg, a fizetés nem fog teljesülni."
+        }
+    },
+    "firstCall": {
+        "barTitle": "Üdvözlő ajánlat",
+        "title": "Kedves {}",
+        "description1": "Örülünk, hogy a Kényelmes Visszaküldések szolgáltatást használja. Hogy megköszönjük a jelenlétét, elkészítettünk Önnek egy ",
+        "descriptionBold": "Üdvözlő Visszaküldési Szolgáltatáscsomagot",
+        "description2": "rendkívül kedvező áron!",
+        "description3": "A Kényelmes Visszaküldések segítségével bármelyik magyar online áruházhoz visszaküldheti a csomagját.",
+        "welcomeOffer": "Üdvözlő ajánlat",
+        "onlyInApp": "Az üdvözlő csomag visszaküldéseit kizárólag a Kényelmes Visszaküldések alkalmazásban használhatja fel.",
+        "codeFieldDescription": "Adja meg a banki alkalmazásában generált 6 számjegyű Blik kódot.",
+        "bullet1": "Egyszeri ajánlat",
+        "bullet2": "Csak alkalmazásban érhető el",
+        "bullet3": "Hosszú érvényességi idő a szolgáltatáscsomagban lévő visszaküldéseire – akár 6 hónap a vásárlás időpontjától számítva.",
+        "availableFor": "Az ajánlat még érvényes {}-ig",
+        "remindMeButton": "Emlékeztessen később",
+        "buyButton": "Jól hangzik, megvásárolom a csomagot",
+        "tile": {
+            "onlyInApp": "Csak alkalmazásban",
+            "availableFor": "Vége: {}",
+            "returns": "{} InPost Csomagautomata visszaküldések"
+        }
+    },
+    "invoiceDataSection": {
+        "checkbox": "Szeretnék ÁFA-s számlát kapni",
+        "header": "Számlázási adatok"
+    },
+    "orderStatus": {
+        "created": "Létrehozva",
+        "deleted": "Törölve",
+        "awaitingApproval": "Elfogadásra vár",
+        "rejected": "Elutasítva",
+        "canceled": "Visszamondott",
+        "readyToSend": "Küldésre kész",
+        "paid": "Kifizetett",
+        "processingError": "Feldolgozási hiba",
+        "shipped": "Elküldve",
+        "inTransit": "Úton",
+        "returnToSender": "Visszaküldve feladóhoz",
+        "returned": "Visszaküldve",
+        "outForDelivery": "Kézbesítés alatt",
+        "awaitingPickup": "Vár a ponton történő átvételre",
+        "delivered": "Kézbesítve"
+    },
+    "orderEvent": {
+        "created": "A küldemény létrehozva",
+        "deleted": "A küldemény törölve",
+        "awaitingApproval": "A küldemény elfogadásra vár",
+        "rejected": "A küldemény elutasítva",
+        "canceled": "A küldemény visszamondva",
+        "readyToSend": "A küldemény feladásra vár",
+        "paid": "A küldemény kifizetve",
+        "processingError": "Feldolgozási hiba",
+        "shipped": "A küldemény feladva",
+        "inTransit": "A küldemény úton van",
+        "returnToSender": "Visszaküldve feladóhoz",
+        "returned": "Visszaküldve",
+        "outForDelivery": "Kézbesítés alatt",
+        "awaitingPickup": "A küldemény vár a ponton történő átvételre",
+        "delivered": "A küldemény kézbesítve."
+    },
+    "navigationBar": {
+        "orderList": "Visszaküldéseim",
+        "newOrder": "Új visszaküldés",
+        "packets": "Visszaküldési szolgáltatáscsomag",
+        "account": "A fiókom"
+    },
+    "common": {
+        "nextButton": "Tovább",
+        "saveButton": "Mentés",
+        "editButton": "Módosítás",
+        "deleteButton": "Törlés",
+        "changeButton": "Módosítás",
+        "selectButton": "Választás",
+        "confirmButton": "Megerősítés",
+        "cancelButton": "Vissza",
+        "skipButton": "Kihagyás",
+        "copyButton": "Másolás",
+        "moreButton": "Több",
+        "lessButton": "Kevesebb",
+        "or": "vagy",
+        "errorOccurred": "Egy hiba történt",
+        "errorConnection": "Nincs kapcsolat szerverhez",
+        "fromDate": "{}-tól",
+        "expand": "Kibontás",
+        "collapse": "Összecsukás",
+        "optionalRegulation": " (opciónális)",
+        "default": "Alapértelmezett",
+        "step": "{}/{} lépés",
+        "kg": "kg",
+        "cm": "cm"
+    }
+}
