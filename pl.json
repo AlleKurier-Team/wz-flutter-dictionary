@@ -219,6 +219,7 @@
             "bulletPoint2": "Zwroty z pakietu możesz udostępniać bliskim",
             "bulletPoint3": "Najlepsza cena - bezpośrednio w InPost pojedynczy zwrot to koszt nawet 25,99 zł",
             "recoverUnused": "Jeśli nie wykorzystasz przesyłek z pakietu do {}, możesz odzyskać wszystkie niewykorzystane środki",
+            "validityPeriod": "Pakiet zwrotów jest ważny 12 miesięcy od daty zakupu.",
             "button": "Poznaj pakiety zwrotów i oszczędzaj"
         },
         "withPacket": {
@@ -263,6 +264,7 @@
                 "other": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!"
             },
             "recoverUnused": "Jeśli nie wykorzystasz przesyłek z pakietu do {}, możesz odzyskać wszystkie niewykorzystane środki",
+            "validityPeriod": "Pakiet zwrotów jest ważny 12 miesięcy od daty zakupu.",
             "numberOfReturns": "Liczba zwrotów",
             "amountToPay": "Łączna kwota do zapłaty",
             "brutto": "brutto",
@@ -532,7 +534,8 @@
                 "many": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!",
                 "other": " w porównaniu z nadaniem {} najtańszych zwrotów bezpośrednio w InPost!"
             },
-            "recoverUnused": "Jeśli nie wykorzystasz przesyłek z pakietu do {}, możesz odzyskać wszystkie niewykorzystane środki"
+            "recoverUnused": "Jeśli nie wykorzystasz przesyłek z pakietu do {}, możesz odzyskać wszystkie niewykorzystane środki",
+            "validityPeriod": "Pakiet zwrotów jest ważny 12 miesięcy od daty zakupu."
         },
         "numberOfReturns": "Liczba zwrotów",
         "amountToPay": "Łączna kwota do zapłaty",
