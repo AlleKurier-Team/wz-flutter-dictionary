@@ -541,6 +541,7 @@
         "amountToPay": "Łączna kwota do zapłaty",
         "xTimesReturn": " x zwrot ",
         "paymentSection": "Metoda płatności",
+        "morePaymentMethodsButton": "Pokaż więcej metod płatności",
         "payButton": "Zamawiam i płacę {}",
         "payPacketButton": "Zamawiam korzystając z pakietu",
         "createButton": "Utwórz przesyłkę",
