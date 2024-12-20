@@ -230,7 +230,8 @@
             "description2": "Dowiedz się więcej o Pakietach Zwrotów. Sprawdź ",
             "questionsLink": "Często zadawane pytania",
             "createReturnButton": "Utwórz przesyłkę zwrotną",
-            "packetCodeCopiedMessage": "Kod pakietu został skopiowany do schowka"
+            "packetCodeCopiedMessage": "Kod pakietu został skopiowany do schowka",
+            "validTo": "Pakiet ważny do: {}"
         }
     },
     "newPacket": {
