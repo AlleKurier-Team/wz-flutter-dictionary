@@ -102,6 +102,12 @@
         "manage": "Zarządzaj"
     },
     "deleteAccount": {
+        "barTitle": "Usuwanie konta",
+        "description1": "Usunięcie konta spowoduje, że utracisz do niego dostęp w aplikacji mobilnej oraz w przeglądarce. Utracisz dostęp do historii swoich zwrotów, a także możliwość ich śledzenia w aplikacji.",
+        "description2": "Ze względu na obowiązujące przepisy prawa, niektóre dane mogą być przez nas zachowane.",
+        "packetInfo": "Na Twoim koncie jest aktywny pakiet zwrotów. Wciąż możesz z niego korzystać za pomocą kodu pakietu. Jeśli chcesz odzyskać niewykorzystane środki, skontaktuj się z naszym Centrum Wsparcia Klienta.",
+        "irreversible": "Usunięcie konta jest nieodwracalne.",
+        "deleteButton": "Usuń konto",
         "dialogTitle": "Usuń konto",
         "dialogBody": "Czy na pewno chcesz usunąć swoje konto w serwisie Wygodne Zwroty?",
         "emailTitle": "Usunięcie konta w serwisie Wygodne Zwroty",
@@ -653,6 +659,7 @@
         "copyButton": "Kopiuj",
         "moreButton": "Więcej",
         "lessButton": "Mniej",
+        "backButton": "Wróć",
         "or": "lub",
         "errorOccurred": "Wystąpił błąd",
         "errorConnection": "Brak połączenia z serwerem",
