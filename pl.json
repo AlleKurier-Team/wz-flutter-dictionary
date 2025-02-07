@@ -285,6 +285,30 @@
         "forReturn": "za zwrot",
         "forPacket": "za pakiet",
         "savings": "Oszczędzasz {}",
+        "yourChoice": "Twój oszczędny wybór",
+        "packet": "Pakiet",
+        "returnCount": {
+            "one": "Wygodny Zwrot",
+            "few": "Wygodne Zwroty",
+            "many": "Wygodnych Zwrotów",
+            "other": "Wygodnych Zwrotów"
+        },
+        "returnsDescription": {
+            "one": "1 zwrot do dowolnego sklepu internetowego w Polsce przez Paczkomat InPost",
+            "few": "{} zwroty do dowolnych sklepów internetowych w Polsce przez Paczkomat InPost",
+            "many": "{} zwrotów do dowolnych sklepów internetowych w Polsce przez Paczkomat InPost",
+            "other": "{} zwrotów do dowolnych sklepów internetowych w Polsce przez Paczkomat InPost"
+        },
+        "returnsSplitDescription": {
+            "one": "Zwrot do sklepu {} oraz zwrot do dowolnego sklepu internetowego w Polsce",
+            "few": "Zwrot do sklepu {} oraz {} zwroty do dowolnych sklepów internetowych w Polsce",
+            "many": "Zwrot do sklepu {} oraz {} zwrotów do dowolnych sklepów internetowych w Polsce",
+            "other": "Zwrot do sklepu {} oraz {} zwrotów do dowolnych sklepów internetowych w Polsce"
+        },
+        "yourBenefits": "Twoje korzyści przy zakupie pakietu",
+        "bullet1": "Oszczędzasz od razu - już przy zwrocie do sklepu {}",
+        "bullet2": "Zwroty z pakietu możesz udostępniać bliskim",
+        "bullet3": "Wygodne nadanie przez Paczkomat InPost",
         "count": {
             "one": "Wygodny Zwrot\nInPost Paczkomat",
             "few": "Wygodne Zwroty\nInPost Paczkomat",
@@ -496,12 +520,21 @@
     },
     "packetSelection": {
         "title": "Dodaj pakiet do zamówienia i oszczędzaj zwracając do swoich ulubionych sklepów",
+        "titleInpost": "Wybierz pakiet zwrotów i oszczędzaj",
+        "titleOther": "Dodaj pakiet na kolejne zwroty",
+        "description": "Przez **Wygodne Zwroty** zwrócisz zamówienie do **każdego sklepu internetowego w Polsce.**",
         "descriptionRegular1": "Przez Wygodne Zwroty zwrócisz zamówienie ",
         "descriptionBold": "do każdego sklepu internetowego",
         "descriptionRegular2": " w Polsce.",
         "bullet1": "Kupując pakiet, oszczędzasz już teraz, nadając zwrot do sklepu {}",
         "bullet2": "Zwroty z pakietu możesz udostępniać bliskim",
         "bullet3": "Najlepsza cena - bezpośrednio w InPost pojedynczy zwrot to koszt nawet 25,99 zł",
+        "successMessage": "Dodano pakiet. Świetny wybór!",
+        "currentReturn": "Tak nadasz zwrot do sklepu {}",
+        "returnUsingTo": "Zwrot przez {} do sklepu {}",
+        "addInpostPacket": "Dodaj pakiet InPost Paczkomat do zamówienia",
+        "yourChoice": "Twój wybór",
+        "returnToStore": "Wygodny Zwrot do sklepu {}",
         "moreButton": "Pokaż inne pakiety"
     },
     "newOrderInfo": {
