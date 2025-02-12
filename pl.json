@@ -339,6 +339,7 @@
         "codeDescription": "Kod zwrotu napisz na przesyłce. Usuń inne etykiety z przesyłki.",
         "qrCodeDescription": "Aby otworzyć skrytkę podaj kod zwrotu lub zeskanuj kod QR.",
         "qrCodeZoom": "Dotknij, aby powiększyć",
+        "barCodeDescription": "W punkcie nadania przekaż pracownikowi kod kreskowy do zeskanowania.",
         "returnDetails": "Szczegóły zwrotu",
         "product": "Produkt",
         "packageInfo": "Informacje o przesyłce",
