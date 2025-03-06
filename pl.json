@@ -345,7 +345,9 @@
         "packageInfo": "Informacje o przesyłce",
         "maxPackageSize": "Max parametry",
         "weightAndSize": "Waga i wymiary",
-        "shippingCost": "Koszty przesyłki",
+        "shippingCost": "Przesyłka",
+        "totalCost": "Łączny koszt",
+        "insuranceAmount": "Ubezpieczenie do {}",
         "paymentMethod": "Metoda płatności",
         "invoiceData": "Dane do faktury",
         "retryPaymentButton": "Opłać przesyłkę",
@@ -481,6 +483,16 @@
             "other": "Twój pakiet: {} zwrotów"
         }
     },
+    "insuranceSelection": {
+        "title": "Ubezpieczenie",
+        "freeInsuranceAmount": "Twoja przesyłka jest bezpłatnie ubezpieczona na kwotę {}.",
+        "insuranceAmount": "Ubezpieczenie do {}",
+        "additionalInsurance": "Dodatkowe ubezpieczenie",
+        "selectInsurance": "Wybierz wartość ubezpieczenia przesyłki",
+        "increaseProtection": " Wybierz, aby zwiększyć ochronę.",
+        "free": "Bezpłatnie",
+        "stepTo": "do {}"
+    },
     "offerDetails": {
         "barTitle": "Szczegóły oferty",
         "serviceName": {
@@ -580,7 +592,18 @@
         },
         "numberOfReturns": "Liczba zwrotów",
         "amountToPay": "Łączna kwota do zapłaty",
+        "amountToPayShort": "Łącznie do zapłaty",
         "xTimesReturn": " x zwrot ",
+        "returnsInPacket": {
+            "one": "Pakiet {} zwrotu InPost",
+            "few": "Pakiet {} zwrotów InPost",
+            "many": "Pakiet {} zwrotów InPost",
+            "other": "Pakiet {} zwrotów InPost"
+        },
+        "insuranceAmount": "Ubezpieczenie do {}",
+        "insuranceFor": "dla przesyłki {} do {}",
+        "carrier": "Przesyłka {}",
+        "inpost": "InPost Paczkomat",
         "paymentSection": "Metoda płatności",
         "morePaymentMethodsButton": "Pokaż więcej metod płatności",
         "payButton": "Zamawiam i płacę {}",
