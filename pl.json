@@ -604,6 +604,7 @@
         "insuranceFor": "dla przesyłki {} do {}",
         "carrier": "Przesyłka {}",
         "inpost": "InPost Paczkomat",
+        "usingPacket": "Przesyłka z pakietu zwrotów",
         "paymentSection": "Metoda płatności",
         "morePaymentMethodsButton": "Pokaż więcej metod płatności",
         "payButton": "Zamawiam i płacę {}",
