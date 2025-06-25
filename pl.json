@@ -699,10 +699,30 @@
         "awaitingPickup": "Przesyłka czeka na odbior w punkcie",
         "delivered": "Przesyłka doręczona"
     },
+    "discounts": {
+        "barTitle": "Kody rabatowe do sklepów on-line",
+        "couponCode": "Kod rabatowy",
+        "expirationDate": "Termin ważności: ",
+        "noExpirationDate": "Bezterminowo",
+        "instruction": "Instrukcja: ",
+        "noInstruction": "Brak",
+        "copyCodeAndGo": "Skopiuj kod i przejdź",
+        "showCode": "Pokaż kod",
+        "noPacket": {
+            "title": "Aby zobaczyć ten kod rabatowy, potrzebujesz aktywnego pakietu Wygodnych Zwrotów na swoim koncie.",
+            "description": "Posiadając pakiet zyskujesz dostęp do atrakcyjnych kodów do sklepów on-line oraz usług.",
+            "benefits": "Twoje dodatkowe  korzyści przy zakupie pakietu",
+            "benefit1": "Kupując pakiet, oszczędzasz już przy pierwszym zwrocie",
+            "benefit2": "Zwroty z pakietu możesz udostępniać bliskim",
+            "benefit3": "Najlepsza cena - to oszczędność o nawet 31% w porównaniu do ceny regularnej",
+            "button": "Poznaj pakiety zwrotów i oszczędzaj"
+        }
+    },
     "navigationBar": {
-        "orderList": "Moje zwroty",
+        "orderList": "Zwroty",
         "newOrder": "Nowy zwrot",
-        "packets": "Pakiet zwrotów",
+        "packets": "Pakiet",
+        "discounts": "Rabaty",
         "account": "Moje konto"
     },
     "common": {
@@ -723,6 +743,7 @@
         "errorOccurred": "Wystąpił błąd",
         "errorConnection": "Brak połączenia z serwerem",
         "fromDate": "od {}",
+        "toDate": "do {}",
         "expand": "Rozwiń",
         "collapse": "Zwiń",
         "optionalRegulation": " (opcjonalne)",
