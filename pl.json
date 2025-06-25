@@ -701,6 +701,7 @@
     },
     "discounts": {
         "barTitle": "Kody rabatowe do sklepów on-line",
+        "emptyList": "Brak dostępnych kodów rabatowych",
         "couponCode": "Kod rabatowy",
         "expirationDate": "Termin ważności: ",
         "noExpirationDate": "Bezterminowo",
