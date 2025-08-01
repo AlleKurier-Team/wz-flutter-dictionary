@@ -670,6 +670,7 @@
         "bullet3": "Gratisowy zwrot jest ważny 30 dni",
         "bullet4": "Zwroty możesz udostępnić bliskim",
         "activateButton": "Aktywuję kupon i chcę skorzystać",
+        "couponActivated": "Kupon {} aktywowany",
         "gratis": "gratis",
         "tile": {
             "secondGratis": "Drugi zwrot w aplikacji GRATIS",
