@@ -661,6 +661,27 @@
             "returns": "{} zwroty InPost Paczkomat"
         }
     },
+    "firstCallAlt": {
+        "description": "Cieszymy się, że korzystasz z Wygodnych Zwrotów. Żeby docenić Twoją obecność, przygotowaliśmy dla Ciebie ",
+        "descriptionBold": "ofertę powitalną.",
+        "welcomeOffer": "Oferta Powitalna w aplikacji",
+        "bullet1": "Oferta jednorazowa",
+        "bullet2": "Dostępna wyłącznie w aplikacji",
+        "bullet3": "Gratisowy zwrot jest ważny 30 dni",
+        "bullet4": "Zwroty możesz udostępnić bliskim",
+        "activateButton": "Aktywuję kupon i chcę skorzystać",
+        "couponActivated": "Kupon {} aktywowany",
+        "gratis": "gratis",
+        "tile": {
+            "secondGratis": "Drugi zwrot w aplikacji GRATIS",
+            "coupon": "Kupon {} na zwrot gratis",
+            "activateCoupon": "Aktywuj kupon {} na zwrot gratis",
+            "couponActivated": "Zastosowano kupon",
+            "availableFor": "Kupon ważny ",
+            "availableCount": "Pula kuponów ograniczona. Zostało jeszcze: ",
+            "packetPrice": "InPost Paczkomat {}"
+        }
+    },
     "invoiceDataSection": {
         "checkbox": "Chcę otrzymać fakturę VAT",
         "header": "Dane do faktury"
@@ -751,6 +772,12 @@
         "default": "Domyślny",
         "step": "Krok {} z {}",
         "kg": "kg",
-        "cm": "cm"
+        "cm": "cm",
+        "days": {
+            "one": "{} dzień",
+            "few": "{} dni",
+            "many": "{} dni",
+            "other": "{} dni"
+        }
     }
 }
