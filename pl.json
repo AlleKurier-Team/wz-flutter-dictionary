@@ -409,8 +409,8 @@
         "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
         "dpdreturnnolabelcourier": "najdłuższy bok 150 cm, 31,5 kg",
         "dpdreturnwithlabelcourier": "najdłuższy bok 150 cm, 31,5 kg",
-        "orlenreturn": "max. 38 x 41 x 60 cm, 20 kg",
-        "orlenreturnwithlabel": "max. 38 x 41 x 60 cm, 20 kg",
+        "orlenreturn": "38 x 41 x 60 cm, 20 kg",
+        "orlenreturnwithlabel": "38 x 41 x 60 cm, 20 kg",
         "pocztareturn": ""
     },
     "serviceDescription": {
