@@ -409,8 +409,8 @@
         "dpdreturnwithlabellocker": "44 cm x 49 cm x 59 cm, 20 kg",
         "dpdreturnnolabelcourier": "najdłuższy bok 150 cm, 31,5 kg",
         "dpdreturnwithlabelcourier": "najdłuższy bok 150 cm, 31,5 kg",
-        "orlenreturn": "",
-        "orlenreturnwithlabel": "",
+        "orlenreturn": "max. 38 x 41 x 60 cm, 20 kg",
+        "orlenreturnwithlabel": "max. 38 x 41 x 60 cm, 20 kg",
         "pocztareturn": ""
     },
     "serviceDescription": {
@@ -424,8 +424,8 @@
         "dpdreturnwithlabellocker": "Umieść przesyłkę z etykietą w dowolnym automacie paczkowym DPD. Pamiętaj, że do otwarcia skrytki niezbędna jest aplikacja DPD Mobile.",
         "dpdreturnnolabelcourier": "",
         "dpdreturnwithlabelcourier": "",
-        "orlenreturn": "Przesyłkę bez etykiety zanieś do dogodnego dla Ciebie kiosku RUCHu (punktu ORLEN Paczka).",
-        "orlenreturnwithlabel": "Przesyłkę z etykietą zanieś do dogodnego dla Ciebie punktu ORLEN Paczka.",
+        "orlenreturn": "Przesyłkę bez etykiety nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
+        "orlenreturnwithlabel": "Przesyłkę z etykietą nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
         "pocztareturn": "Przesyłkę zanieś do dowolnej placówki Poczty Polskiej, z wyjątkiem agencji pocztowych."
     },
     "serviceDescriptionAdditional": {
@@ -499,14 +499,16 @@
         "serviceName": {
             "inpostreturn": "Paczkomaty InPost 24/7",
             "dpdreturn": "Sklep Żabka i punkty DPD",
-            "dhlreturn": "Punkty i automaty DHL"
+            "dhlreturn": "Punkty i automaty DHL",
+            "orlenreturn": "ORLEN Paczka"
         },
         "withoutLabel": "Bez drukowania etykiety",
         "shipmentLocationSection": "Gdzie nadasz przesyłkę",
         "shipmentLocationDescription": {
             "inpostreturn": "Dowolny Paczkomat InPost",
             "dpdreturn": "Dowolny sklep Żabka lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Dino, Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne.",
-            "dhlreturn": "Żabka, Innmedio, 1 minute, Relay oraz oddziały DHL.\nWażne: Niektóre punkty wyłączone są z sieci DHL. Przed wizytą w punkcie, sprawdź jego dostępność."
+            "dhlreturn": "Żabka, Innmedio, 1 minute, Relay oraz oddziały DHL.\nWażne: Niektóre punkty wyłączone są z sieci DHL. Przed wizytą w punkcie, sprawdź jego dostępność.",
+            "orlenreturn": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie."
         },
         "and": "oraz",
         "andOthers": "i inne",
@@ -515,14 +517,16 @@
         "maxParametersDetails": {
             "inpostreturn": "",
             "dpdreturn": "Długość paczki (najdłuższy bok) plus suma obwodu podstawy nie mogą przekroczyć 300 cm.",
-            "dhlreturn": ""
+            "dhlreturn": "",
+            "orlenreturn": ""
         },
         "checkParamsButton": "Sprawdź, czy paczka ma odpowiednie wymiary",
         "insuranceSection": "Ubezpieczenie",
         "insuranceDetails": {
             "inpostreturn": "Bezpłatne do 5000 zł",
             "dpdreturn": "Bezpłatne do 1000 zł",
-            "dhlreturn": "Bezpłatne do 500 zł"
+            "dhlreturn": "Bezpłatne do 500 zł",
+            "orlenreturn": "Bezpłatne do 5000 zł"
         },
         "verification": {
             "barTitle": "Weryfikacja parametrów",
