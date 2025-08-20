@@ -674,12 +674,15 @@
         "gratis": "gratis",
         "tile": {
             "secondGratis": "Drugi zwrot w aplikacji GRATIS",
+            "plusSecondGratis": "{} + drugi zwrot GRATIS",
             "coupon": "Kupon {} na zwrot gratis",
             "activateCoupon": "Aktywuj kupon {} na zwrot gratis",
             "couponActivated": "Zastosowano kupon",
             "availableFor": "Kupon ważny ",
             "availableCount": "Pula kuponów ograniczona. Zostało jeszcze: ",
-            "packetPrice": "InPost Paczkomat {}"
+            "packetPrice": "InPost Paczkomat {}",
+            "inpost": "InPost Paczkomat",
+            "saveUpTo": "Oszczędzasz do 15,99 zł"
         }
     },
     "invoiceDataSection": {
