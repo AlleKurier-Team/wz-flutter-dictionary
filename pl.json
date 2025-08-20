@@ -439,7 +439,7 @@
         "dpdreturnwithlabellocker": "",
         "dpdreturnnolabelcourier": "",
         "dpdreturnwithlabelcourier": "",
-        "orlenreturn": "Ważne: Kioski i sklepiki RUCHu to punkty ORLEN Paczka, w których nadasz przesyłkę bez etykiety. Są one oznaczone na mapie jako PSD.",
+        "orlenreturn": "",
         "orlenreturnwithlabel": "",
         "pocztareturn": ""
     },
