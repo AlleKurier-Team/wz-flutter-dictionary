@@ -341,6 +341,9 @@
         "qrCodeDescription": "Aby otworzyć skrytkę podaj kod zwrotu lub zeskanuj kod QR.",
         "qrCodeZoom": "Dotknij, aby powiększyć",
         "barCodeDescription": "W punkcie nadania przekaż pracownikowi kod kreskowy do zeskanowania.",
+        "shippingLabel": "Etykieta przewozowa",
+        "shippingLabelSent": "Etykietę przewozową wysłaliśmy na Twój adres e-mail",
+        "shippingLabelDescription": "Naklej etykietę na przesyłce. Usuń inne etykiety z przesyłki.",
         "returnDetails": "Szczegóły zwrotu",
         "product": "Produkt",
         "packageInfo": "Informacje o przesyłce",
@@ -418,7 +421,7 @@
         "dhlreturn": "Przesyłkę bez etykiety zanieś do dogodnego dla Ciebie punktu DHL POP: Żabka, Inmedio, Relay, 1minute, oddziały DHL.",
         "dpdreturn": "Przesyłkę bez etykiety zanieś do dowolnego sklepu Żabka lub innego punktu z sieci DPD Pickup.",
         "dpdreturnlocker": "Umieść przesyłkę bez etykiety w dowolnym automacie paczkowym DPD. Pamiętaj, że do otwarcia skrytki niezbędna jest aplikacja DPD Mobile.",
-        "glspolandreturn": "Przesyłkę zanieś do dogodnego dla Ciebie punktu GLS: Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS.",
+        "glspolandreturn": "Przesyłkę nadasz w punktach GLS: Carrefour, Auchan, Kolporter oraz innych punktach Szybkiej Paczki / ParcelShop i oddziałach GLS.",
         "dhlreturnwithlabel": "Przesyłkę z etykietą zanieś do dogodnego dla Ciebie punktu DHL POP: Żabka, Inmedio, Relay, 1minute, oddziały DHL.",
         "dpdreturnwithlabel": "Przesyłkę z etykietą zanieś do dowolnego sklepu Żabka lub innego punktu z sieci DPD Pickup.",
         "dpdreturnwithlabellocker": "Umieść przesyłkę z etykietą w dowolnym automacie paczkowym DPD. Pamiętaj, że do otwarcia skrytki niezbędna jest aplikacja DPD Mobile.",
@@ -433,7 +436,7 @@
         "dhlreturn": "Ważne: Niektóre punkty wyłączone są z sieci DHL POP. Przed wizytą w punkcie, sprawdź jego dostępność.",
         "dpdreturn": "",
         "dpdreturnlocker": "",
-        "glspolandreturn": "Ważne: Pamiętaj, by przed wizytą w punkcie, sprawdzić jego dostępność.",
+        "glspolandreturn": "",
         "dhlreturnwithlabel": "Ważne: Niektóre punkty wyłączone są z sieci DHL POP. Przed wizytą w punkcie, sprawdź jego dostępność.",
         "dpdreturnwithlabel": "",
         "dpdreturnwithlabellocker": "",
@@ -469,6 +472,8 @@
         "description": "Paczkę nadasz bez etykiety w automacie lub punkcie, a kurier doręczy ją na adres sklepu.",
         "detailsButton": "Szczegóły ofert",
         "moreButton": "Pokaż więcej form zwrotu",
+        "moreCarriersButton": "Pokaż więcej firm kurierskich",
+        "lessCarriersButton": "Ukryj więcej firm kurierskich",
         "voucherButton": "Mam kod rabatowy",
         "voucherField": "Kod rabatowy",
         "addVoucherButton": "Dodaj",
@@ -476,6 +481,7 @@
         "voucherSuccessMessage": "Pomyślnie dodano kod rabatowy",
         "withPacket": "Przesyłka z użyciem zwrotu z pakietu",
         "withPacketDescription": "Jeśli nie chcesz korzystać z pakietu, w podsumowaniu zmień metodę płatności.",
+        "freeInsuranceUpTo": "Bezpłatne ubezpieczenie do {}",
         "errorMessage": "Wybierz firmę kurierską",
         "packetCount": {
             "one": "Twój pakiet: 1 zwrot",
@@ -496,19 +502,23 @@
     },
     "offerDetails": {
         "barTitle": "Szczegóły oferty",
+        "selectCarrier": "Wybierz przewoźnika, aby sprawdzić szczegóły oferty",
         "serviceName": {
             "inpostreturn": "Paczkomaty InPost 24/7",
             "dpdreturn": "Sklep Żabka i punkty DPD",
             "dhlreturn": "Punkty i automaty DHL",
-            "orlenreturn": "ORLEN Paczka"
+            "orlenreturn": "ORLEN Paczka",
+            "glspolandreturn": "GLS - nadanie w punkcie z etykietą"
         },
         "withoutLabel": "Bez drukowania etykiety",
+        "withLabel": "Konieczny wydruk etykiety",
         "shipmentLocationSection": "Gdzie nadasz przesyłkę",
         "shipmentLocationDescription": {
             "inpostreturn": "Dowolny Paczkomat InPost",
-            "dpdreturn": "Dowolny sklep Żabka lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Dino, Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne.",
+            "dpdreturn": "Dowolny sklep Żabka lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne.",
             "dhlreturn": "Żabka, Innmedio, 1 minute, Relay oraz oddziały DHL.\nWażne: Niektóre punkty wyłączone są z sieci DHL. Przed wizytą w punkcie, sprawdź jego dostępność.",
-            "orlenreturn": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie."
+            "orlenreturn": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie.",
+            "glspolandreturn": "Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS."
         },
         "and": "oraz",
         "andOthers": "i inne",
@@ -518,7 +528,8 @@
             "inpostreturn": "",
             "dpdreturn": "Długość paczki (najdłuższy bok) plus suma obwodu podstawy nie mogą przekroczyć 300 cm.",
             "dhlreturn": "",
-            "orlenreturn": ""
+            "orlenreturn": "",
+            "glspolandreturn": ""
         },
         "checkParamsButton": "Sprawdź, czy paczka ma odpowiednie wymiary",
         "insuranceSection": "Ubezpieczenie",
@@ -526,7 +537,8 @@
             "inpostreturn": "Bezpłatne do 5000 zł",
             "dpdreturn": "Bezpłatne do 1000 zł",
             "dhlreturn": "Bezpłatne do 500 zł",
-            "orlenreturn": "Bezpłatne do 5000 zł"
+            "orlenreturn": "Bezpłatne do 5000 zł",
+            "glspolandreturn": "Bezpłatne do 6000 zł"
         },
         "verification": {
             "barTitle": "Weryfikacja parametrów",
