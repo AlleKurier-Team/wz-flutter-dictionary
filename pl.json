@@ -335,6 +335,7 @@
         "historySection": "Historia przesyłki",
         "returnCodeLabel": "Kod zwrotu",
         "returnCodeValidUntil": "Kod ważny do {}",
+        "trackingCodeLabel": "Kod śledzenia",
         "trackingNumberLabel": "Nr przesyłki",
         "trackingNumberCopiedMessage": "Numer przesyłki został skopiowany do schowka",
         "codeDescription": "Kod zwrotu napisz na przesyłce. Usuń inne etykiety z przesyłki.",
