@@ -415,7 +415,19 @@
         "dpdreturnwithlabelcourier": "najdłuższy bok 150 cm, 31,5 kg",
         "orlenreturn": "38 x 41 x 60 cm, 20 kg",
         "orlenreturnwithlabel": "38 x 41 x 60 cm, 20 kg",
-        "pocztareturn": ""
+        "pocztareturn": "",
+        "inpost_return": "41 cm x 38 cm x 64 cm, 25 kg",
+        "dhl_return": "64 x 38 x 41 cm, 25 kg",
+        "dpd_return": "najdłuższy bok 150 cm, 31,5 kg",
+        "dpd_return_locker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "gls_poland_return": "najdłuższy bok 200 cm",
+        "dhl_return_with_label": "64 x 38 x 41 cm, 25 kg",
+        "dpd_return_with_label": "najdłuższy bok 150 cm, 31,5 kg",
+        "dpd_return_with_label_locker": "44 cm x 49 cm x 59 cm, 20 kg",
+        "dpd_return_no_label_courier": "najdłuższy bok 150 cm, 31,5 kg",
+        "dpd_return_with_label_courier": "najdłuższy bok 150 cm, 31,5 kg",
+        "orlen_return": "38 x 41 x 60 cm, 20 kg",
+        "orlen_return_with_label": "38 x 41 x 60 cm, 20 kg"
     },
     "serviceDescription": {
         "inpostreturn": "Przesyłkę nadasz bez etykiety w dowolnym w automacie Paczkomat InPost",
@@ -430,7 +442,19 @@
         "dpdreturnwithlabelcourier": "",
         "orlenreturn": "Przesyłkę bez etykiety nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
         "orlenreturnwithlabel": "Przesyłkę z etykietą nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
-        "pocztareturn": "Przesyłkę zanieś do dowolnej placówki Poczty Polskiej, z wyjątkiem agencji pocztowych."
+        "pocztareturn": "Przesyłkę zanieś do dowolnej placówki Poczty Polskiej, z wyjątkiem agencji pocztowych.",
+        "inpost_return": "Przesyłkę nadasz bez etykiety w dowolnym w automacie Paczkomat InPost",
+        "dhl_return": "Przesyłkę bez etykiety zanieś do dogodnego dla Ciebie punktu DHL POP: Żabka, Inmedio, Relay, 1minute, oddziały DHL.",
+        "dpd_return": "Przesyłkę bez etykiety zanieś do dowolnego sklepu Żabka lub innego punktu z sieci DPD Pickup.",
+        "dpd_return_locker": "Umieść przesyłkę bez etykiety w dowolnym automacie paczkowym DPD. Pamiętaj, że do otwarcia skrytki niezbędna jest aplikacja DPD Mobile.",
+        "gls_poland_return": "Przesyłkę nadasz w punktach GLS: Carrefour, Auchan, Kolporter oraz innych punktach Szybkiej Paczki / ParcelShop i oddziałach GLS.",
+        "dhl_return_with_label": "Przesyłkę z etykietą zanieś do dogodnego dla Ciebie punktu DHL POP: Żabka, Inmedio, Relay, 1minute, oddziały DHL.",
+        "dpd_return_with_label": "Przesyłkę z etykietą zanieś do dowolnego sklepu Żabka lub innego punktu z sieci DPD Pickup.",
+        "dpd_return_with_label_locker": "Umieść przesyłkę z etykietą w dowolnym automacie paczkowym DPD. Pamiętaj, że do otwarcia skrytki niezbędna jest aplikacja DPD Mobile.",
+        "dpd_return_no_label_courier": "",
+        "dpd_return_with_label_courier": "",
+        "orlen_return": "Przesyłkę bez etykiety nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
+        "orlen_return_with_label": "Przesyłkę z etykietą nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim."
     },
     "serviceDescriptionAdditional": {
         "inpostreturn": "",
@@ -445,7 +469,19 @@
         "dpdreturnwithlabelcourier": "",
         "orlenreturn": "",
         "orlenreturnwithlabel": "",
-        "pocztareturn": ""
+        "pocztareturn": "",
+        "inpost_return": "",
+        "dhl_return": "Ważne: Niektóre punkty wyłączone są z sieci DHL POP. Przed wizytą w punkcie, sprawdź jego dostępność.",
+        "dpd_return": "",
+        "dpd_return_locker": "",
+        "gls_poland_return": "",
+        "dhl_return_with_label": "Ważne: Niektóre punkty wyłączone są z sieci DHL POP. Przed wizytą w punkcie, sprawdź jego dostępność.",
+        "dpd_return_with_label": "",
+        "dpd_return_with_label_locker": "",
+        "dpd_return_no_label_courier": "",
+        "dpd_return_with_label_courier": "",
+        "orlen_return": "",
+        "orlen_return_with_label": ""
     },
     "mailboxSearch": {
         "description": "Wyszukaj sklep, do którego chcesz zwrócić towar i łatwo nadaj paczkę",
@@ -509,7 +545,12 @@
             "dpdreturn": "Sklep Żabka i punkty DPD",
             "dhlreturn": "Punkty i automaty DHL",
             "orlenreturn": "ORLEN Paczka",
-            "glspolandreturn": "GLS - nadanie w punkcie z etykietą"
+            "glspolandreturn": "GLS - nadanie w punkcie z etykietą",
+            "inpost_return": "Paczkomaty InPost 24/7",
+            "dpd_return": "Sklep Żabka i punkty DPD",
+            "dhl_return": "Punkty i automaty DHL",
+            "orlen_return": "ORLEN Paczka",
+            "gls_poland_return": "GLS - nadanie w punkcie z etykietą"
         },
         "withoutLabel": "Bez drukowania etykiety",
         "withLabel": "Konieczny wydruk etykiety",
@@ -519,7 +560,12 @@
             "dpdreturn": "Dowolny sklep Żabka lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne.",
             "dhlreturn": "Żabka, Innmedio, 1 minute, Relay oraz oddziały DHL.\nWażne: Niektóre punkty wyłączone są z sieci DHL. Przed wizytą w punkcie, sprawdź jego dostępność.",
             "orlenreturn": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie.",
-            "glspolandreturn": "Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS."
+            "glspolandreturn": "Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS.",
+            "inpost_return": "Dowolny Paczkomat InPost",
+            "dpd_return": "Dowolny sklep Żabka lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne.",
+            "dhl_return": "Żabka, Innmedio, 1 minute, Relay oraz oddziały DHL.\nWażne: Niektóre punkty wyłączone są z sieci DHL. Przed wizytą w punkcie, sprawdź jego dostępność.",
+            "orlen_return": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie.",
+            "gls_poland_return": "Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS."
         },
         "and": "oraz",
         "andOthers": "i inne",
@@ -530,7 +576,12 @@
             "dpdreturn": "Długość paczki (najdłuższy bok) plus suma obwodu podstawy nie mogą przekroczyć 300 cm.",
             "dhlreturn": "",
             "orlenreturn": "",
-            "glspolandreturn": ""
+            "glspolandreturn": "",
+            "inpost_return": "",
+            "dpd_return": "Długość paczki (najdłuższy bok) plus suma obwodu podstawy nie mogą przekroczyć 300 cm.",
+            "dhl_return": "",
+            "orlen_return": "",
+            "gls_poland_return": ""
         },
         "checkParamsButton": "Sprawdź, czy paczka ma odpowiednie wymiary",
         "insuranceSection": "Ubezpieczenie",
@@ -539,7 +590,12 @@
             "dpdreturn": "Bezpłatne do 1000 zł",
             "dhlreturn": "Bezpłatne do 500 zł",
             "orlenreturn": "Bezpłatne do 5000 zł",
-            "glspolandreturn": "Bezpłatne do 6000 zł"
+            "glspolandreturn": "Bezpłatne do 6000 zł",
+            "inpost_return": "Bezpłatne do 5000 zł",
+            "dpd_return": "Bezpłatne do 1000 zł",
+            "dhl_return": "Bezpłatne do 500 zł",
+            "orlen_return": "Bezpłatne do 5000 zł",
+            "gls_poland_return": "Bezpłatne do 6000 zł"
         },
         "verification": {
             "barTitle": "Weryfikacja parametrów",
