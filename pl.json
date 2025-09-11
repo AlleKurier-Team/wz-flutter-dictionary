@@ -815,6 +815,14 @@
             "button": "Poznaj pakiety zwrotów i oszczędzaj"
         }
     },
+    "newTerms": {
+        "barTitle": "Aneks do umowy",
+        "descriptionHeader": "Cześć 👋",
+        "descriptionText": "W ostatnim czasie wprowadziliśmy kilka doprecyzowań w regulaminie, aby udostępnić Ci nowe funkcjonalności i aby warunki naszej współpracy były jeszcze bardziej przejrzyste. Dlatego prosimy Cię teraz o zaakceptowanie aneksu. Chcesz wiedzieć co się zmienia? Odnośnik do regulaminu znajdziesz w aneksie, a podsumowanie najważniejszych zmian - <a href=\"https: //www.wygodnezwroty.pl\">tutaj</a>.",
+        "annexContent": "Niniejszy Aneks („Aneks”) został zawarty pomiędzy „Stronami”, tj.:\nTobą, właścicielem Konta Użytkownika na portalu <a href=\"https://www.wygodnezwroty.pl\">www.wygodnezwroty.pl</a>; oraz\nnami, ALLEKURIER Sp. z o.o. z siedzibą w Krakowie, wpisaną do Rejestru Przedsiębiorców KRS przez Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie, XI Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem KRS: 0000430370, NIP: 6772370941, REGON: 122640506, adres: ul. Balicka 12A/B4, 30-149 Kraków\n- do umowy, która łączy nas w zakresie korzystania z portalu <a href=\"https://www.wygodnezwroty.pl\">wygodnezwroty.pl</a> („Serwis”), w tym m.in. w zakresie (i) utworzenia i korzystania przez Ciebie z Konta Użytkownika w Serwisie, (ii) zlecania przez Ciebie wykonania usług, w tym usług zwrotu przesyłek przez Przewoźników, (iii) składania reklamacji i innych obowiązków Stron („Umowa”).\n1. Niniejszym przekazujemy Ci Regulamin Wygodne Zwroty („Regulamin WZ”) regulujący świadczone na Twoją rzecz usługi w ramach Umowy, który stanowi załączniki do Aneksu.\n2. Poprzez zawarcie niniejszego Aneksu, wspólnie postanawiamy, że od dnia jego zawarcia, w odniesieniu do świadczonych na Twoją rzecz usług w ramach Umowy, będziemy związani warunkami określonymi w Regulaminie WZ stanowiącym załączniki do Aneksu.\n3. Zawarcie Aneksu nie powoduje zawarcia nowej umowy o świadczenie dodatkowych usług, z których nie korzystasz.\nZałączniki:\n1. <a href=\"https://www.wygodnezwroty.pl\">Regulamin Wygodne Zwroty</a>",
+        "acceptButton": "Akceptuję",
+        "rejectButton": "Nie akceptuję"
+    },
     "navigationBar": {
         "orderList": "Zwroty",
         "newOrder": "Nowy zwrot",
