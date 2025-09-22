@@ -818,12 +818,87 @@
     "newTerms": {
         "barTitle": "Aneks do umowy",
         "descriptionHeader": "Cześć 👋",
-        "descriptionText": "W ostatnim czasie wprowadziliśmy kilka doprecyzowań w regulaminie, aby udostępnić Ci nowe funkcjonalności i aby warunki naszej współpracy były jeszcze bardziej przejrzyste. Dlatego prosimy Cię teraz o zaakceptowanie aneksu. Chcesz wiedzieć co się zmienia? Odnośnik do regulaminu znajdziesz w aneksie, a podsumowanie najważniejszych zmian - <a href=\"https: //www.wygodnezwroty.pl\">tutaj</a>.",
+        "descriptionText": "W ostatnim czasie wprowadziliśmy kilka doprecyzowań w regulaminie, aby udostępnić Ci nowe funkcjonalności i aby warunki naszej współpracy były jeszcze bardziej przejrzyste. Dlatego prosimy Cię teraz o zaakceptowanie aneksu. Chcesz wiedzieć co się zmienia? Odnośnik do regulaminu znajdziesz w aneksie, a podsumowanie najważniejszych zmian - ",
+        "descriptionButton": "tutaj.",
         "annexContent": "Niniejszy Aneks („Aneks”) został zawarty pomiędzy „Stronami”, tj.:\nTobą, właścicielem Konta Użytkownika na portalu <a href=\"https://www.wygodnezwroty.pl\">www.wygodnezwroty.pl</a>; oraz\nnami, ALLEKURIER Sp. z o.o. z siedzibą w Krakowie, wpisaną do Rejestru Przedsiębiorców KRS przez Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie, XI Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem KRS: 0000430370, NIP: 6772370941, REGON: 122640506, adres: ul. Balicka 12A/B4, 30-149 Kraków\n- do umowy, która łączy nas w zakresie korzystania z portalu <a href=\"https://www.wygodnezwroty.pl\">wygodnezwroty.pl</a> („Serwis”), w tym m.in. w zakresie (i) utworzenia i korzystania przez Ciebie z Konta Użytkownika w Serwisie, (ii) zlecania przez Ciebie wykonania usług, w tym usług zwrotu przesyłek przez Przewoźników, (iii) składania reklamacji i innych obowiązków Stron („Umowa”).\n1. Niniejszym przekazujemy Ci Regulamin Wygodne Zwroty („Regulamin WZ”) regulujący świadczone na Twoją rzecz usługi w ramach Umowy, który stanowi załączniki do Aneksu.\n2. Poprzez zawarcie niniejszego Aneksu, wspólnie postanawiamy, że od dnia jego zawarcia, w odniesieniu do świadczonych na Twoją rzecz usług w ramach Umowy, będziemy związani warunkami określonymi w Regulaminie WZ stanowiącym załączniki do Aneksu.\n3. Zawarcie Aneksu nie powoduje zawarcia nowej umowy o świadczenie dodatkowych usług, z których nie korzystasz.\nZałączniki:\n1. <a href=\"https://www.wygodnezwroty.pl\">Regulamin Wygodne Zwroty</a>",
         "acceptButton": "Akceptuję",
         "rejectButton": "Nie akceptuję",
         "alreadyAcceptedMessage": "Aneks do regulaminu został już przez Ciebie zaakceptowany.",
-        "acceptedMessage": "Aneks do regulaminu został zaakceptowany."
+        "acceptedMessage": "Aneks do regulaminu został zaakceptowany.",
+        "importantChanges": {
+            "title": "Najważniejsze zmiany wprowadzone Regulaminem WygodneZwroty.pl",
+            "description": "Poniżej przedstawiamy najistotniejsze zmiany w zakresie wprowadzonym przez nowy Regulamin Wygodne Zwroty:",
+            "position": "Pozycja",
+            "resolutionDescription": "Opis postanowienia",
+            "item1": {
+                "position": "§ 1.3, § 4.6",
+                "description": "Zwrócenie uwagi na fakt, iż Serwis nie świadczy usług przewozowych, ale wyłącznie usługę elektroniczną umożliwiającą dokonanie Zwrotów w oparciu o usługi przewozu Firm Kurierskich współpracujących z Serwisem"
+            },
+            "item2": {
+                "position": "§ 3",
+                "description": "Uregulowanie zasad świadczonych przez Serwis nieodpłatnych Usług Elektronicznych (takie jak Konto Klienta, składanie zamówień, newsletter) z wyraźnym rozróżnieniem płatnej Usługi Zwrotu, której szczegółowe warunki zawarto w § 4. "
+            },
+            "item3": {
+                "position": "§ 1.4",
+                "description": "Podkreślenie, że usługa Zwrotu jest dostępna wyłącznie dla przesyłek nadawanych z terytorium obsługiwanego przez Serwis, przy czym lista Firm Kurierskich dostępnych na danym terytorium została określona w Załączniku nr 1 do Regulaminu."
+            },
+            "item4": {
+                "position": "§ 4.1",
+                "description": "Wskazanie, że przed dokonaniem Zwrotu Serwis zapewnia Klientowi możliwość zapoznania się z treścią regulaminu wybranej Firmy Kurierskiej. Podkreślenie, że akceptacja regulaminu wybranej Firmy Kurierskiej przez klienta jest dobrowolna, ale niezbędna dla wykonania usługi nadania przesyłki."
+            },
+            "item5": {
+                "position": "§ 4.3",
+                "description": "Podkreślenie, że Serwis nie odpowiada za zgodność podanych przez Klienta danych z rzeczywistymi parametrami przesyłki, pod warunkiem, że dane te zostały wprowadzone samodzielnie przez Klienta."
+            },
+            "item6": {
+                "position": "§ 4.7",
+                "description": "Zwrócenie uwagi na fakt, iż Serwis realizuje Usługę Zwrotu wyłącznie do Sklepów dostępnych w Serwisie"
+            },
+            "item7": {
+                "position": "§ 4.8",
+                "description": "Zwrócenie uwagi na fakt, że klient jest odpowiedzialny za prawidłowy wybór Sklepu, do którego powinien zostać skierowany Zwrot oraz za spełnienie formalności wymaganych przez Sklep w procesie zwracania towarów."
+            },
+            "item8": {
+                "position": "§ 4.9",
+                "description": "Zwrócenie uwagi, że Serwis nie ponosi odpowiedzialności za działania lub zaniechania Klienta niezgodne z treścią zaakceptowanych warunków współpracy (Regulaminu Serwisu lub Firmy Kurierskiej) wraz ze wskazaniem przykładowych sytuacji, kiedy Serwis nie będzie odpowiedzialny za ewentualne szkody Klienta. "
+            },
+            "item9": {
+                "position": "§ 4.10, § 9.4",
+                "description": "Zwrócenie uwagi, że Serwis umożliwia zawarcie przez Klienta umowy przewozu z wybraną Firmą Kurierską, co nie prowadzi jednak do tego, że Serwis jest także stroną tej umowy. Wobec powyższego Serwis nie ponosi odpowiedzialności za nienależyte wykonanie usługi przewozu, a w przypadku zastrzeżeń co do usług świadczonych przez Firmę Kurierską, Serwis nie ma wpływu na ostateczny sposób rozpatrzenia reklamacji dotyczących usług Firmy Kurierskiej."
+            },
+            "item10": {
+                "position": "§ 4.11",
+                "description": "Zwrócenie uwagi na fakt, że Serwis przy świadczeniu Usługi Zwrotu świadczy usługi informacyjne o warunkach usług oferowanych przez Firmy Kurierskie oraz poinformowanie o formach i sposobach świadczenia tych usług."
+            },
+            "item11": {
+                "position": "§ 5",
+                "description": "Opis funkcjonalności Serwisu udostępnianej w ramach Usługi Zwrotu polegającej na możliwości złożenia za jego pośrednictwem oświadczenia o odstąpieniu od umowy zawartej ze Sklepem."
+            },
+            "item12": {
+                "position": "§ 6.2",
+                "description": "Zwrócenie uwagi, że płatności są realizowane zgodnie z Regulaminami wybranego przez Klienta Operatora Płatności."
+            },
+            "item13": {
+                "position": "§ 7",
+                "description": "Określenie warunków zakupu Pakietów Zwrotów."
+            },
+            "item14": {
+                "position": "§ 8",
+                "description": "Przejrzyste poinformowanie o prawie do odstąpienia od Umowy Usługi Zwrotu."
+            },
+            "item15": {
+                "position": "§ 9.5",
+                "description": "Zwrócenie uwagi, że Serwis nie jest stroną umowy zakupu towaru i nie bierze udziału w procesie reklamacyjnym lub odstąpienia od umowy i zwrotu towaru. Wobec powyższego Serwis nie ma wpływu na decyzje podejmowane przez Sklep w tym zakresie."
+            },
+            "item16": {
+                "position": "§ 9.6",
+                "description": "Przejrzyste zestawienie sposobów składania reklamacji w związku z usługą przewozu świadczoną przeze Firmę Kurierską w formie Załącznika nr 1 do Regulaminu."
+            },
+            "item17": {
+                "position": "§ 10.4–10.6",
+                "description": "Wskazanie na okoliczności umożlwiające wprowadzanie przez Serwis zmian w Regulaminie, sposobie poinformowania o zmianach i uprawnieniach Klienta w związku ze zmianami Regulaminu"
+            }
+        }
     },
     "navigationBar": {
         "orderList": "Zwroty",
