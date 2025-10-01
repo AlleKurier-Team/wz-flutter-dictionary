@@ -825,6 +825,12 @@
         "rejectButton": "Nie akceptuję",
         "alreadyAcceptedMessage": "Aneks do regulaminu został już przez Ciebie zaakceptowany.",
         "acceptedMessage": "Aneks do regulaminu został zaakceptowany.",
+        "rejectBottomSheet": {
+            "title": "Co zrobić, jeśli nie zgadzasz się z nowymi postanowieniami regulaminu",
+            "description": "Jeśli nie zgadzasz się z nowymi postanowieniami regulaminu, możesz zrezygnować z korzystania z naszych usług. W tym celu napisz do nas na adres: ",
+            "rejectButton": "Nie akceptuję i chcę się wylogować",
+            "backButton": "Wracam do aneksu do umowy"
+        },
         "importantChanges": {
             "title": "Najważniejsze zmiany wprowadzone Regulaminem WygodneZwroty.pl",
             "description": "Poniżej przedstawiamy najistotniejsze zmiany w zakresie wprowadzonym przez nowy Regulamin Wygodne Zwroty:",
