@@ -90,6 +90,10 @@
         "clientData": "Twoje dane",
         "bankAccountNumber": "Numer konta bankowego",
         "invoiceData": "Dane do faktur",
+        "superReturn": {
+            "title": "Super-zwrot",
+            "subtitle": "Wspieraj siepomaga.pl i ratujemyzwierzaki.pl"
+        },
         "appTheme": "Motyw aplikacji",
         "appLanguage": "Język aplikacji",
         "notifications": "Powiadomienia",
@@ -114,6 +118,39 @@
         "emailBody": "Proszę o usunięcie mojego konta w serwisie Wygodne Zwroty.\n\nMój adres e-mail, na który zostało założone konto to: {}",
         "noEmailMessage1": "Aby usunąć swoje konto wyślij wiadomość e‑mail na adres",
         "noEmailMessage2": "o przykładowej treści:"
+    },
+    "superReturn": {
+        "barTitle": "Super-Zwrot",
+        "contributionHeader": "Tak wspierasz zbiórkę",
+        "contributionDetails": "🧡 Zwrot do sklepu - 3,00 zł\noraz\n🧡 Pakiet 30 zwrotów - 15,00 zł\n🧡 Pakiet 10 zwrotów - 7,00 zł\n🧡 Pakiet 5 zwrotów - 6,00 zł\n🧡 Pakiet 3 zwrotów - 5,00 zł\n🧡 Pakiet 2 zwrotów - 3,00 zł",
+        "initial": {
+            "title": "Dołącz do akcji Super-Zwrot!",
+            "description1": "Wspólnie z Siepomaga.pl i RatujemyZwierzaki.pl robimy coś dobrego i chcemy, żebyś był/a tego częścią! 🧡",
+            "description2": "**Wstaw link do zbiórki,** którą chcesz wspierać, a za każdy pełnopłatny zwrot, który nadasz lub zakup pakietu, **my przekażemy środki na wybrany przez Ciebie cel.**",
+            "description3": "To takie proste, a może zrobić naprawdę dużo dobrego. Dołącz do nas i spraw, by każda przesyłka miała moc pomagania! 🍀",
+            "fieldLabel": "Link do zbiórki",
+            "pasteButton": "Wklej ze schowka",
+            "regulationCheckbox": "Akceptuję <a href=\"https://www.wygodnezwroty.pl/\">regulamin</a> akcji Super-Zwrot"
+        },
+        "active": {
+            "title": "Bierzesz udział w akcji Super-Zwrot. Dziękujemy!",
+            "description1": "Gdy korzystasz z aplikacji Wygodne Zwroty, my przekazujemy środki na wsparcie wybranej przez Ciebie inicjatywy",
+            "description2": "Drobny gest - wielka pomoc! 🍀",
+            "yourCauseLabel": "Wspierana przez Ciebie zbiórka"
+        },
+        "indicator": {
+            "title": "Super-Zwrot",
+            "description": "Twój zwrot wspiera zapisaną zbiórkę kwotą {}",
+            "inactiveTitle": "Zwrot niepełnopłatny",
+            "inactiveDescription": "Zakup nie jest objęty akcją wsparcia zbiórki"
+        },
+        "errors": {
+            "urlRequired": "Należy wprowadzić link do zbiórki.",
+            "regulationsRequired": "Aby kontynuować, należy zaakceptować regulamin.",
+            "invalidUrl": "Wprowadzono nieprawidłowy adres URL.",
+            "hostNotAllowed": "Dozwolone są wyłącznie linki z serwisów siepomaga.pl i ratujemyzwierzaki.pl.",
+            "directLinkRequired": "Prosimy o podanie bezpośredniego linku do zbiórki, a nie do strony głównej serwisu."
+        }
     },
     "themeSettings": {
         "system": "Systemowy",
