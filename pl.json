@@ -142,7 +142,8 @@
             "title": "Super-Zwrot",
             "description": "Twój zwrot wspiera zapisaną zbiórkę kwotą {}",
             "inactiveTitle": "Zwrot niepełnopłatny",
-            "inactiveDescription": "Zakup nie jest objęty akcją wsparcia zbiórki"
+            "inactiveDescription": "Zakup nie jest objęty akcją wsparcia zbiórki",
+            "packetDescription": "Zakup wspiera zapisaną zbiórkę kwotą {}"
         },
         "errors": {
             "urlRequired": "Należy wprowadzić link do zbiórki.",
