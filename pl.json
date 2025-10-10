@@ -944,6 +944,22 @@
             }
         }
     },
+    "appUpdate": {
+        "optionalUpdate": {
+            "title": "Dostępna nowa wersja",
+            "description1": "Właśnie wydaliśmy nową wersję aplikacji, a w niej kilka ulepszeń, które mogą Ci się spodobać.",
+            "description2": "Poprawiliśmy wydajność, naprawiliśmy drobne błędy i dodaliśmy nowe funkcje.",
+            "description3": "Zainstaluj teraz, by korzystać z pełni możliwości!",
+            "laterButton": "Może później"
+        },
+        "requiredUpdate": {
+            "title": "Wymagana aktualizacja",
+            "description1": "Aby kontynuować, musisz zaktualizować aplikację.",
+            "description2": "Korzystasz z wersji, która nie jest już wspierana.",
+            "description3": "Nowa wersja gwarantuje bezpieczeństwo Twoich danych i dostęp do wszystkich funkcji."
+        },
+        "updateButton": "Zaktualizuj teraz"
+    },
     "navigationBar": {
         "orderList": "Zwroty",
         "newOrder": "Nowy zwrot",
