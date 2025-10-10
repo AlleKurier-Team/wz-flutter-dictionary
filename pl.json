@@ -130,7 +130,7 @@
             "description3": "To takie proste, a może zrobić naprawdę dużo dobrego. Dołącz do nas i spraw, by każda przesyłka miała moc pomagania! 🍀",
             "fieldLabel": "Link do zbiórki",
             "pasteButton": "Wklej ze schowka",
-            "regulationCheckbox": "Akceptuję <a href=\"https://www.wygodnezwroty.pl/\">regulamin</a> akcji Super-Zwrot"
+            "regulationCheckbox": "Akceptuję <a href=\"https://static.wygodnezwroty.pl/regulations/pl/regulamin-siepomaga.pdf\">regulamin</a> akcji Super-Zwrot"
         },
         "active": {
             "title": "Bierzesz udział w akcji Super-Zwrot. Dziękujemy!",
