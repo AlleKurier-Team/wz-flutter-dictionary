@@ -465,7 +465,10 @@
         "dpd_return_no_label_courier": "najdłuższy bok 150 cm, 31,5 kg",
         "dpd_return_with_label_courier": "najdłuższy bok 150 cm, 31,5 kg",
         "orlen_return": "38 x 41 x 60 cm, 20 kg",
-        "orlen_return_with_label": "38 x 41 x 60 cm, 20 kg"
+        "orlen_return_with_label": "38 x 41 x 60 cm, 20 kg",
+        "dpd_poland_return_ue_no_label": "41 x 38 x 59 cm, 20 kg",
+        "dpd_poland_return_ue_with_label": "41 x 38 x 59 cm, 20 kg",
+        "zabka": "41 cm x 38 cm x 64 cm, 20 kg"
     },
     "serviceDescription": {
         "inpostreturn": "Przesyłkę nadasz bez etykiety w dowolnym w automacie Paczkomat InPost",
@@ -492,7 +495,9 @@
         "dpd_return_no_label_courier": "",
         "dpd_return_with_label_courier": "",
         "orlen_return": "Przesyłkę bez etykiety nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
-        "orlen_return_with_label": "Przesyłkę z etykietą nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim."
+        "orlen_return_with_label": "Przesyłkę z etykietą nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
+        "dpd_poland_return_ue_no_label": "Przesyłkę bez etykiety nadasz w dowolnym w sklepie Żabka, automacie paczkowym DPD, lub innym punkcie handlowym z sieci DPD Pickup.",
+        "dpd_poland_return_ue_with_label": "Przesyłkę z etykietą nadasz w dowolnym w sklepie Żabka, automacie paczkowym DPD, lub innym punkcie handlowym z sieci DPD Pickup."
     },
     "serviceDescriptionAdditional": {
         "inpostreturn": "",
@@ -519,7 +524,9 @@
         "dpd_return_no_label_courier": "",
         "dpd_return_with_label_courier": "",
         "orlen_return": "",
-        "orlen_return_with_label": ""
+        "orlen_return_with_label": "",
+        "dpd_poland_return_ue_no_label": "",
+        "dpd_poland_return_ue_with_label": ""
     },
     "mailboxSearch": {
         "description": "Wyszukaj sklep, do którego chcesz zwrócić towar i łatwo nadaj paczkę",
@@ -562,7 +569,9 @@
             "few": "Twój pakiet: {} zwroty",
             "many": "Twój pakiet: {} zwrotów",
             "other": "Twój pakiet: {} zwrotów"
-        }
+        },
+        "biggerPackageMessage": "Większe paczki nadasz tylko w wybranych punktach.",
+        "checkOfferDetailsButton": "Sprawdź szczegóły oferty"
     },
     "insuranceSelection": {
         "title": "Ubezpieczenie",
@@ -587,7 +596,9 @@
             "dpd_return": "Sklep Żabka i punkty DPD",
             "dhl_return": "Punkty i automaty DHL",
             "orlen_return": "ORLEN Paczka",
-            "gls_poland_return": "GLS - nadanie w punkcie z etykietą"
+            "gls_poland_return": "GLS - nadanie w punkcie z etykietą",
+            "dpd_poland_return_ue_no_label": "Sklepy Żabka, punkty i automaty DPD",
+            "dpd_poland_return_ue_with_label": "Sklepy Żabka, punkty i automaty DPD z etykietą"
         },
         "withoutLabel": "Bez drukowania etykiety",
         "withLabel": "Konieczny wydruk etykiety",
@@ -602,7 +613,8 @@
             "dpd_return": "Dowolny sklep Żabka lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne.",
             "dhl_return": "Żabka, Innmedio, 1 minute, Relay oraz oddziały DHL.\nWażne: Niektóre punkty wyłączone są z sieci DHL. Przed wizytą w punkcie, sprawdź jego dostępność.",
             "orlen_return": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie.",
-            "gls_poland_return": "Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS."
+            "gls_poland_return": "Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS.",
+            "dpd_poland_return_ue": "Dowolny sklep Żabka, automat paczkowy DPD lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne."
         },
         "and": "oraz",
         "andOthers": "i inne",
@@ -618,7 +630,8 @@
             "dpd_return": "Długość paczki (najdłuższy bok) plus suma obwodu podstawy nie mogą przekroczyć 300 cm.",
             "dhl_return": "",
             "orlen_return": "",
-            "gls_poland_return": ""
+            "gls_poland_return": "",
+            "dpd_poland_return_ue": ""
         },
         "checkParamsButton": "Sprawdź, czy paczka ma odpowiednie wymiary",
         "insuranceSection": "Ubezpieczenie",
@@ -632,7 +645,8 @@
             "dpd_return": "Bezpłatne do 1000 zł",
             "dhl_return": "Bezpłatne do 500 zł",
             "orlen_return": "Bezpłatne do 5000 zł",
-            "gls_poland_return": "Bezpłatne do 6000 zł"
+            "gls_poland_return": "Bezpłatne do 6000 zł",
+            "dpd_poland_return_ue": "Bezpłatne do 1000 zł"
         },
         "verification": {
             "barTitle": "Weryfikacja parametrów",
@@ -640,7 +654,10 @@
             "successMessage": "Wymiary paczki są odpowiednie",
             "errorMessage": "Wymiary paczki nie są odpowiednie",
             "errorMessageDescription": "Jeśli Twoja paczka jest za duża, możesz spróbować przepakować zawartość do mniejszego kartonu lub rozważyć jej nadanie inną firmą kurierską."
-        }
+        },
+        "zabka": "Sklepy Żabka",
+        "dpdParcelLocker": "Automaty paczkowe DPD",
+        "otherPoints": "Inne punkty"
     },
     "packetSelection": {
         "title": "Dodaj pakiet do zamówienia i oszczędzaj zwracając do swoich ulubionych sklepów",
