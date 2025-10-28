@@ -614,7 +614,7 @@
             "dhl_return": "Żabka, Innmedio, 1 minute, Relay oraz oddziały DHL.\nWażne: Niektóre punkty wyłączone są z sieci DHL. Przed wizytą w punkcie, sprawdź jego dostępność.",
             "orlen_return": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie.",
             "gls_poland_return": "Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS.",
-            "dpd_poland_return_ue": "Dowolny sklep Żabka, automat paczkowy DPD lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne."
+            "dpd_poland_return_ue_no_label": "Dowolny sklep Żabka, automat paczkowy DPD lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne."
         },
         "and": "oraz",
         "andOthers": "i inne",
@@ -631,7 +631,7 @@
             "dhl_return": "",
             "orlen_return": "",
             "gls_poland_return": "",
-            "dpd_poland_return_ue": ""
+            "dpd_poland_return_ue_no_label": ""
         },
         "checkParamsButton": "Sprawdź, czy paczka ma odpowiednie wymiary",
         "insuranceSection": "Ubezpieczenie",
@@ -646,7 +646,7 @@
             "dhl_return": "Bezpłatne do 500 zł",
             "orlen_return": "Bezpłatne do 5000 zł",
             "gls_poland_return": "Bezpłatne do 6000 zł",
-            "dpd_poland_return_ue": "Bezpłatne do 1000 zł"
+            "dpd_poland_return_ue_no_label": "Bezpłatne do 1000 zł"
         },
         "verification": {
             "barTitle": "Weryfikacja parametrów",
