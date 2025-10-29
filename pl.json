@@ -468,7 +468,8 @@
         "orlen_return_with_label": "38 x 41 x 60 cm, 20 kg",
         "dpd_poland_return_ue_no_label": "41 x 38 x 59 cm, 20 kg",
         "dpd_poland_return_ue_with_label": "41 x 38 x 59 cm, 20 kg",
-        "zabka": "41 cm x 38 cm x 64 cm, 20 kg"
+        "zabka": "41 cm x 38 cm x 64 cm, 20 kg",
+        "otherPoints": "najdłuższy bok 150 cm, 20 kg"
     },
     "serviceDescription": {
         "inpostreturn": "Przesyłkę nadasz bez etykiety w dowolnym w automacie Paczkomat InPost",
