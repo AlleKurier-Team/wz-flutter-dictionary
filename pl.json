@@ -75,11 +75,17 @@
     },
     "completeUserInfo": {
         "title": "Dane do zwrotów",
-        "description": "Wypełnij jeszcze tylko swoje dane, które będą wykorzystywane do zwrotów. I gotowe! Na swoim koncie, możesz dodać więcej profili do zwrotów.",
+        "firstStepTitle": "Dane nadawcy",
+        "secondStepTitle": "Twój adres",
+        "description": "Wypełnij swoje dane, które będą wykorzystywane do zwrotów. I gotowe! Na swoim koncie, możesz dodać więcej profili do zwrotów.",
+        "addressDescription": "Wypełnij swoje dane, które będą wykorzystywane do zwrotów i odstąpień od umowy ze sklepami internetowymi.",
         "fieldLabelSender": "Nadawca",
         "fieldHintSender": "Imię i nazwisko lub nazwa firmy",
         "fieldPhoneNumber": "Nr telefonu",
         "fieldEmail": "E‑mail",
+        "fieldStreet": "Ulica i numer",
+        "fieldPostalCode": "Kod pocztowy",
+        "fieldCity": "Miejscowość",
         "successMessage": "Dane zostały zapisane",
         "nameErrorMessage": "Należy wprowadzić imię i nazwisko lub nazwę firmy",
         "phoneErrorMessage": "Wprowadzono nieprawidłowy numer telefonu"
@@ -185,6 +191,9 @@
         "fieldPhoneNumber": "Nr telefonu",
         "fieldLabelEmail": "E‑mail (opcjonalnie)",
         "fieldHintEmail": "E‑mail",
+        "fieldStreet": "Ulica i numer",
+        "fieldPostalCode": "Kod pocztowy",
+        "fieldCity": "Miejscowość",
         "defaultCheckbox": "Ustaw jako profil domyślny",
         "insertProfileButton": "Wstaw z profili",
         "fieldDescriptionEmail": "Wypełnij, jeśli jest inny niż Twój domyślny e-mail: {}. Wtedy wyślemy Ci tu informacje o przesyłce.",
@@ -192,7 +201,13 @@
         "successMessage": "Dane zostały zapisane",
         "emailErrorMessage": "Wprowadzono nieprawidłowy adres email",
         "nameErrorMessage": "Należy wprowadzić imię i nazwisko lub nazwę firmy",
-        "phoneErrorMessage": "Wprowadzono nieprawidłowy numer telefonu"
+        "phoneErrorMessage": "Wprowadzono nieprawidłowy numer telefonu",
+        "addressEmptyError": "Pole ulica i numer jest wymagane",
+        "postalCodeEmptyError": "Pole kod pocztowy jest wymagane",
+        "cityEmptyError": "Pole miejscowość jest wymagane",
+        "addressIncorrectError": "Podany adres jest nieprawidłowy. Podaj ulicę i numer.",
+        "postalCodeIncorrectError": "Podany kod pocztowy jest nieprawidłowy. Podaj kod pocztowy w formacie 99-999.",
+        "cityIncorrectError": "Pole miejscowość musi zawierać od 3 do 50 znaków."
     },
     "bankAccountList": {
         "addNew": "Dodaj nowy numer konta",
