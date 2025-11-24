@@ -378,7 +378,11 @@
         "packagesButton": "Poznaj pakiety"
     },
     "orderList": {
-        "barTitle": "Moje zwroty"
+        "barTitle": "Moje zwroty",
+        "packetPromo": {
+            "tag": "Oferta na Black Friday",
+            "availableFor": "Koniec za {}"
+        }
     },
     "orderDetails": {
         "barTitle": "Szczegóły zwrotu",
