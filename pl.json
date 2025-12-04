@@ -755,6 +755,7 @@
         "showMyOrders": "Wyświetl zamówienia na moje dane",
         "errors": {
             "atLeastOneOrder": "Należy podać przynajmniej jeden numer zamówienia.",
+            "orderNotFound": "Nie znaleziono zamówienia o podanym numerze.",
             "fieldRequired": "Pole nie może być puste",
             "invalidEmailOrPhone": "Wprowadzono nieprawidłowy email lub telefon",
             "invalidEmail": "Wprowadzono nieprawidłowy adres email",
