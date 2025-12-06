@@ -868,6 +868,7 @@
         "description": "Cieszymy się, że korzystasz z Wygodnych Zwrotów. Żeby docenić Twoją obecność, przygotowaliśmy dla Ciebie ",
         "descriptionBold": "ofertę powitalną.",
         "welcomeOffer": "Oferta Powitalna w aplikacji",
+        "oneTimeOffer": "Oferta jednorazowa w aplikacji",
         "bullet1": "Oferta jednorazowa",
         "bullet2": "Dostępna wyłącznie w aplikacji",
         "bullet3": "Gratisowy zwrot jest ważny 30 dni",
@@ -875,6 +876,7 @@
         "activateButton": "Aktywuję kupon i chcę skorzystać",
         "couponActivated": "Kupon {} aktywowany",
         "gratis": "gratis",
+        "offerActivatedMessage": "Twoja oferta jest aktywna",
         "tile": {
             "secondGratis": "Drugi zwrot w aplikacji GRATIS",
             "plusSecondGratis": "{} + drugi zwrot GRATIS",
@@ -885,7 +887,8 @@
             "availableCount": "Pula kuponów ograniczona. Zostało jeszcze: ",
             "packetPrice": "InPost Paczkomat {}",
             "inpost": "InPost Paczkomat",
-            "saveUpTo": "Oszczędzasz do 15,99 zł"
+            "saveUpTo": "Oszczędzasz do 15,99 zł",
+            "activateButton": "Chcę skorzystać z oferty"
         }
     },
     "invoiceDataSection": {
