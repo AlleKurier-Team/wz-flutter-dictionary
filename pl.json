@@ -1058,6 +1058,15 @@
         },
         "updateButton": "Zaktualizuj teraz"
     },
+    "paymentTerms": {
+        "expandButton": "Przeczytaj całość",
+        "collapseButton": "Pokaż mniej",
+        "noMethodSelected": "Płacąc Google Pay lub Apple Pay akceptujesz <a href=\"https://static.payu.com/sites/terms/files/payu_terms_of_service_single_transaction_pl_pl.pdf\">Zasady Płatności PayU</a>. Zlecenie realizacji płatności wykonuje PayU SA. Administratorem Twoich danych osobowych jest PayU S.A.\nPłacąc Blikiem lub przez Przelewy24 akceptujesz <a href=\"https://www.przelewy24.pl/regulamin\">regulamin PayPro S.A.</a> W procesie płatności administratorem Twoich danych osobowych jest PayPro S.A.",
+        "przelewy24Short": "Płacąc akceptujsz <a href=\"https://www.przelewy24.pl/regulamin\">regulamin PayPro S.A.</a> W procesie płatności administratorem Twoich danych osobowych jest PayPro S.A. ",
+        "przelewy24Full": "Płacąc akceptujesz <a href=\"https://www.przelewy24.pl/regulamin\">regulamin PayPro S.A.</a> W procesie płatności administratorem Twoich danych osobowych jest PayPro S.A (KRS 0000347935), 60-327 Poznań (Polska), Kanclerska 15, +48 61 642 93 44, <a href=\"mailto:serwis@przelewy24.pl\">serwis@przelewy24.pl</a>. <a href=\"https://www.przelewy24.pl/obowiazek-informacyjny-rodo-platnicy\">Zobacz pełną treść klauzuli informacyjnej</a>.\n",
+        "payuShort": "Płacąc akceptujesz <a href=\"https://static.payu.com/sites/terms/files/payu_terms_of_service_single_transaction_pl_pl.pdf\">Zasady Płatności PayU</a>. Zlecenie realizacji płatności: Zlecenie wykonuje PayU SA;\n",
+        "payuFull": "Zlecenie realizacji płatności: Zlecenie wykonuje PayU SA; Dane odbiorcy, tytuł oraz kwota płatności dostarczane są PayU SA przez odbiorcę; Zlecenie jest przekazywane do realizacji po otrzymaniu przez PayU SA Państwa wpłaty. Płatność udostępniana jest odbiorcy w ciągu 1 godziny, nie później niż do końca następnego dnia roboczego; PayU SA nie pobiera opłaty od realizacji usługi.\nPłacąc akceptujesz <a href=\"https://static.payu.com/sites/terms/files/payu_terms_of_service_single_transaction_pl_pl.pdf\">Zasady Płatności PayU</a>.\nAdministratorem Twoich danych osobowych jest PayU S.A. z siedzibą w Poznaniu (60-166), przy ul. Grunwaldzkiej 186 (\"PayU\"). Twoje dane osobowe będą przetwarzane w celu realizacji transakcji płatniczej, powiadamiania Cię o statusie realizacji Twojej płatności, rozpatrywania reklamacji, a także w celu wypełnienia obowiązków prawnych ciążących na PayU.\nMasz prawo do dostępu, poprawiania, ograniczenia lub sprzeciwu wobec przetwarzania Twoich danych osobowych, a także prawo do przenoszenia danych i ich usunięcia. Podanie danych jest dobrowolne jednak niezbędne do realizacji płatności, a brak podania danych może skutkować odrzuceniem płatności. Więcej informacji o zasadach przetwarzania Twoich danych osobowych przez PayU znajdziesz w <a href=\"https://poland.payu.com/prywatnosc/polityka-prywatnosci-payu/\">Polityce Prywatności</a>.\n"
+    },
     "navigationBar": {
         "orderList": "Zwroty",
         "newOrder": "Nowy zwrot",
