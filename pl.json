@@ -755,6 +755,12 @@
         "changeFormDescription": "Wyświetlamy formularz zwrotu do sklepu Modna Kiecka, który uzupełnisz ręcznie.",
         "changeFormAutoDescription": "Możesz automatycznie wyświetlić produkty do zwrotu na swoje dane z aplikacji lub inne.",
         "showMyOrders": "Wyświetl zamówienia na moje dane",
+        "reportTypes": {
+            "label": "Typ zgłoszenia",
+            "return": "Zwrot",
+            "replacement": "Wymiana",
+            "complaint": "Reklamacja"
+        },
         "errors": {
             "atLeastOneOrder": "Należy podać przynajmniej jeden numer zamówienia.",
             "orderNotFound": "Nie znaleziono zamówienia o podanym numerze.",
