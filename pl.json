@@ -75,10 +75,13 @@
     },
     "completeUserInfo": {
         "title": "Dane do zwrotów",
+        "titleDiscounts": "Zniżki i rabaty",
         "firstStepTitle": "Dane nadawcy",
         "secondStepTitle": "Twój adres",
+        "thirdStepTitle": "Kod polecający",
         "description": "Wypełnij swoje dane, które będą wykorzystywane do zwrotów. I gotowe! Na swoim koncie, możesz dodać więcej profili do zwrotów.",
         "addressDescription": "Wypełnij swoje dane, które będą wykorzystywane do zwrotów i odstąpień od umowy ze sklepami internetowymi.",
+        "referralDescription": "Jeśli aplikacja Wygodne Zwroty została Ci polecona, wprowadź kod polecający, możesz go podać także w zakładce Moje konto.",
         "fieldLabelSender": "Nadawca",
         "fieldHintSender": "Imię i nazwisko lub nazwa firmy",
         "fieldPhoneNumber": "Nr telefonu",
@@ -86,6 +89,8 @@
         "fieldStreet": "Ulica i numer",
         "fieldPostalCode": "Kod pocztowy",
         "fieldCity": "Miejscowość",
+        "fieldReferralCodeLabel": "Kod polecający",
+        "fieldReferralCodeHint": "Wprowadź kod polecający",
         "successMessage": "Dane zostały zapisane",
         "nameErrorMessage": "Należy wprowadzić imię i nazwisko lub nazwę firmy",
         "phoneErrorMessage": "Wprowadzono nieprawidłowy numer telefonu"
@@ -108,6 +113,8 @@
         "help": "Pomoc",
         "helpAndContact": "Pomoc i kontakt",
         "deleteAccount": "Usuń konto",
+        "discounts": "Zniżki i rabaty",
+        "promoCode": "Wprowadź kod promocyjny lub polecający",
         "logout": "Wyloguj się",
         "manage": "Zarządzaj"
     },
