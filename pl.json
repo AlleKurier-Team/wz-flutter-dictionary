@@ -952,6 +952,7 @@
         "noExpirationDate": "Bezterminowo",
         "instruction": "Instrukcja: ",
         "noInstruction": "Brak",
+        "requirements": "Warunki: ",
         "copyCodeAndGo": "Skopiuj kod i przejdź",
         "showCode": "Pokaż kod",
         "noPacket": {
