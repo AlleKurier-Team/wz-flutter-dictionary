@@ -408,6 +408,7 @@
         "qrCodeZoom": "Dotknij, aby powiększyć",
         "barCodeDescription": "W punkcie nadania przekaż pracownikowi kod kreskowy do zeskanowania.",
         "dpdLockerDescription": "Do nadania w automacie paczkowym potrzebujesz aplikacji DPD Mobile.",
+        "dhlLockerDescription": "Aby otworzyć skrytkę podaj kod nadania. Rozmiar skrytki wybierzesz na ekranie automatu.",
         "shippingLabel": "Etykieta przewozowa",
         "shippingLabelSent": "Etykietę przewozową wysłaliśmy na Twój adres e-mail",
         "shippingLabelDescription": "Naklej etykietę na przesyłce. Usuń inne etykiety z przesyłki.",
