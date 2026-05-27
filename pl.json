@@ -390,6 +390,10 @@
         "packetPromo": {
             "tag": "Oferta na Dzień Matki",
             "availableFor": "Koniec za {}"
+        },
+        "packetExtension": {
+            "title": "⏰ Zwrot z pakietu wkrótce straci ważność",
+            "description": "Nie pozwól mu przepaść, przedłuż go na 3 proste sposoby! ✨"
         }
     },
     "orderDetails": {
@@ -1094,6 +1098,78 @@
         "payuShort": "Płacąc akceptujesz <a href=\"https://static.payu.com/sites/terms/files/payu_terms_of_service_single_transaction_pl_pl.pdf\">Zasady Płatności PayU</a>. Zlecenie realizacji płatności: Zlecenie wykonuje PayU SA; ",
         "payuFull": "Zlecenie realizacji płatności: Zlecenie wykonuje PayU SA; Dane odbiorcy, tytuł oraz kwota płatności dostarczane są PayU SA przez odbiorcę; Zlecenie jest przekazywane do realizacji po otrzymaniu przez PayU SA Państwa wpłaty. Płatność udostępniana jest odbiorcy w ciągu 1 godziny, nie później niż do końca następnego dnia roboczego; PayU SA nie pobiera opłaty od realizacji usługi.\nPłacąc akceptujesz <a href=\"https://static.payu.com/sites/terms/files/payu_terms_of_service_single_transaction_pl_pl.pdf\">Zasady Płatności PayU</a>.\nAdministratorem Twoich danych osobowych jest PayU S.A. z siedzibą w Poznaniu (60-166), przy ul. Grunwaldzkiej 186 (\"PayU\"). Twoje dane osobowe będą przetwarzane w celu realizacji transakcji płatniczej, powiadamiania Cię o statusie realizacji Twojej płatności, rozpatrywania reklamacji, a także w celu wypełnienia obowiązków prawnych ciążących na PayU.\nMasz prawo do dostępu, poprawiania, ograniczenia lub sprzeciwu wobec przetwarzania Twoich danych osobowych, a także prawo do przenoszenia danych i ich usunięcia. Podanie danych jest dobrowolne jednak niezbędne do realizacji płatności, a brak podania danych może skutkować odrzuceniem płatności. Więcej informacji o zasadach przetwarzania Twoich danych osobowych przez PayU znajdziesz w <a href=\"https://poland.payu.com/prywatnosc/polityka-prywatnosci-payu/\">Polityce Prywatności</a>.\n"
     },
+    "packetExtension": {
+        "barTitle": "Przedłużenie pakietu",
+        "description": "Na Twoim koncie jest jeden aktywny zwrot 📦\nNie pozwól mu przepaść ✨ Wykonaj jedno z trzech wyzwań i przedłuż jego ważność.",
+        "chooseChallange": "Wybierz wyzwanie",
+        "addedTime": "Przedłużenie zwrotu o:",
+        "timeToComplete": "Zajmie Ci to:",
+        "selectionError": "Wybierz jedno z wyzwań",
+        "successTitle": "Dziękujemy 🧡",
+        "successDescription": "Twój zwrot został przedłużony o",
+        "shareApp": {
+            "title": "🧡 Podziel się Wygodnymi Zwrotami z bliską osobą i podaruj jej darmowy zwrot",
+            "addedTime": "@:packetExtension.addedTime @:packetExtension.shareApp.duration",
+            "duration": "14 dni",
+            "timeToComplete": "@:packetExtension.timeToComplete mniej niż 1 min.",
+            "description": "Ważność zwrotu zostanie przedłużona o 14 dni, a bliska Ci osoba otrzyma darmowy zwrot zwrot w aplikacji ważny 30 dni.",
+            "messageTitle": "💬 Poleć Wygodne Zwroty znajomym",
+            "messageSubject": "Mam dla Ciebie darmowy zwrot 🎁",
+            "messageBody": "Hej, znasz aplikację Wygodne Zwroty? 📦\nMożna dzięki niej wysłać zwrot do każdego sklepu internetowego w Polsce, a z moim kodem {} pierwszy zwrot masz za darmo 🧡 https://pobierz.wygodnezwroty.pl/",
+            "successQuestion": "Czy udało Ci się polecić Wygodne Zwroty bliskiej osobie?",
+            "successYes": "Tak",
+            "successNo": "Nie, chcę zrobić to jeszcze raz",
+            "successDescription": "@:packetExtension.successDescription @:packetExtension.shareApp.duration"
+        },
+        "takeSurvey": {
+            "title": "💡 Podziel się z nami swoimi zwyczajami dotyczącymi zakupów i zwotów",
+            "addedTime": "@:packetExtension.addedTime @:packetExtension.takeSurvey.duration",
+            "duration": "7 dni",
+            "timeToComplete": "@:packetExtension.timeToComplete ok. 3 minuty'",
+            "description": "Odpowiedz na kilka pytań na temat tego, jaką jesteś konsumentką, a ważność zwrotu zostanie przedłużona o 7 dni.",
+            "successDescription": "@:packetExtension.successDescription @:packetExtension.takeSurvey.duration \n\n Twoje odpowiedzi pomogą nam stworzyć lepsze, bardziej dopasowane doświadczenie zakupowe!"
+        },
+        "buyPacket": {
+            "title": "📦 Kup dowolny Pakiet Zwrotów",
+            "addedTime": "@:packetExtension.addedTime @:packetExtension.buyPacket.duration",
+            "duration": "1 rok",
+            "timeToComplete": "@:packetExtension.timeToComplete ok. 2 minuty",
+            "description": "Gdy kupisz dowolny Pakiet Wygodnych Zwrotów, Twój darmowy zwrot zostanie przedłużony o jeden rok."
+        }
+    },
+    "packetExtensionSurvey": {
+        "barTitle": "Twoje zwyczaje zakupowe",
+        "progress": "Postęp wypełnienia ankiety",
+        "welcome": {
+            "title": "🛍 Jak wygląda Twój ostatni zwrot online?",
+            "description": "Celem tej ankiety jest lepsze zrozumienie Twoich doświadczeń ze zwrotami zamówień, abyśmy mogli tworzyć prostszą i bardziej wygodną aplikację do zwrotów."
+        },
+        "first": {
+            "question": "Czy podczas zwrotu pojawiło się coś, co było niewygodne, niejasne albo zajęło Ci za dużo czasu?\nMożesz wybrać kilka odpowiedzi.",
+            "option1": "Trudno było znaleźć informacje, jak zwrócić zamówienie",
+            "option2": "Musiałam/em wpisywać za dużo informacji o zwrocie",
+            "option3": "Nie było jasne, jak nadać przesyłkę",
+            "option4": "Nie dostałam/em informacji od sklepu o aktualnym statusie mojego zwrotu",
+            "option5": "Nie wiedziałam/em, kiedy dostanę zwrot pieniędzy",
+            "option6": "Trudno było znaleźć informacje, jak zwrócić zamówienie",
+            "option7": "Zwrot pieniędzy trwał zbyt długo",
+            "option8": "Kontakt ze sklepem był utrudniony",
+            "option9": "Nie miałam/em żadnego problemu",
+            "other": "Inne",
+            "otherFieldHint": "Wpisz swoją odpowiedź",
+            "errorMessage": "Wybierz conajmniej jedną odpowiedź"
+        },
+        "second": {
+            "question": "Do jakiego sklepu zwracałaś/eś wtedy produkt? (Opcjonalne)",
+            "fieldLabel": "Nazwa sklepu"
+        },
+        "third": {
+            "question": "Czy zgadzasz się, abyśmy skontaktowali się z Tobą telefonicznie lub mailowo w celu doprecyzowania odpowiedzi z tej ankiety?",
+            "optionYes": "TAK",
+            "optionNo": "NIE",
+            "errorMessage": "Wybierz odpowiedź"
+        }
+    },
     "navigationBar": {
         "orderList": "Zwroty",
         "newOrder": "Nowy zwrot",
@@ -1115,6 +1191,9 @@
         "moreButton": "Więcej",
         "lessButton": "Mniej",
         "backButton": "Wróć",
+        "startButton": "Rozpocznij",
+        "finishButton": "Zakończ",
+        "sendButton": "Wyślij",
         "or": "lub",
         "errorOccurred": "Wystąpił błąd",
         "errorConnection": "Brak połączenia z serwerem",
