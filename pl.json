@@ -1157,7 +1157,8 @@
             "option9": "Nie miałam/em żadnego problemu",
             "other": "Inne",
             "otherFieldHint": "Wpisz swoją odpowiedź",
-            "errorMessage": "Wybierz conajmniej jedną odpowiedź"
+            "errorMessage": "Wybierz conajmniej jedną odpowiedź",
+            "otherErrorMessage": "Wpisz swoją odpowiedź"
         },
         "second": {
             "question": "Do jakiego sklepu zwracałaś/eś wtedy produkt? (Opcjonalne)",
