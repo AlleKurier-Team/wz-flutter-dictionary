@@ -1127,7 +1127,7 @@
             "duration": "7 dni",
             "timeToComplete": "@:packetExtension.timeToComplete ok. 3 minuty'",
             "description": "Odpowiedz na kilka pytań na temat tego, jaką jesteś konsumentką, a ważność zwrotu zostanie przedłużona o 7 dni.",
-            "successDescription": "@:packetExtension.successDescription @:packetExtension.takeSurvey.duration \n\n Twoje odpowiedzi pomogą nam stworzyć lepsze, bardziej dopasowane doświadczenie zakupowe!"
+            "successDescription": "@:packetExtension.successDescription @:packetExtension.takeSurvey.duration \n\nTwoje odpowiedzi pomogą nam stworzyć lepsze, bardziej dopasowane doświadczenie zakupowe!"
         },
         "buyPacket": {
             "title": "📦 Kup dowolny Pakiet Zwrotów",
