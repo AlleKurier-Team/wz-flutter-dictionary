@@ -278,6 +278,30 @@
         "phoneNumberCopied": "Numer telefonu został skopiowany do schowka",
         "workingHours": "Centrum Wsparcia Klienta jest do Twojej dyspozycji od poniedziałku do piątku w godzinach 8:00-16:00"
     },
+    "promoCodes": {
+        "empty": "Gdy dodasz kod rabatowy, pojawi się on tutaj. Kod zostanie do Twojego zwrotu automatycznie. Jeśli będziesz mieć więcej kodów, możesz wybrać kod, którego chcesz użyć.",
+        "enterButton": "Wprowadź kod rabatowy",
+        "tile": {
+            "free": "Zwrot za darmo",
+            "halfPrice": "Zwrot za połowę ceny",
+            "discount": "Zwrot {} taniej",
+            "returns": {
+                "one": "Wygodny Zwrot",
+                "few": "{} Wygodne Zwroty",
+                "many": "{} Wygodnych Zwrotów",
+                "other": "{} Wygodnych Zwrotów"
+            },
+            "returnsVia": " przez {}",
+            "code": "Kod rabatowy: {}",
+            "validity": "Ważny do: {}",
+            "button": "Nadaj zwrot"
+        },
+        "addSheet": {
+            "codeFieldLabel": "Kod rabatowy",
+            "description": "Zniżka zostanie zastosowana do następnego zwrotu.",
+            "errorMessage": "Pole nie może być puste"
+        }
+    },
     "myPackets": {
         "barTitle": "Moje pakiety",
         "noPacket": {
