@@ -622,6 +622,7 @@
         "lessButton": "Ukryj więcej form zwrotu",
         "voucherButton": "Mam kod rabatowy",
         "voucherField": "Kod rabatowy",
+        "voucherCorrect": "Kod rabatowy jest poprawny",
         "addVoucherButton": "Dodaj",
         "removeVoucherButton": "Usuń",
         "voucherSuccessMessage": "Pomyślnie dodano kod rabatowy",
