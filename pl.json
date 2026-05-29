@@ -1132,6 +1132,10 @@
         "selectionError": "Wybierz jedno z wyzwań",
         "successTitle": "Dziękujemy 🧡",
         "successDescription": "Twój zwrot został przedłużony o",
+        "notificationTitleWeek": "👉 Twój zwrot wygasa za 7 dni",
+        "notificationBodyWeek": "Nie pozwól mu przepaść. Przedłuż go bezpłatnie 🧡",
+        "notificationTitleDay": "⏰ Twój zwrot wygasa już jutro",
+        "notificationBodyDay": "Przedłuż go bezpłatnie, żeby nie stracić możliwości nadania 🧡",
         "shareApp": {
             "title": "🧡 Podziel się Wygodnymi Zwrotami z bliską osobą i podaruj jej darmowy zwrot",
             "addedTime": "@:packetExtension.addedTime @:packetExtension.shareApp.duration",
