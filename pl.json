@@ -286,7 +286,7 @@
             "halfPrice": "Zwrot za połowę ceny",
             "discount": "Zwrot {} taniej",
             "returns": {
-                "one": "Wygodny Zwrot",
+                "one": "{} Wygodny Zwrot",
                 "few": "{} Wygodne Zwroty",
                 "many": "{} Wygodnych Zwrotów",
                 "other": "{} Wygodnych Zwrotów"
