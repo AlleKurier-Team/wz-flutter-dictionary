@@ -1127,7 +1127,7 @@
         "barTitle": "Przedłużenie pakietu",
         "description": "Na Twoim koncie jest jeden aktywny zwrot 📦\nNie pozwól mu przepaść ✨ Wykonaj jedno z trzech wyzwań i przedłuż jego ważność.",
         "chooseChallange": "Wybierz wyzwanie",
-        "addedTime": "Przedłużenie zwrotu o:",
+        "addedTime": "Przedłużenie zwrotu o: ",
         "timeToComplete": "Zajmie Ci to:",
         "selectionError": "Wybierz jedno z wyzwań",
         "successTitle": "Dziękujemy 🧡",
@@ -1138,8 +1138,6 @@
         "notificationBodyDay": "Przedłuż go bezpłatnie, żeby nie stracić możliwości nadania 🧡",
         "shareApp": {
             "title": "🧡 Podziel się Wygodnymi Zwrotami z bliską osobą i podaruj jej darmowy zwrot",
-            "addedTime": "@:packetExtension.addedTime @:packetExtension.shareApp.duration",
-            "duration": "14 dni",
             "timeToComplete": "@:packetExtension.timeToComplete mniej niż 1 min.",
             "description": "Ważność zwrotu zostanie przedłużona o 14 dni, a bliska Ci osoba otrzyma darmowy zwrot zwrot w aplikacji ważny 30 dni.",
             "messageTitle": "💬 Poleć Wygodne Zwroty znajomym",
@@ -1148,20 +1146,17 @@
             "successQuestion": "Czy udało Ci się polecić Wygodne Zwroty bliskiej osobie?",
             "successYes": "Tak",
             "successNo": "Nie, chcę zrobić to jeszcze raz",
-            "successDescription": "@:packetExtension.successDescription @:packetExtension.shareApp.duration"
+            "successDescription": "@:packetExtension.successDescription {}"
         },
         "takeSurvey": {
             "title": "💡 Podziel się z nami swoimi zwyczajami dotyczącymi zakupów i zwotów",
-            "addedTime": "@:packetExtension.addedTime @:packetExtension.takeSurvey.duration",
-            "duration": "7 dni",
             "timeToComplete": "@:packetExtension.timeToComplete ok. 3 minuty'",
             "description": "Odpowiedz na kilka pytań na temat tego, jaką jesteś konsumentką, a ważność zwrotu zostanie przedłużona o 7 dni.",
-            "successDescription": "@:packetExtension.successDescription @:packetExtension.takeSurvey.duration \n\nTwoje odpowiedzi pomogą nam stworzyć lepsze, bardziej dopasowane doświadczenie zakupowe!"
+            "successDescription": "@:packetExtension.successDescription {} \n\nTwoje odpowiedzi pomogą nam stworzyć lepsze, bardziej dopasowane doświadczenie zakupowe!"
         },
         "buyPacket": {
             "title": "📦 Kup dowolny Pakiet Zwrotów",
-            "addedTime": "@:packetExtension.addedTime @:packetExtension.buyPacket.duration",
-            "duration": "1 rok",
+            "addedTime": "Przedłużenie zwrotu o: 1 rok",
             "timeToComplete": "@:packetExtension.timeToComplete ok. 2 minuty",
             "description": "Gdy kupisz dowolny Pakiet Wygodnych Zwrotów, Twój darmowy zwrot zostanie przedłużony o jeden rok."
         }
