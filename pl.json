@@ -1139,7 +1139,7 @@
         "shareApp": {
             "title": "🧡 Podziel się Wygodnymi Zwrotami z bliską osobą i podaruj jej darmowy zwrot",
             "timeToComplete": "@:packetExtension.timeToComplete mniej niż 1 min.",
-            "description": "Ważność zwrotu zostanie przedłużona o 14 dni, a bliska Ci osoba otrzyma darmowy zwrot zwrot w aplikacji ważny 30 dni.",
+            "description": "Ważność zwrotu zostanie przedłużona o {}, a bliska Ci osoba otrzyma darmowy zwrot zwrot w aplikacji ważny 30 dni.",
             "messageTitle": "💬 Poleć Wygodne Zwroty znajomym",
             "messageSubject": "Mam dla Ciebie darmowy zwrot 🎁",
             "messageBody": "Hej, znasz aplikację Wygodne Zwroty? 📦\nMożna dzięki niej wysłać zwrot do każdego sklepu internetowego w Polsce, a z moim kodem {} pierwszy zwrot masz za darmo 🧡 https://pobierz.wygodnezwroty.pl/",
@@ -1151,7 +1151,7 @@
         "takeSurvey": {
             "title": "💡 Podziel się z nami swoimi zwyczajami dotyczącymi zakupów i zwotów",
             "timeToComplete": "@:packetExtension.timeToComplete ok. 3 minuty'",
-            "description": "Odpowiedz na kilka pytań na temat tego, jaką jesteś konsumentką, a ważność zwrotu zostanie przedłużona o 7 dni.",
+            "description": "Odpowiedz na kilka pytań na temat tego, jaką jesteś konsumentką, a ważność zwrotu zostanie przedłużona o {}.",
             "successDescription": "@:packetExtension.successDescription {} \n\nTwoje odpowiedzi pomogą nam stworzyć lepsze, bardziej dopasowane doświadczenie zakupowe!"
         },
         "buyPacket": {
