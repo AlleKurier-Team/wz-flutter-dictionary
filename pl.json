@@ -707,13 +707,13 @@
         "insuranceDetails": {
             "inpostreturn": "Bezpłatne do 5000 zł",
             "dpdreturn": "Bezpłatne do 1000 zł",
-            "dhlreturn": "Bezpłatne do 10000 zł",
+            "dhlreturn": "Bezpłatne do 500 zł",
             "orlenreturn": "Bezpłatne do 5000 zł",
             "glspolandreturn": "Bezpłatne do 6000 zł",
             "inpost_return": "Bezpłatne do 5000 zł",
             "dpd_return": "Bezpłatne do 1000 zł",
-            "dhl_return": "Bezpłatne do 10000 zł",
-            "dhl_return_locker": "Bezpłatne do 10000 zł",
+            "dhl_return": "Bezpłatne do 500 zł",
+            "dhl_return_locker": "Bezpłatne do 500 zł",
             "orlen_return": "Bezpłatne do 5000 zł",
             "gls_poland_return": "Bezpłatne do 6000 zł",
             "dpd_poland_return_ue_no_label": "Bezpłatne do 1000 zł"
