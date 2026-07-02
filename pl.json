@@ -756,7 +756,17 @@
         "requiredFieldErrorMessage": "Pole \"{}\" jest wymagane",
         "bankAccountErrorMessage": "Podaj poprawny numer konta",
         "addProduct": "Dodaj kolejny produkt",
-        "removeProduct": "Usuń produkt"
+        "removeProduct": "Usuń produkt",
+        "commercialWithdrawal": {
+            "title": "Odstąpienie od umowy",
+            "summaryOptIn": "Po utworzeniu przesyłki poinformujemy sklep o Twoim odstąpieniu od umowy.",
+            "summaryOptOut": "Nie skorzystasz z opcji odstąpienia od umowy przez Wygodne Zwroty.",
+            "description": "W formularzu Wygodnych Zwrotów do sklepu {} możesz skorzystać z opcji odstąpienia od umowy sprzedaży. Wtedy automatycznie poinformujemy sklep o Twoim zwrocie.\nDzięki temu:",
+            "benefit1": "zyskujesz dodatkowe 14 dni na odesłanie produktu (w sumie aż 28 dni). Bez wysłania odstąpienia masz tylko 14 dni na dostarczenie przesyłki do sklepu.",
+            "benefit2": "nie musisz drukować żadnych dokumentów",
+            "optInLabel": "Chcę odstąpić od umowy zawartej ze sklepem {} za pośrednictwem serwisu Wygodne Zwroty",
+            "optOutLabel": "Nie chcę korzystać z tej opcji"
+        }
     },
     "newOrderProducts": {
         "searchDescription": "Wyświetlamy zamówienia dla:",
