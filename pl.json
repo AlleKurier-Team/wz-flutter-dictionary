@@ -526,6 +526,7 @@
         "dpd_return_with_label_courier": "najdłuższy bok 150 cm, 31,5 kg",
         "orlen_return": "38 x 41 x 60 cm, 20 kg",
         "orlen_return_with_label": "38 x 41 x 60 cm, 20 kg",
+        "orlen_return_v2": "38 x 41 x 60 cm, 20 kg",
         "dpd_poland_return_ue_no_label": "41 x 38 x 59 cm, 20 kg",
         "dpd_poland_return_ue_with_label": "41 x 38 x 59 cm, 20 kg",
         "zabka": "41 cm x 38 cm x 64 cm, 20 kg",
@@ -559,6 +560,7 @@
         "dpd_return_with_label_courier": "",
         "orlen_return": "Przesyłkę bez etykiety nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
         "orlen_return_with_label": "Przesyłkę z etykietą nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
+        "orlen_return_v2": "Przesyłkę z etykietą nadasz w dowolnym w automacie paczkowym ORLEN Paczki, na stacji paliw ORLEN lub punkcie partnerskim.",
         "dpd_poland_return_ue_no_label": "Przesyłkę bez etykiety nadasz w dowolnym w sklepie Żabka, automacie paczkowym DPD, lub innym punkcie handlowym z sieci DPD Pickup.",
         "dpd_poland_return_ue_with_label": "Przesyłkę z etykietą nadasz w dowolnym w sklepie Żabka, automacie paczkowym DPD, lub innym punkcie handlowym z sieci DPD Pickup."
     },
@@ -590,6 +592,7 @@
         "dpd_return_with_label_courier": "",
         "orlen_return": "",
         "orlen_return_with_label": "",
+        "orlen_return_v2": "",
         "dpd_poland_return_ue_no_label": "",
         "dpd_poland_return_ue_with_label": ""
     },
@@ -663,6 +666,7 @@
             "dhl_return": "Sklep Żabka i punkty DHL",
             "dhl_return_locker": "Automaty paczkowe DHL",
             "orlen_return": "ORLEN Paczka",
+            "orlen_return_v2": "ORLEN Paczka",
             "gls_poland_return": "GLS - nadanie w punkcie z etykietą",
             "dpd_poland_return_ue_no_label": "Sklepy Żabka, punkty i automaty DPD",
             "dpd_poland_return_ue_with_label": "Sklepy Żabka, punkty i automaty DPD z etykietą"
