@@ -685,6 +685,7 @@
             "dhl_return": "Dowolny sklep Żabka lub inny punkt handlowy z sieci DHL.\nPozostałe punkty: Kaufland, Stokrotka, Groszek, Inmedio, stacje Shell i inne.",
             "dhl_return_locker": "Dowolny automat paczkowy DHL",
             "orlen_return": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie.",
+            "orlen_return_v2": "Dowolny automat paczkowy ORLEN Paczki, stacje paliw ORLEN i punkty partnerskie.",
             "gls_poland_return": "Carrefour, Auchan, Kolporter oraz inne punkty Szybkiej Paczki / ParcelShop i oddziały GLS.",
             "dpd_poland_return_ue_no_label": "Dowolny sklep Żabka, automat paczkowy DPD lub inny punkt handlowy z sieci DPD Pickup.\nPozostałe punkty: Delikatesy Centrum, Sklep ABC, Lewiatan, Groszek, Kaufland, oddziały DPD Polska i inne."
         },
@@ -703,6 +704,7 @@
             "dhl_return": "",
             "dhl_return_locker": "",
             "orlen_return": "",
+            "orlen_return_v2": "",
             "gls_poland_return": "",
             "dpd_poland_return_ue_no_label": ""
         },
@@ -719,6 +721,7 @@
             "dhl_return": "Bezpłatne do 500 zł",
             "dhl_return_locker": "Bezpłatne do 500 zł",
             "orlen_return": "Bezpłatne do 5000 zł",
+            "orlen_return_v2": "Bezpłatne do 500 zł",
             "gls_poland_return": "Bezpłatne do 6000 zł",
             "dpd_poland_return_ue_no_label": "Bezpłatne do 1000 zł"
         },
