@@ -115,7 +115,7 @@
         "helpAndContact": "Pomoc i kontakt",
         "deleteAccount": "Usuń konto",
         "discounts": "Zniżki i rabaty",
-        "promoCode": "Wprowadź kod promocyjny lub polecający",
+        "promoCode": "Wprowadź kod rabatowy lub polecający",
         "logout": "Wyloguj się",
         "manage": "Zarządzaj"
     },
@@ -1142,9 +1142,8 @@
     },
     "packetExtension": {
         "barTitle": "Przedłużenie pakietu",
-        "description": "Na Twoim koncie jest jeden aktywny zwrot 📦\nNie pozwól mu przepaść ✨ Wykonaj jedno z trzech wyzwań i przedłuż jego ważność.",
-        "chooseChallange": "Wybierz wyzwanie",
-        "addedTime": "Przedłużenie zwrotu o: ",
+        "chooseChallange": "Wybierz wyzwanie, by przedłużyć swój zwrot",
+        "addedTime": "🗓️ Przedłużenie zwrotu o ",
         "timeToComplete": "Zajmie Ci to:",
         "selectionError": "Wybierz jedno z wyzwań",
         "successTitle": "Dziękujemy 🧡",
@@ -1173,9 +1172,9 @@
         },
         "buyPacket": {
             "title": "📦 Kup dowolny Pakiet Zwrotów",
-            "addedTime": "Przedłużenie zwrotu o: 1 rok",
             "timeToComplete": "@:packetExtension.timeToComplete ok. 2 minuty",
-            "description": "Gdy kupisz dowolny Pakiet Wygodnych Zwrotów, Twój darmowy zwrot zostanie przedłużony o jeden rok."
+            "description": "Kupując nawet najmniejszy pakiet 2 zwrotów, zyskujesz",
+            "packetPrices": "3 zwroty po 8,66 zł ważne rok"
         }
     },
     "packetExtensionSurvey": {
