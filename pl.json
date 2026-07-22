@@ -418,6 +418,11 @@
         "packetExtension": {
             "title": "⏰ Zwrot z pakietu wkrótce straci ważność",
             "description": "Nie pozwól mu przepaść, przedłuż go na 3 proste sposoby! ✨"
+        },
+        "freePromoCode": {
+            "tag": "Darmowy zwrot",
+            "title": "Masz na swoim koncie darmowy zwrot przez InPost Paczkomat 🎁",
+            "description": "Wybierz sklep, do którego chcesz odesłać nietrafiony zakup i nadaj go za darmo 🫰"
         }
     },
     "orderDetails": {
@@ -1161,7 +1166,7 @@
             "messageBody": "Hej, znasz aplikację Wygodne Zwroty? 📦\nMożna dzięki niej wysłać zwrot do każdego sklepu internetowego w Polsce, a z moim kodem {} pierwszy zwrot masz za darmo 🧡 https://pobierz.wygodnezwroty.pl/",
             "successQuestion": "Czy udało Ci się polecić Wygodne Zwroty bliskiej osobie?",
             "successYes": "Tak",
-            "successNo": "Nie, chcę zrobić to jeszcze raz",
+            "successNo": "Nie",
             "successDescription": "@:packetExtension.successDescription {}"
         },
         "takeSurvey": {
