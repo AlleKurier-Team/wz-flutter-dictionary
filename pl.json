@@ -1172,8 +1172,8 @@
         },
         "takeSurvey": {
             "title": "💡 Podziel się z nami swoimi zwyczajami dotyczącymi zakupów i zwotów",
-            "timeToComplete": "@:packetExtension.timeToComplete ok. 3 minuty'",
-            "description": "Odpowiedz na kilka pytań na temat tego, jaką jesteś konsumentką, a ważność zwrotu zostanie przedłużona o {}.",
+            "timeToComplete": "@:packetExtension.timeToComplete ok. 2 minuty'",
+            "description": "Odpowiedz na dwa pytania o Twój ostatni zwrot zakupów, a ważność Twojego zwrotu zostanie przedłużona o {}.",
             "successDescription": "@:packetExtension.successDescription {} \n\nTwoje odpowiedzi pomogą nam stworzyć lepsze, bardziej dopasowane doświadczenie zakupowe!"
         },
         "buyPacket": {
@@ -1197,10 +1197,9 @@
             "option3": "Nie było jasne, jak nadać przesyłkę",
             "option4": "Nie dostałam/em informacji od sklepu o aktualnym statusie mojego zwrotu",
             "option5": "Nie wiedziałam/em, kiedy dostanę zwrot pieniędzy",
-            "option6": "Trudno było znaleźć informacje, jak zwrócić zamówienie",
-            "option7": "Zwrot pieniędzy trwał zbyt długo",
-            "option8": "Kontakt ze sklepem był utrudniony",
-            "option9": "Nie miałam/em żadnego problemu",
+            "option6": "Zwrot pieniędzy trwał zbyt długo",
+            "option7": "Kontakt ze sklepem był utrudniony",
+            "option8": "Nie miałam/em żadnego problemu",
             "other": "Inne",
             "otherFieldHint": "Wpisz swoją odpowiedź",
             "errorMessage": "Wybierz conajmniej jedną odpowiedź",
