@@ -115,7 +115,7 @@
         "helpAndContact": "Pomoc i kontakt",
         "deleteAccount": "Usuń konto",
         "discounts": "Zniżki i rabaty",
-        "promoCode": "Wprowadź kod rabatowy lub polecający",
+        "promoCode": "Wprowadź kod polecający",
         "logout": "Wyloguj się",
         "manage": "Zarządzaj"
     },
@@ -279,8 +279,8 @@
         "workingHours": "Centrum Wsparcia Klienta jest do Twojej dyspozycji od poniedziałku do piątku w godzinach 8:00-16:00"
     },
     "promoCodes": {
-        "empty": "Gdy dodasz kod rabatowy, pojawi się on tutaj. Kod zostanie do Twojego zwrotu automatycznie. Jeśli będziesz mieć więcej kodów, możesz wybrać kod, którego chcesz użyć.",
-        "enterButton": "Wprowadź kod rabatowy",
+        "empty": "Gdy dodasz otrzymany kod polecający, pojawi się on tutaj. Kod zostanie do Twojego zwrotu automatycznie.",
+        "enterButton": "Wprowadź kod polecający",
         "tile": {
             "free": "Zwrot za darmo",
             "halfPrice": "Zwrot za połowę ceny",
@@ -297,7 +297,7 @@
             "button": "Nadaj zwrot"
         },
         "addSheet": {
-            "codeFieldLabel": "Kod rabatowy",
+            "codeFieldLabel": "Kod polecający",
             "description": "Zniżka zostanie zastosowana do następnego zwrotu.",
             "errorMessage": "Pole nie może być puste"
         }
