@@ -1160,7 +1160,7 @@
         "notificationBodyDay": "Przedłuż go bezpłatnie, żeby nie stracić możliwości nadania 🧡",
         "referral": {
             "title": "🧡 Podziel się Wygodnymi Zwrotami z bliską osobą i podaruj jej darmowy zwrot",
-            "timeToComplete": "@:packetExtension.timeToComplete mniej niż 1 min.",
+            "timeToComplete": "@:packetExtension.timeToComplete mniej niż 1 minutę",
             "description": "Ważność zwrotu zostanie przedłużona o {}, a bliska Ci osoba otrzyma darmowy zwrot zwrot w aplikacji ważny 30 dni. Oferta dotyczy tylko nowych użytkowników aplikacji.",
             "messageTitle": "💬 Poleć Wygodne Zwroty znajomym",
             "messageSubject": "Mam dla Ciebie darmowy zwrot 🎁",
@@ -1172,7 +1172,7 @@
         },
         "survey": {
             "title": "💡 Podziel się z nami swoimi zwyczajami dotyczącymi zakupów i zwotów",
-            "timeToComplete": "@:packetExtension.timeToComplete ok. 2 minuty'",
+            "timeToComplete": "@:packetExtension.timeToComplete ok. 2 minuty",
             "description": "Odpowiedz na dwa pytania o Twój ostatni zwrot zakupów, a ważność Twojego zwrotu zostanie przedłużona o {}.",
             "successDescription": "@:packetExtension.successDescription {} \n\nTwoje odpowiedzi pomogą nam stworzyć lepsze, bardziej dopasowane doświadczenie zakupowe!"
         },
