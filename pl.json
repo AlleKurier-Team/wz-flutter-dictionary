@@ -464,6 +464,15 @@
         "recreateButton": "Utwórz taki sam zwrot",
         "cancelButton": "Anuluj przesyłkę",
         "deleteButton": "Usuń przesyłkę z listy zwrotów",
+        "cancelDialog": {
+            "title": "Anulowanie przesyłki",
+            "message": "Zwrot środków otrzymasz tą samą metodą, którą opłacone było zamówienie w ciągu maksymalnie 14 dni.\nCzy na pewno chcesz anulować przesyłkę?",
+            "packetMessage": "Zwrot z pakietu wróci do puli w ciągu maksymalnie 14 dni.\nCzy na pewno chcesz anulować przesyłkę?",
+            "yesButton": "Tak, chcę anulować przesyłkę",
+            "noButton": "Nie, zostawiam przesyłkę",
+            "successMessage": "Przesyłka została anulowana.\nZwrot środków otrzymasz tą samą metodą, którą opłacone było zamówienie w ciągu maksymalnie 14 dni. ",
+            "packetSuccessMessage": "Przesyłka została anulowana. zwrot z pakietu wróci do puli w ciągu maksymalnie 14 dni."
+        },
         "deleteDialog": {
             "title": "Usunięcie przesyłki z listy zwrotów",
             "message": "Czy na pewno chcesz usunąć przesyłkę z listy zwrotów? Operacji nie mona cofnąć.",
