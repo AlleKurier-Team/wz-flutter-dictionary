@@ -1173,7 +1173,7 @@
             "description": "Ważność zwrotu zostanie przedłużona o {}, a bliska Ci osoba otrzyma darmowy zwrot zwrot w aplikacji ważny 30 dni. Oferta dotyczy tylko nowych użytkowników aplikacji.",
             "messageTitle": "💬 Poleć Wygodne Zwroty znajomym",
             "messageSubject": "Mam dla Ciebie darmowy zwrot 🎁",
-            "messageBody": "Hej, znasz aplikację Wygodne Zwroty? 📦\nMożna dzięki niej wysłać zwrot do każdego sklepu internetowego w Polsce, a z moim kodem {code} pierwszy zwrot masz za darmo 🧡 Kod jest ważny do {date} i działa tylko dla nowych użytkowników aplikacji. https://pobierz.wygodnezwroty.pl/",
+            "messageBody": "Hej, znasz aplikację Wygodne Zwroty? 📦\nMożna dzięki niej wysłać zwrot do każdego sklepu internetowego w Polsce, a z moim kodem {code} pierwszy zwrot masz za darmo 🧡 Kod jest ważny do {date} i działa tylko dla nowych użytkowników aplikacji. https://pobierz.wygodnezwroty.pl/?q=polecam",
             "successQuestion": "Czy udało Ci się polecić Wygodne Zwroty bliskiej osobie?",
             "successYes": "Tak",
             "successNo": "Nie",
