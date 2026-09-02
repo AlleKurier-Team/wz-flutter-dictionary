@@ -458,7 +458,15 @@
         "invoiceData": "Dane do faktury",
         "retryPaymentButton": "Opłać przesyłkę",
         "retryPaymentDescription": "Przesyłka nie została opłacona. Dokonaj płatności, by móc nadać swój zwrot.",
-        "forApproval": "Wysłaliśmy informację do sklepu {}, że chcesz zwrócić swoje zamówienie.\nGdy sklep zaakceptuje Twoją przesyłkę zwrotną, poinformujemy Cię o tym powiadomieniem w aplikacji, a tutaj pojawi się Twój kod zwrotu."
+        "forApproval": "Wysłaliśmy informację do sklepu {}, że chcesz zwrócić swoje zamówienie.\nGdy sklep zaakceptuje Twoją przesyłkę zwrotną, poinformujemy Cię o tym powiadomieniem w aplikacji, a tutaj pojawi się Twój kod zwrotu.",
+        "changeSize": {
+            "title": "Rozmiar przesyłki",
+            "medium": "Średnia",
+            "params": "19 x 38 x 64 cm, 25 kg",
+            "description": "Chcesz zmienić rozmiar skrytki? Możesz to zrobić na ekranie urządzenia Paczkomat lub przez stronę internetową.",
+            "button": "Zmień rozmiar skrytki",
+            "details": "Po zmianie rozmiar skrytki w aplikacji pozostanie bez zmian, ale otworzy się wybrana przez Ciebie skrytka."
+        }
     },
     "orderOptions": {
         "recreateButton": "Utwórz taki sam zwrot",
