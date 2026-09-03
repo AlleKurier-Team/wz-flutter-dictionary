@@ -630,9 +630,42 @@
             "title": "Zgłoś sklep do Wygodnych Zwrotów",
             "fieldLabel": "Adres strony internetowej sklepu",
             "fieldHint": "Np. www.twojsklep.pl",
-            "description": "Zazwyczaj dodajemy sklep w ciągu 24h, w dni robocze. Po dodaniu sklepu wyślemy Ci powiadomienie na Twój adres e-mail.",
+            "description": "Zweryfikujemy czy jest możliwość dodania zgłoszonego przez Ciebie sklepu. Po pozytywnej weryfikacji, sklep dodajemy zazwyczaj w ciągu 24h, w dni robocze. Po dodaniu sklepu wyślemy Ci powiadomienie na Twój adres e-mail.",
             "button": "Wyślij zgłoszenie",
             "successMessage": "Otrzymaliśmy Twoje zgłoszenie. Wyślemy Ci wiadomość e-mail, gdy sklep zostanie dodany."
+        },
+        "advanced": {
+            "tile": {
+                "text": "Sklepu, którego szukasz nie ma na liście? Spróbuj wpisać adres www sklepu jak np. twojsklep.pl. Jeśli sklep dalej nie pojawia się w wynikach wyszukiwania, przejdź do zaawansowanego wyszukiwania.",
+                "button": "Wyszukiwanie zaawansowane"
+            },
+            "title": "Zaawansowane wyszukiwanie sklepu",
+            "searchDescription1": "Aby wyszukać sklep, podaj minimum jedną informację o sklepie. Im więcej danych podasz, tym bardziej szczegółowe będzie wyszukiwanie.",
+            "searchDescription2": "Szczegółowe informacje o sklepie znajdziesz na jego stronie internetowej lub w wiadomościach e-mail powiązanych z Twoim zamówieniem.",
+            "domainFieldLabel": "Adres strony internetowej sklepu",
+            "domainFieldHint": "Np. www.twojsklep.pl",
+            "domainParam": "Adres strony: ",
+            "nameFieldLabel": "Nazwa sklepu",
+            "nameFieldHint": "Np. Twój Sklep",
+            "nameParam": "Nazwa sklepu: ",
+            "emailFieldLabel": "E-mail sklepu",
+            "emailFieldHint": "Np. sklep@twojsklep.pl",
+            "emailParam": "E-mail: ",
+            "searchButton": "Wyszukaj sklep",
+            "notFound": "Nie znaleźliśmy sklepu internetowego o następujących parametrach:",
+            "foundStores": {
+                "one": "Znaleźliśmy **{} sklep** o podanych parametrach:",
+                "few": "Znaleźliśmy **{} sklepy** o podanych parametrach:",
+                "many": "Znaleźliśmy **{} sklepów** o podanych parametrach:",
+                "other": "Znaleźliśmy **{} sklepów** o podanych parametrach:"
+            },
+            "suggestTile": {
+                "text": "Jeśli sklep, którego szukasz wciąż nie pojawia się w wynikach wyszukiwania, daj znam znać, a zweryfikujemy możliwość jego dodania do Wygodnych Zwrotów.",
+                "button": "Zgłoś sklep"
+            },
+            "suggestButton": "Zgłoś brakujący sklep",
+            "backButton": "Wróć do wyszukiwania",
+            "emptyError": "Wymagane jest minimum 1 pole do wyszukiwania."
         }
     },
     "newOrderBar": {
